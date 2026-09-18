@@ -1,0 +1,10 @@
+Field	Value
+Title	IT Helpdesk Ticket Summary
+Classification	Internal
+RelatedToSDAIAQuebook	False
+Keywords	password reset; printer jam; laptop docking; VPN latency
+Reference	Description	Origin	Destination	Status
+GEN-876	Library Book Cartons	Facility Blue Port	Facility Blue Port	Pending
+GEN-931	Catering Supplies	Facility Falcon	Facility Desert Star	In Transit
+GEN-752	Catering Supplies	Facility Blue Port	Facility Blue Port	Pending
+GEN-808	Office Furniture Transfer	Facility Horizon	Facility Red Dune	Scheduled

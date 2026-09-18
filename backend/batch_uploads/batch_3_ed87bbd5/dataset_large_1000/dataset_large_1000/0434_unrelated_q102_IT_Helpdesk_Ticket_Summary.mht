@@ -1,0 +1,13 @@
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="----=_NextPart_000_0001_SDAIA"; type="text/html"
+Subject: IT Helpdesk Ticket Summary
+From: records.simulation@example.local
+
+------=_NextPart_000_0001_SDAIA
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+Content-Location: file:///fictional-report.html
+
+<html><body><h1>IT Helpdesk Ticket Summary</h1><p>FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.<br/>Title: IT Helpdesk Ticket Summary (Fictional)<br/>Document Number: FCT-2026-FBD82E<br/>Classification: Internal<br/>Prepared By: Records Management Division<br/>Date: 29 June 2026<br/>Executive Summary<br/>This memo covers routine administrative activity for IT support tickets. It contains no defense, security, or national sensitivity indicators.<br/>Activity Overview<br/>Between 29 June 2026 and 11 July 2026, staff completed ordinary tasks related to IT support tickets. Mentions include 'laptop docking' and 'password reset' for operational clarity only.<br/>Facilities Involved<br/>- Facility Horizon (Eastern Region)<br/>- Facility Falcon (Central Region)<br/>- Facility Oasis (Northern Region)<br/>- Facility Red Dune (Southern Region)<br/>Operational Controls<br/>- Supervisor sign-off for purchases over SAR 500.<br/>- Weekly checklist completion.<br/>- Public notice board posting where relevant.<br/>- Standard records retention of 12 months.<br/>Classification Indicators<br/>- laptop docking<br/>- password reset<br/>- VPN latency<br/>- printer jam<br/>- Internal Use<br/>- Routine Operations<br/>- Public Notice<br/>Conclusion<br/>This fictional record represents ordinary non-sensitive administrative content for baseline testing.<br/>END OF DOCUMENT</p>
+<p>Keywords: laptop docking, password reset, VPN latency, printer jam</p></body></html>
+------=_NextPart_000_0001_SDAIA--

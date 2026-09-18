@@ -1,0 +1,56 @@
+{
+  "disclaimer": "FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.",
+  "title": "Facilities Maintenance Schedule",
+  "documentNumber": "FCT-2026-1F3C50",
+  "classification": "Internal",
+  "relatedToSDAIAQuebook": false,
+  "preparedBy": "Compliance & Governance Unit",
+  "date": "2026-07-10T00:00:00",
+  "summary": "This memo covers routine administrative activity for facilities maintenance. It contains no defense, security, or national sensitivity indicators.",
+  "overview": "Between 10 July 2026 and 22 July 2026, staff completed ordinary tasks related to facilities maintenance. Mentions include 'lighting upgrade' and 'elevator inspection' for operational clarity only.",
+  "keywords": [
+    "lighting upgrade",
+    "elevator inspection",
+    "parking lot paint",
+    "HVAC filter"
+  ],
+  "indicators": [
+    "lighting upgrade",
+    "elevator inspection",
+    "parking lot paint",
+    "HVAC filter",
+    "Internal Use",
+    "Routine Operations",
+    "Public Notice"
+  ],
+  "register": [
+    {
+      "Reference": "GEN-960",
+      "Description": "Sports Equipment Bundle",
+      "Origin": "Facility Red Dune",
+      "Destination": "Facility Falcon",
+      "Status": "In Transit"
+    },
+    {
+      "Reference": "GEN-543",
+      "Description": "Garden Tools Set",
+      "Origin": "Facility Blue Port",
+      "Destination": "Facility Desert Star",
+      "Status": "Scheduled"
+    },
+    {
+      "Reference": "GEN-842",
+      "Description": "Office Furniture Transfer",
+      "Origin": "Facility Horizon",
+      "Destination": "Facility Blue Port",
+      "Status": "In Transit"
+    },
+    {
+      "Reference": "GEN-521",
+      "Description": "Office Furniture Transfer",
+      "Origin": "Facility Desert Star",
+      "Destination": "Facility Blue Port",
+      "Status": "In Transit"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "disclaimer": "FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.",
+  "title": "Library Acquisition List",
+  "documentNumber": "FCT-2026-B208DC",
+  "classification": "Public",
+  "relatedToSDAIAQuebook": false,
+  "preparedBy": "Continuity Planning Desk",
+  "date": "2026-06-03T00:00:00",
+  "summary": "This memo covers routine administrative activity for library acquisitions. It contains no defense, security, or national sensitivity indicators.",
+  "overview": "Between 03 June 2026 and 11 June 2026, staff completed ordinary tasks related to library acquisitions. Mentions include 'interlibrary loan' and 'cataloguing' for operational clarity only.",
+  "keywords": [
+    "interlibrary loan",
+    "cataloguing",
+    "reading club",
+    "fiction collection"
+  ],
+  "indicators": [
+    "interlibrary loan",
+    "cataloguing",
+    "reading club",
+    "fiction collection",
+    "Internal Use",
+    "Routine Operations",
+    "Public Notice"
+  ],
+  "register": [
+    {
+      "Reference": "GEN-237",
+      "Description": "Stationery Reorder Pack",
+      "Origin": "Facility Oasis",
+      "Destination": "Facility Oasis",
+      "Status": "Pending"
+    },
+    {
+      "Reference": "GEN-713",
+      "Description": "Catering Supplies",
+      "Origin": "Facility Red Dune",
+      "Destination": "Facility Desert Star",
+      "Status": "In Transit"
+    },
+    {
+      "Reference": "GEN-219",
+      "Description": "Office Furniture Transfer",
+      "Origin": "Facility Falcon",
+      "Destination": "Facility Oasis",
+      "Status": "Completed"
+    },
+    {
+      "Reference": "GEN-229",
+      "Description": "Library Book Cartons",
+      "Origin": "Facility Red Dune",
+      "Destination": "Facility Red Dune",
+      "Status": "In Transit"
+    }
+  ]
+}

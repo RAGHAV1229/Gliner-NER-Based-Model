@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fictionalReport relatedToSDAIAQuebook="true">
+  <meta>
+    <title>Strategic Resource Outlook</title>
+    <documentNumber>FCT-2026-3283EF</documentNumber>
+    <classification>Secret</classification>
+    <preparedBy>Logistics Coordination Office</preparedBy>
+  </meta>
+  <disclaimer>FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.</disclaimer>
+  <summary>This report summarizes simulated activity related to strategic natural resources across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: oil reserve, mining, Brent, resource depletion, OPEC.</summary>
+  <overview>During the period between 24 June 2026 and 06 July 2026, the fictional coordination office recorded controlled entries associated with strategic natural resources. References such as 'oil reserve', 'mining', and 'Brent' are embedded for AI sensitivity scoring.</overview>
+  <keywords><keyword>oil reserve</keyword><keyword>mining</keyword><keyword>Brent</keyword><keyword>resource depletion</keyword><keyword>OPEC</keyword><keyword>petroleum exports</keyword><keyword>crude oil</keyword><keyword>production quota</keyword></keywords>
+  <register><entry ref='RSA-135' description='Simulated Weapons Training Kits' origin='Facility Oasis' destination='Facility Falcon' status='In Transit'/><entry ref='RSA-986' description='Encrypted Transport Cases' origin='Facility Horizon' destination='Facility Desert Star' status='Pending'/><entry ref='RSA-698' description='Restricted Training Equipment' origin='Facility Desert Star' destination='Facility Red Dune' status='Scheduled'/><entry ref='RSA-203' description='Restricted Training Equipment' origin='Facility Oasis' destination='Facility Horizon' status='Pending'/></register>
+</fictionalReport>

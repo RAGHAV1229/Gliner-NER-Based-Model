@@ -1,0 +1,10 @@
+Field	Value
+Title	National Reputation Risk Watchlist
+Classification	Top Secret
+RelatedToSDAIAQuebook	True
+Keywords	diplomatic crisis; international criticism; bribery; corruption; money laundering; sanctions; human rights violation; censorship
+Reference	Description	Origin	Destination	Status
+RSA-690	Simulated Weapons Training Kits	Facility Blue Port	Facility Oasis	In Transit
+RSA-431	Simulated Weapons Training Kits	Facility Red Dune	Facility Blue Port	Completed
+RSA-657	Encrypted Transport Cases	Facility Oasis	Facility Red Dune	In Transit
+RSA-282	Encrypted Transport Cases	Facility Horizon	Facility Oasis	Pending

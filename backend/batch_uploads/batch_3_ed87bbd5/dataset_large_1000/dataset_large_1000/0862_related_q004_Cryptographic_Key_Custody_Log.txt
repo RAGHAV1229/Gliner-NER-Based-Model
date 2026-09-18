@@ -1,0 +1,87 @@
+FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.
+
+Title: Cryptographic Key Custody Log (Fictional)
+
+Document Number: FCT-2026-88C476
+
+Classification: Top Secret
+
+Prepared By: Compliance & Governance Unit
+
+Date: 23 June 2026
+
+Executive Summary
+
+This report summarizes simulated activity related to encryption and security mechanisms across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: VPN key, RSA, secret key, cryptographic key, TLS certificate.
+
+Activity Overview
+
+During the period between 23 June 2026 and 30 June 2026, the fictional coordination office recorded controlled entries associated with encryption and security mechanisms. References such as 'VPN key', 'RSA', and 'secret key' are embedded for AI sensitivity scoring.
+
+Facilities Involved
+
+- Facility Desert Star (Western Region)
+
+- Facility Horizon (Eastern Region)
+
+- Facility Red Dune (Southern Region)
+
+- Facility Falcon (Central Region)
+
+Operational Controls
+
+- Dual authorization by department managers.
+
+- Identity verification of all personnel involved.
+
+- Digital audit logging of manifests.
+
+- Encrypted storage of transportation records.
+
+- Keywords tracked for classification: VPN key, RSA, secret key, cryptographic key, TLS certificate, key management, AES, PKI.
+
+Classification Indicators
+
+- VPN key
+
+- RSA
+
+- secret key
+
+- cryptographic key
+
+- TLS certificate
+
+- key management
+
+- AES
+
+- PKI
+
+- Restricted Asset
+
+- Confidential
+
+- Authorized Personnel
+
+- Chain of Custody
+
+- Sensitive Information
+
+Conclusion
+
+This fictional record is intended exclusively for AI classification, governance, and Hyland Document Filters text-extraction Proof of Concept testing.
+
+END OF DOCUMENT
+
+Sample Register
+
+Reference | Description | Origin | Destination | Status
+
+RSA-668 | Simulated Weapons Training Kits | Facility Oasis | Facility Falcon | Scheduled
+
+RSA-957 | Authorized Logistics Packages | Facility Horizon | Facility Red Dune | Completed
+
+RSA-443 | Encrypted Transport Cases | Facility Red Dune | Facility Falcon | In Transit
+
+RSA-189 | Authorized Logistics Packages | Facility Desert Star | Facility Red Dune | Scheduled

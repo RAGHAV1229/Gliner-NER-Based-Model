@@ -1,0 +1,56 @@
+{
+  "disclaimer": "FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.",
+  "title": "Marketing Campaign Retro",
+  "documentNumber": "FCT-2026-4096A6",
+  "classification": "Internal",
+  "relatedToSDAIAQuebook": false,
+  "preparedBy": "Continuity Planning Desk",
+  "date": "2026-06-17T00:00:00",
+  "summary": "This memo covers routine administrative activity for marketing analytics. It contains no defense, security, or national sensitivity indicators.",
+  "overview": "Between 17 June 2026 and 08 July 2026, staff completed ordinary tasks related to marketing analytics. Mentions include 'brand awareness' and 'social media post' for operational clarity only.",
+  "keywords": [
+    "brand awareness",
+    "social media post",
+    "newsletter open rate",
+    "click-through rate"
+  ],
+  "indicators": [
+    "brand awareness",
+    "social media post",
+    "newsletter open rate",
+    "click-through rate",
+    "Internal Use",
+    "Routine Operations",
+    "Public Notice"
+  ],
+  "register": [
+    {
+      "Reference": "GEN-737",
+      "Description": "Office Furniture Transfer",
+      "Origin": "Facility Oasis",
+      "Destination": "Facility Oasis",
+      "Status": "Pending"
+    },
+    {
+      "Reference": "GEN-809",
+      "Description": "Sports Equipment Bundle",
+      "Origin": "Facility Red Dune",
+      "Destination": "Facility Falcon",
+      "Status": "In Transit"
+    },
+    {
+      "Reference": "GEN-759",
+      "Description": "Catering Supplies",
+      "Origin": "Facility Falcon",
+      "Destination": "Facility Red Dune",
+      "Status": "Completed"
+    },
+    {
+      "Reference": "GEN-980",
+      "Description": "Library Book Cartons",
+      "Origin": "Facility Oasis",
+      "Destination": "Facility Red Dune",
+      "Status": "In Transit"
+    }
+  ]
+}

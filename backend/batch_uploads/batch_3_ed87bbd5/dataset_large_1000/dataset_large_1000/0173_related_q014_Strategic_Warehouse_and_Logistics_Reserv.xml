@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fictionalReport relatedToSDAIAQuebook="true">
+  <meta>
+    <title>Strategic Warehouse and Logistics Reserve Register</title>
+    <documentNumber>FCT-2026-8C687E</documentNumber>
+    <classification>Secret</classification>
+    <preparedBy>Continuity Planning Desk</preparedBy>
+  </meta>
+  <disclaimer>FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.</disclaimer>
+  <summary>This report summarizes simulated activity related to strategic warehouses and logistics across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: supply depot, inventory reserve, storage facility, logistics center, warehouse.</summary>
+  <overview>During the period between 02 June 2026 and 20 June 2026, the fictional coordination office recorded controlled entries associated with strategic warehouses and logistics. References such as 'supply depot', 'inventory reserve', and 'storage facility' are embedded for AI sensitivity scoring.</overview>
+  <keywords><keyword>supply depot</keyword><keyword>inventory reserve</keyword><keyword>storage facility</keyword><keyword>logistics center</keyword><keyword>warehouse</keyword><keyword>fuel depot</keyword><keyword>emergency stockpile</keyword><keyword>strategic reserve</keyword></keywords>
+  <register><entry ref='RSA-444' description='Security Training Materials' origin='Facility Desert Star' destination='Facility Red Dune' status='Pending'/><entry ref='RSA-484' description='Authorized Logistics Packages' origin='Facility Oasis' destination='Facility Red Dune' status='Completed'/><entry ref='RSA-109' description='Security Training Materials' origin='Facility Falcon' destination='Facility Desert Star' status='Scheduled'/><entry ref='RSA-438' description='Security Training Materials' origin='Facility Red Dune' destination='Facility Blue Port' status='Scheduled'/></register>
+</fictionalReport>

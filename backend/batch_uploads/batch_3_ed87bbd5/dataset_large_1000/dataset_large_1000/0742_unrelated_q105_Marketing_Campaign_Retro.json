@@ -1,0 +1,56 @@
+{
+  "disclaimer": "FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.",
+  "title": "Marketing Campaign Retro",
+  "documentNumber": "FCT-2026-06DE2C",
+  "classification": "Internal",
+  "relatedToSDAIAQuebook": false,
+  "preparedBy": "Logistics Coordination Office",
+  "date": "2026-06-03T00:00:00",
+  "summary": "This memo covers routine administrative activity for marketing analytics. It contains no defense, security, or national sensitivity indicators.",
+  "overview": "Between 03 June 2026 and 22 June 2026, staff completed ordinary tasks related to marketing analytics. Mentions include 'brand awareness' and 'click-through rate' for operational clarity only.",
+  "keywords": [
+    "brand awareness",
+    "click-through rate",
+    "social media post",
+    "newsletter open rate"
+  ],
+  "indicators": [
+    "brand awareness",
+    "click-through rate",
+    "social media post",
+    "newsletter open rate",
+    "Internal Use",
+    "Routine Operations",
+    "Public Notice"
+  ],
+  "register": [
+    {
+      "Reference": "GEN-540",
+      "Description": "Sports Equipment Bundle",
+      "Origin": "Facility Oasis",
+      "Destination": "Facility Falcon",
+      "Status": "Pending"
+    },
+    {
+      "Reference": "GEN-742",
+      "Description": "Office Furniture Transfer",
+      "Origin": "Facility Horizon",
+      "Destination": "Facility Red Dune",
+      "Status": "Completed"
+    },
+    {
+      "Reference": "GEN-278",
+      "Description": "Garden Tools Set",
+      "Origin": "Facility Horizon",
+      "Destination": "Facility Falcon",
+      "Status": "Completed"
+    },
+    {
+      "Reference": "GEN-780",
+      "Description": "Garden Tools Set",
+      "Origin": "Facility Desert Star",
+      "Destination": "Facility Horizon",
+      "Status": "In Transit"
+    }
+  ]
+}

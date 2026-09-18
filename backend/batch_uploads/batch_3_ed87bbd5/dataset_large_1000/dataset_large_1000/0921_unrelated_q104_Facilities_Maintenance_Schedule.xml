@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fictionalReport relatedToSDAIAQuebook="false">
+  <meta>
+    <title>Facilities Maintenance Schedule</title>
+    <documentNumber>FCT-2026-CD025B</documentNumber>
+    <classification>Internal</classification>
+    <preparedBy>Logistics Coordination Office</preparedBy>
+  </meta>
+  <disclaimer>FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.</disclaimer>
+  <summary>This memo covers routine administrative activity for facilities maintenance. It contains no defense, security, or national sensitivity indicators.</summary>
+  <overview>Between 14 July 2026 and 31 July 2026, staff completed ordinary tasks related to facilities maintenance. Mentions include 'elevator inspection' and 'parking lot paint' for operational clarity only.</overview>
+  <keywords><keyword>elevator inspection</keyword><keyword>parking lot paint</keyword><keyword>lighting upgrade</keyword><keyword>HVAC filter</keyword></keywords>
+  <register><entry ref='GEN-412' description='Catering Supplies' origin='Facility Oasis' destination='Facility Oasis' status='Pending'/><entry ref='GEN-861' description='Catering Supplies' origin='Facility Red Dune' destination='Facility Blue Port' status='Pending'/><entry ref='GEN-208' description='Office Furniture Transfer' origin='Facility Horizon' destination='Facility Falcon' status='In Transit'/><entry ref='GEN-100' description='Garden Tools Set' origin='Facility Falcon' destination='Facility Blue Port' status='Scheduled'/></register>
+</fictionalReport>

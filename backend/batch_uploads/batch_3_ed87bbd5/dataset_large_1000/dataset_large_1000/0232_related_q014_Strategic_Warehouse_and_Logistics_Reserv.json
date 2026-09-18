@@ -1,0 +1,66 @@
+{
+  "disclaimer": "FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.",
+  "title": "Strategic Warehouse and Logistics Reserve Register",
+  "documentNumber": "FCT-2026-6D1673",
+  "classification": "Secret",
+  "relatedToSDAIAQuebook": true,
+  "preparedBy": "Continuity Planning Desk",
+  "date": "2026-06-15T00:00:00",
+  "summary": "This report summarizes simulated activity related to strategic warehouses and logistics across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: inventory reserve, fuel depot, logistics center, emergency stockpile, strategic reserve.",
+  "overview": "During the period between 15 June 2026 and 06 July 2026, the fictional coordination office recorded controlled entries associated with strategic warehouses and logistics. References such as 'inventory reserve', 'fuel depot', and 'logistics center' are embedded for AI sensitivity scoring.",
+  "keywords": [
+    "inventory reserve",
+    "fuel depot",
+    "logistics center",
+    "emergency stockpile",
+    "strategic reserve",
+    "warehouse",
+    "supply depot",
+    "storage facility"
+  ],
+  "indicators": [
+    "inventory reserve",
+    "fuel depot",
+    "logistics center",
+    "emergency stockpile",
+    "strategic reserve",
+    "warehouse",
+    "supply depot",
+    "storage facility",
+    "Restricted Asset",
+    "Confidential",
+    "Authorized Personnel",
+    "Chain of Custody",
+    "Sensitive Information"
+  ],
+  "register": [
+    {
+      "Reference": "RSA-934",
+      "Description": "Simulated Weapons Training Kits",
+      "Origin": "Facility Blue Port",
+      "Destination": "Facility Falcon",
+      "Status": "In Transit"
+    },
+    {
+      "Reference": "RSA-206",
+      "Description": "Encrypted Transport Cases",
+      "Origin": "Facility Red Dune",
+      "Destination": "Facility Falcon",
+      "Status": "Completed"
+    },
+    {
+      "Reference": "RSA-479",
+      "Description": "Controlled Inventory Containers",
+      "Origin": "Facility Falcon",
+      "Destination": "Facility Blue Port",
+      "Status": "Scheduled"
+    },
+    {
+      "Reference": "RSA-157",
+      "Description": "Security Training Materials",
+      "Origin": "Facility Oasis",
+      "Destination": "Facility Desert Star",
+      "Status": "Pending"
+    }
+  ]
+}

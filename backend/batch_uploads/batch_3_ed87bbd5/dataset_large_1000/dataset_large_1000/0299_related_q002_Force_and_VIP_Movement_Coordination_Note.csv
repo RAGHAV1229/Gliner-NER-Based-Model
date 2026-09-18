@@ -1,0 +1,13 @@
+Field,Value
+Title,Force and VIP Movement Coordination Note
+DocumentNumber,FCT-2026-D75627
+Classification,Top Secret
+RelatedToSDAIAQuebook,True
+Keywords,checkpoint; motorcade; escort; National Guard; VIP movement; deployment; military exercise; operational route
+Summary,"This report summarizes simulated activity related to armed forces and VIP movement across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: checkpoint, motorcade, escort, National Guard, VIP movement."
+
+Reference,Description,Origin,Destination,Status
+RSA-407,Security Training Materials,Facility Red Dune,Facility Desert Star,Completed
+RSA-181,Security Training Materials,Facility Desert Star,Facility Falcon,Scheduled
+RSA-720,Authorized Logistics Packages,Facility Oasis,Facility Blue Port,Completed
+RSA-848,Authorized Logistics Packages,Facility Horizon,Facility Red Dune,Pending

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fictionalReport relatedToSDAIAQuebook="false">
+  <meta>
+    <title>IT Helpdesk Ticket Summary</title>
+    <documentNumber>FCT-2026-A18F0C</documentNumber>
+    <classification>Internal</classification>
+    <preparedBy>Records Management Division</preparedBy>
+  </meta>
+  <disclaimer>FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.</disclaimer>
+  <summary>This memo covers routine administrative activity for IT support tickets. It contains no defense, security, or national sensitivity indicators.</summary>
+  <overview>Between 09 June 2026 and 23 June 2026, staff completed ordinary tasks related to IT support tickets. Mentions include 'VPN latency' and 'printer jam' for operational clarity only.</overview>
+  <keywords><keyword>VPN latency</keyword><keyword>printer jam</keyword><keyword>password reset</keyword><keyword>laptop docking</keyword></keywords>
+  <register><entry ref='GEN-541' description='Office Furniture Transfer' origin='Facility Falcon' destination='Facility Falcon' status='In Transit'/><entry ref='GEN-656' description='Stationery Reorder Pack' origin='Facility Blue Port' destination='Facility Horizon' status='Completed'/><entry ref='GEN-989' description='Office Furniture Transfer' origin='Facility Red Dune' destination='Facility Desert Star' status='Scheduled'/><entry ref='GEN-898' description='Garden Tools Set' origin='Facility Red Dune' destination='Facility Red Dune' status='Pending'/></register>
+</fictionalReport>

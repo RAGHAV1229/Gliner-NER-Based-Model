@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fictionalReport relatedToSDAIAQuebook="true">
+  <meta>
+    <title>Force and VIP Movement Coordination Note</title>
+    <documentNumber>FCT-2026-A40937</documentNumber>
+    <classification>Top Secret</classification>
+    <preparedBy>Logistics Coordination Office</preparedBy>
+  </meta>
+  <disclaimer>FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.</disclaimer>
+  <summary>This report summarizes simulated activity related to armed forces and VIP movement across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: deployment, mobilization, convoy, checkpoint, VIP movement.</summary>
+  <overview>During the period between 11 June 2026 and 02 July 2026, the fictional coordination office recorded controlled entries associated with armed forces and VIP movement. References such as 'deployment', 'mobilization', and 'convoy' are embedded for AI sensitivity scoring.</overview>
+  <keywords><keyword>deployment</keyword><keyword>mobilization</keyword><keyword>convoy</keyword><keyword>checkpoint</keyword><keyword>VIP movement</keyword><keyword>escort</keyword><keyword>troop movement</keyword><keyword>Royal Guard</keyword></keywords>
+  <register><entry ref='RSA-737' description='Encrypted Transport Cases' origin='Facility Red Dune' destination='Facility Horizon' status='Completed'/><entry ref='RSA-651' description='Security Training Materials' origin='Facility Desert Star' destination='Facility Blue Port' status='Completed'/><entry ref='RSA-710' description='Simulated Weapons Training Kits' origin='Facility Desert Star' destination='Facility Horizon' status='Scheduled'/><entry ref='RSA-229' description='Simulated Weapons Training Kits' origin='Facility Desert Star' destination='Facility Blue Port' status='In Transit'/></register>
+</fictionalReport>

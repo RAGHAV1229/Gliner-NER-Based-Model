@@ -1,0 +1,73 @@
+FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.
+
+Title: Sports Club Training Roster (Fictional)
+
+Document Number: FCT-2026-560607
+
+Classification: Public
+
+Prepared By: Security Operations Department
+
+Date: 10 July 2026
+
+Executive Summary
+
+This memo covers routine administrative activity for sports training. It contains no defense, security, or national sensitivity indicators.
+
+Activity Overview
+
+Between 10 July 2026 and 19 July 2026, staff completed ordinary tasks related to sports training. Mentions include 'football drills' and 'attendance sheet' for operational clarity only.
+
+Facilities Involved
+
+- Facility Desert Star (Western Region)
+
+- Facility Blue Port (Coastal Region)
+
+- Facility Oasis (Northern Region)
+
+- Facility Horizon (Eastern Region)
+
+Operational Controls
+
+- Supervisor sign-off for purchases over SAR 500.
+
+- Weekly checklist completion.
+
+- Public notice board posting where relevant.
+
+- Standard records retention of 12 months.
+
+Classification Indicators
+
+- football drills
+
+- attendance sheet
+
+- coach notes
+
+- injury recovery
+
+- Internal Use
+
+- Routine Operations
+
+- Public Notice
+
+Conclusion
+
+This fictional record represents ordinary non-sensitive administrative content for baseline testing.
+
+END OF DOCUMENT
+
+Sample Register
+
+Reference | Description | Origin | Destination | Status
+
+GEN-708 | Stationery Reorder Pack | Facility Desert Star | Facility Desert Star | Completed
+
+GEN-355 | Sports Equipment Bundle | Facility Blue Port | Facility Red Dune | In Transit
+
+GEN-504 | Office Furniture Transfer | Facility Horizon | Facility Falcon | Completed
+
+GEN-864 | Library Book Cartons | Facility Horizon | Facility Desert Star | Completed

@@ -1,0 +1,13 @@
+Field,Value
+Title,Cryptographic Key Custody Log
+DocumentNumber,FCT-2026-03B0FF
+Classification,Top Secret
+RelatedToSDAIAQuebook,True
+Keywords,cryptographic key; PKI; secret key; root certificate; RSA; certificate authority; key management; private key
+Summary,"This report summarizes simulated activity related to encryption and security mechanisms across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: cryptographic key, PKI, secret key, root certificate, RSA."
+
+Reference,Description,Origin,Destination,Status
+RSA-723,Restricted Training Equipment,Facility Horizon,Facility Red Dune,Scheduled
+RSA-980,Encrypted Transport Cases,Facility Horizon,Facility Horizon,In Transit
+RSA-179,Simulated Weapons Training Kits,Facility Red Dune,Facility Red Dune,Scheduled
+RSA-961,Security Training Materials,Facility Falcon,Facility Falcon,Scheduled

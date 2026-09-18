@@ -1,0 +1,87 @@
+FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.
+
+Title: Vital National Installation Status Sheet (Fictional)
+
+Document Number: FCT-2026-C398C6
+
+Classification: Secret
+
+Prepared By: Continuity Planning Desk
+
+Date: 09 July 2026
+
+Executive Summary
+
+This report summarizes simulated activity related to vital national installations across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: military base, seaport, desalination plant, command center, government facility.
+
+Activity Overview
+
+During the period between 09 July 2026 and 25 July 2026, the fictional coordination office recorded controlled entries associated with vital national installations. References such as 'military base', 'seaport', and 'desalination plant' are embedded for AI sensitivity scoring.
+
+Facilities Involved
+
+- Facility Oasis (Northern Region)
+
+- Facility Falcon (Central Region)
+
+- Facility Desert Star (Western Region)
+
+- Facility Blue Port (Coastal Region)
+
+Operational Controls
+
+- Dual authorization by department managers.
+
+- Identity verification of all personnel involved.
+
+- Digital audit logging of manifests.
+
+- Encrypted storage of transportation records.
+
+- Keywords tracked for classification: military base, seaport, desalination plant, command center, government facility, power station, telecom exchange, airport.
+
+Classification Indicators
+
+- military base
+
+- seaport
+
+- desalination plant
+
+- command center
+
+- government facility
+
+- power station
+
+- telecom exchange
+
+- airport
+
+- Restricted Asset
+
+- Confidential
+
+- Authorized Personnel
+
+- Chain of Custody
+
+- Sensitive Information
+
+Conclusion
+
+This fictional record is intended exclusively for AI classification, governance, and Hyland Document Filters text-extraction Proof of Concept testing.
+
+END OF DOCUMENT
+
+Sample Register
+
+Reference | Description | Origin | Destination | Status
+
+RSA-371 | Authorized Logistics Packages | Facility Red Dune | Facility Desert Star | In Transit
+
+RSA-221 | Restricted Training Equipment | Facility Falcon | Facility Blue Port | Pending
+
+RSA-967 | Restricted Training Equipment | Facility Horizon | Facility Falcon | Scheduled
+
+RSA-402 | Restricted Training Equipment | Facility Horizon | Facility Falcon | Scheduled

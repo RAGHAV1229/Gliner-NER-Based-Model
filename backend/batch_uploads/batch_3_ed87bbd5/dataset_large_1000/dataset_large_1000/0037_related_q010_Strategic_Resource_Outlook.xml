@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fictionalReport relatedToSDAIAQuebook="true">
+  <meta>
+    <title>Strategic Resource Outlook</title>
+    <documentNumber>FCT-2026-B1C0C1</documentNumber>
+    <classification>Secret</classification>
+    <preparedBy>Continuity Planning Desk</preparedBy>
+  </meta>
+  <disclaimer>FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.</disclaimer>
+  <summary>This report summarizes simulated activity related to strategic natural resources across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: resource depletion, petroleum exports, commodity price, production quota, oil reserve.</summary>
+  <overview>During the period between 14 June 2026 and 01 July 2026, the fictional coordination office recorded controlled entries associated with strategic natural resources. References such as 'resource depletion', 'petroleum exports', and 'commodity price' are embedded for AI sensitivity scoring.</overview>
+  <keywords><keyword>resource depletion</keyword><keyword>petroleum exports</keyword><keyword>commodity price</keyword><keyword>production quota</keyword><keyword>oil reserve</keyword><keyword>crude oil</keyword><keyword>natural gas</keyword><keyword>Brent</keyword></keywords>
+  <register><entry ref='RSA-691' description='Restricted Training Equipment' origin='Facility Horizon' destination='Facility Red Dune' status='Pending'/><entry ref='RSA-396' description='Controlled Inventory Containers' origin='Facility Falcon' destination='Facility Falcon' status='Pending'/><entry ref='RSA-853' description='Restricted Training Equipment' origin='Facility Oasis' destination='Facility Falcon' status='Scheduled'/><entry ref='RSA-190' description='Restricted Training Equipment' origin='Facility Horizon' destination='Facility Blue Port' status='In Transit'/></register>
+</fictionalReport>

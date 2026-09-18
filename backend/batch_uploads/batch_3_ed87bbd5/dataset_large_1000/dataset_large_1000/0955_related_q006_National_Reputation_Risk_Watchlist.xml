@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fictionalReport relatedToSDAIAQuebook="true">
+  <meta>
+    <title>National Reputation Risk Watchlist</title>
+    <documentNumber>FCT-2026-3C7445</documentNumber>
+    <classification>Top Secret</classification>
+    <preparedBy>Logistics Coordination Office</preparedBy>
+  </meta>
+  <disclaimer>FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.</disclaimer>
+  <summary>This report summarizes simulated activity related to national reputation risk across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: diplomatic crisis, bribery, human rights violation, scandal, sanctions.</summary>
+  <overview>During the period between 15 July 2026 and 26 July 2026, the fictional coordination office recorded controlled entries associated with national reputation risk. References such as 'diplomatic crisis', 'bribery', and 'human rights violation' are embedded for AI sensitivity scoring.</overview>
+  <keywords><keyword>diplomatic crisis</keyword><keyword>bribery</keyword><keyword>human rights violation</keyword><keyword>scandal</keyword><keyword>sanctions</keyword><keyword>corruption</keyword><keyword>money laundering</keyword><keyword>censorship</keyword></keywords>
+  <register><entry ref='RSA-680' description='Restricted Training Equipment' origin='Facility Oasis' destination='Facility Blue Port' status='Pending'/><entry ref='RSA-959' description='Authorized Logistics Packages' origin='Facility Blue Port' destination='Facility Desert Star' status='Scheduled'/><entry ref='RSA-429' description='Restricted Training Equipment' origin='Facility Red Dune' destination='Facility Falcon' status='Scheduled'/><entry ref='RSA-660' description='Restricted Training Equipment' origin='Facility Oasis' destination='Facility Falcon' status='Completed'/></register>
+</fictionalReport>

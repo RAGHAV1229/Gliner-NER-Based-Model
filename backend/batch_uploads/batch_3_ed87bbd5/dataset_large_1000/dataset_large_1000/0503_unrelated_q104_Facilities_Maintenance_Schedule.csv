@@ -1,0 +1,13 @@
+Field,Value
+Title,Facilities Maintenance Schedule
+DocumentNumber,FCT-2026-D981FE
+Classification,Internal
+RelatedToSDAIAQuebook,False
+Keywords,lighting upgrade; parking lot paint; HVAC filter; elevator inspection
+Summary,"This memo covers routine administrative activity for facilities maintenance. It contains no defense, security, or national sensitivity indicators."
+
+Reference,Description,Origin,Destination,Status
+GEN-221,Library Book Cartons,Facility Red Dune,Facility Falcon,Pending
+GEN-237,Stationery Reorder Pack,Facility Falcon,Facility Oasis,Completed
+GEN-531,Sports Equipment Bundle,Facility Oasis,Facility Blue Port,In Transit
+GEN-699,Sports Equipment Bundle,Facility Desert Star,Facility Red Dune,In Transit

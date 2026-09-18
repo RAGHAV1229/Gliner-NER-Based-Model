@@ -1,0 +1,13 @@
+Field,Value
+Title,Library Acquisition List
+DocumentNumber,FCT-2026-2350BD
+Classification,Public
+RelatedToSDAIAQuebook,False
+Keywords,cataloguing; fiction collection; reading club; interlibrary loan
+Summary,"This memo covers routine administrative activity for library acquisitions. It contains no defense, security, or national sensitivity indicators."
+
+Reference,Description,Origin,Destination,Status
+GEN-915,Stationery Reorder Pack,Facility Blue Port,Facility Falcon,Pending
+GEN-263,Stationery Reorder Pack,Facility Falcon,Facility Red Dune,Scheduled
+GEN-114,Catering Supplies,Facility Red Dune,Facility Blue Port,Scheduled
+GEN-294,Stationery Reorder Pack,Facility Falcon,Facility Red Dune,In Transit

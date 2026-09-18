@@ -1,0 +1,13 @@
+Field,Value
+Title,Strategic Resource Outlook
+DocumentNumber,FCT-2026-82299C
+Classification,Secret
+RelatedToSDAIAQuebook,True
+Keywords,Brent; petroleum exports; OPEC; mining; production quota; natural gas; resource depletion; commodity price
+Summary,"This report summarizes simulated activity related to strategic natural resources across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: Brent, petroleum exports, OPEC, mining, production quota."
+
+Reference,Description,Origin,Destination,Status
+RSA-234,Restricted Training Equipment,Facility Blue Port,Facility Falcon,In Transit
+RSA-251,Simulated Weapons Training Kits,Facility Red Dune,Facility Falcon,Scheduled
+RSA-476,Controlled Inventory Containers,Facility Desert Star,Facility Blue Port,In Transit
+RSA-729,Simulated Weapons Training Kits,Facility Desert Star,Facility Red Dune,Scheduled

@@ -1,0 +1,13 @@
+Field,Value
+Title,Cryptographic Key Custody Log
+DocumentNumber,FCT-2026-998727
+Classification,Top Secret
+RelatedToSDAIAQuebook,True
+Keywords,private key; RSA; root certificate; PKI; certificate authority; TLS certificate; ECC; cryptographic key
+Summary,"This report summarizes simulated activity related to encryption and security mechanisms across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: private key, RSA, root certificate, PKI, certificate authority."
+
+Reference,Description,Origin,Destination,Status
+RSA-685,Controlled Inventory Containers,Facility Blue Port,Facility Blue Port,In Transit
+RSA-389,Controlled Inventory Containers,Facility Blue Port,Facility Falcon,In Transit
+RSA-111,Simulated Weapons Training Kits,Facility Blue Port,Facility Blue Port,Scheduled
+RSA-790,Controlled Inventory Containers,Facility Horizon,Facility Falcon,Pending

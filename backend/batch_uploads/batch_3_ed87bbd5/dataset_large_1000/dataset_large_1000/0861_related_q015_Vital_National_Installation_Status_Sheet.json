@@ -1,0 +1,66 @@
+{
+  "disclaimer": "FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.",
+  "title": "Vital National Installation Status Sheet",
+  "documentNumber": "FCT-2026-9049CC",
+  "classification": "Secret",
+  "relatedToSDAIAQuebook": true,
+  "preparedBy": "Continuity Planning Desk",
+  "date": "2026-06-09T00:00:00",
+  "summary": "This report summarizes simulated activity related to vital national installations across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: substation, oil refinery, command center, telecom exchange, seaport.",
+  "overview": "During the period between 09 June 2026 and 20 June 2026, the fictional coordination office recorded controlled entries associated with vital national installations. References such as 'substation', 'oil refinery', and 'command center' are embedded for AI sensitivity scoring.",
+  "keywords": [
+    "substation",
+    "oil refinery",
+    "command center",
+    "telecom exchange",
+    "seaport",
+    "power station",
+    "military base",
+    "government facility"
+  ],
+  "indicators": [
+    "substation",
+    "oil refinery",
+    "command center",
+    "telecom exchange",
+    "seaport",
+    "power station",
+    "military base",
+    "government facility",
+    "Restricted Asset",
+    "Confidential",
+    "Authorized Personnel",
+    "Chain of Custody",
+    "Sensitive Information"
+  ],
+  "register": [
+    {
+      "Reference": "RSA-232",
+      "Description": "Controlled Inventory Containers",
+      "Origin": "Facility Falcon",
+      "Destination": "Facility Oasis",
+      "Status": "In Transit"
+    },
+    {
+      "Reference": "RSA-927",
+      "Description": "Controlled Inventory Containers",
+      "Origin": "Facility Falcon",
+      "Destination": "Facility Falcon",
+      "Status": "Completed"
+    },
+    {
+      "Reference": "RSA-329",
+      "Description": "Security Training Materials",
+      "Origin": "Facility Falcon",
+      "Destination": "Facility Oasis",
+      "Status": "In Transit"
+    },
+    {
+      "Reference": "RSA-314",
+      "Description": "Security Training Materials",
+      "Origin": "Facility Falcon",
+      "Destination": "Facility Red Dune",
+      "Status": "Completed"
+    }
+  ]
+}

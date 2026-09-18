@@ -1,0 +1,10 @@
+Field	Value
+Title	Critical Infrastructure Resilience Bulletin
+Classification	Top Secret
+RelatedToSDAIAQuebook	True
+Keywords	gas plant; power grid; water treatment; pipeline; blackout; critical infrastructure; oil production; refinery
+Reference	Description	Origin	Destination	Status
+RSA-137	Security Training Materials	Facility Desert Star	Facility Oasis	Pending
+RSA-261	Simulated Weapons Training Kits	Facility Horizon	Facility Blue Port	Pending
+RSA-396	Restricted Training Equipment	Facility Falcon	Facility Desert Star	Scheduled
+RSA-620	Controlled Inventory Containers	Facility Red Dune	Facility Desert Star	Pending

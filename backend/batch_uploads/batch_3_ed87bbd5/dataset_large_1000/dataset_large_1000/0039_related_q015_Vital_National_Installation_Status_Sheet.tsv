@@ -1,0 +1,10 @@
+Field	Value
+Title	Vital National Installation Status Sheet
+Classification	Secret
+RelatedToSDAIAQuebook	True
+Keywords	substation; desalination plant; military base; airport; command center; oil refinery; government facility; telecom exchange
+Reference	Description	Origin	Destination	Status
+RSA-182	Authorized Logistics Packages	Facility Desert Star	Facility Oasis	Completed
+RSA-510	Authorized Logistics Packages	Facility Desert Star	Facility Horizon	Completed
+RSA-613	Encrypted Transport Cases	Facility Blue Port	Facility Desert Star	Scheduled
+RSA-889	Authorized Logistics Packages	Facility Red Dune	Facility Horizon	Pending

@@ -1,0 +1,56 @@
+{
+  "disclaimer": "FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.",
+  "title": "Facilities Maintenance Schedule",
+  "documentNumber": "FCT-2026-EB9CA7",
+  "classification": "Internal",
+  "relatedToSDAIAQuebook": false,
+  "preparedBy": "Continuity Planning Desk",
+  "date": "2026-06-25T00:00:00",
+  "summary": "This memo covers routine administrative activity for facilities maintenance. It contains no defense, security, or national sensitivity indicators.",
+  "overview": "Between 25 June 2026 and 04 July 2026, staff completed ordinary tasks related to facilities maintenance. Mentions include 'HVAC filter' and 'elevator inspection' for operational clarity only.",
+  "keywords": [
+    "HVAC filter",
+    "elevator inspection",
+    "lighting upgrade",
+    "parking lot paint"
+  ],
+  "indicators": [
+    "HVAC filter",
+    "elevator inspection",
+    "lighting upgrade",
+    "parking lot paint",
+    "Internal Use",
+    "Routine Operations",
+    "Public Notice"
+  ],
+  "register": [
+    {
+      "Reference": "GEN-402",
+      "Description": "Sports Equipment Bundle",
+      "Origin": "Facility Desert Star",
+      "Destination": "Facility Red Dune",
+      "Status": "Pending"
+    },
+    {
+      "Reference": "GEN-954",
+      "Description": "Sports Equipment Bundle",
+      "Origin": "Facility Falcon",
+      "Destination": "Facility Red Dune",
+      "Status": "Scheduled"
+    },
+    {
+      "Reference": "GEN-652",
+      "Description": "Catering Supplies",
+      "Origin": "Facility Horizon",
+      "Destination": "Facility Red Dune",
+      "Status": "Pending"
+    },
+    {
+      "Reference": "GEN-517",
+      "Description": "Office Furniture Transfer",
+      "Origin": "Facility Desert Star",
+      "Destination": "Facility Red Dune",
+      "Status": "In Transit"
+    }
+  ]
+}

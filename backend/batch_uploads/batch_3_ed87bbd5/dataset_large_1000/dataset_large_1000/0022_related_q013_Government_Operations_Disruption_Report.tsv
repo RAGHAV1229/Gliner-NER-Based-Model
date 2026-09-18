@@ -1,0 +1,10 @@
+Field	Value
+Title	Government Operations Disruption Report
+Classification	Secret
+RelatedToSDAIAQuebook	True
+Keywords	emergency operations; cyber attack; system failure; business continuity; operational disruption; government shutdown; service outage; disaster recovery
+Reference	Description	Origin	Destination	Status
+RSA-370	Restricted Training Equipment	Facility Horizon	Facility Falcon	In Transit
+RSA-696	Authorized Logistics Packages	Facility Falcon	Facility Horizon	Scheduled
+RSA-552	Controlled Inventory Containers	Facility Blue Port	Facility Desert Star	In Transit
+RSA-662	Encrypted Transport Cases	Facility Falcon	Facility Oasis	Pending

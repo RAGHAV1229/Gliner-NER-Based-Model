@@ -1,0 +1,66 @@
+{
+  "disclaimer": "FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.",
+  "title": "Strategic Resource Outlook",
+  "documentNumber": "FCT-2026-BF5B62",
+  "classification": "Secret",
+  "relatedToSDAIAQuebook": true,
+  "preparedBy": "Logistics Coordination Office",
+  "date": "2026-07-02T00:00:00",
+  "summary": "This report summarizes simulated activity related to strategic natural resources across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: commodity price, resource depletion, production quota, natural gas, Brent.",
+  "overview": "During the period between 02 July 2026 and 18 July 2026, the fictional coordination office recorded controlled entries associated with strategic natural resources. References such as 'commodity price', 'resource depletion', and 'production quota' are embedded for AI sensitivity scoring.",
+  "keywords": [
+    "commodity price",
+    "resource depletion",
+    "production quota",
+    "natural gas",
+    "Brent",
+    "mining",
+    "petroleum exports",
+    "oil reserve"
+  ],
+  "indicators": [
+    "commodity price",
+    "resource depletion",
+    "production quota",
+    "natural gas",
+    "Brent",
+    "mining",
+    "petroleum exports",
+    "oil reserve",
+    "Restricted Asset",
+    "Confidential",
+    "Authorized Personnel",
+    "Chain of Custody",
+    "Sensitive Information"
+  ],
+  "register": [
+    {
+      "Reference": "RSA-730",
+      "Description": "Restricted Training Equipment",
+      "Origin": "Facility Blue Port",
+      "Destination": "Facility Horizon",
+      "Status": "Pending"
+    },
+    {
+      "Reference": "RSA-272",
+      "Description": "Controlled Inventory Containers",
+      "Origin": "Facility Falcon",
+      "Destination": "Facility Red Dune",
+      "Status": "In Transit"
+    },
+    {
+      "Reference": "RSA-438",
+      "Description": "Simulated Weapons Training Kits",
+      "Origin": "Facility Falcon",
+      "Destination": "Facility Oasis",
+      "Status": "Completed"
+    },
+    {
+      "Reference": "RSA-357",
+      "Description": "Encrypted Transport Cases",
+      "Origin": "Facility Red Dune",
+      "Destination": "Facility Desert Star",
+      "Status": "Scheduled"
+    }
+  ]
+}

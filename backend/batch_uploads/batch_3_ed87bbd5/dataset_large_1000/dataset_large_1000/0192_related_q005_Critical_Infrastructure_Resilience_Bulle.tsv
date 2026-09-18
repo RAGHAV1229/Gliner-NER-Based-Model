@@ -1,0 +1,10 @@
+Field	Value
+Title	Critical Infrastructure Resilience Bulletin
+Classification	Top Secret
+RelatedToSDAIAQuebook	True
+Keywords	oil production; seaport; SCADA; power grid; airport shutdown; pipeline; ICS; refinery
+Reference	Description	Origin	Destination	Status
+RSA-737	Controlled Inventory Containers	Facility Oasis	Facility Horizon	Scheduled
+RSA-463	Authorized Logistics Packages	Facility Horizon	Facility Desert Star	Pending
+RSA-900	Authorized Logistics Packages	Facility Oasis	Facility Desert Star	Pending
+RSA-137	Authorized Logistics Packages	Facility Falcon	Facility Oasis	Scheduled

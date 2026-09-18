@@ -1,0 +1,13 @@
+Field,Value
+Title,Counter-Terrorism Threat Digest
+DocumentNumber,FCT-2026-E3D20B
+Classification,Top Secret
+RelatedToSDAIAQuebook,True
+Keywords,ISIS; Daesh; suicide attack; terrorism; radicalization; terrorist; bomb; extremist
+Summary,"This report summarizes simulated activity related to terrorism and national security threats across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: ISIS, Daesh, suicide attack, terrorism, radicalization."
+
+Reference,Description,Origin,Destination,Status
+RSA-422,Security Training Materials,Facility Oasis,Facility Blue Port,In Transit
+RSA-318,Security Training Materials,Facility Falcon,Facility Horizon,Completed
+RSA-497,Encrypted Transport Cases,Facility Desert Star,Facility Falcon,Scheduled
+RSA-988,Encrypted Transport Cases,Facility Falcon,Facility Red Dune,In Transit

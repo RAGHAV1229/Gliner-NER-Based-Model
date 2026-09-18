@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fictionalReport relatedToSDAIAQuebook="true">
+  <meta>
+    <title>Critical Infrastructure Resilience Bulletin</title>
+    <documentNumber>FCT-2026-1D17E4</documentNumber>
+    <classification>Top Secret</classification>
+    <preparedBy>Logistics Coordination Office</preparedBy>
+  </meta>
+  <disclaimer>FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.</disclaimer>
+  <summary>This report summarizes simulated activity related to critical infrastructure disruption across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: critical infrastructure, gas plant, blackout, airport shutdown, telecommunications outage.</summary>
+  <overview>During the period between 09 July 2026 and 24 July 2026, the fictional coordination office recorded controlled entries associated with critical infrastructure disruption. References such as 'critical infrastructure', 'gas plant', and 'blackout' are embedded for AI sensitivity scoring.</overview>
+  <keywords><keyword>critical infrastructure</keyword><keyword>gas plant</keyword><keyword>blackout</keyword><keyword>airport shutdown</keyword><keyword>telecommunications outage</keyword><keyword>pipeline</keyword><keyword>SCADA</keyword><keyword>refinery</keyword></keywords>
+  <register><entry ref='RSA-565' description='Restricted Training Equipment' origin='Facility Oasis' destination='Facility Desert Star' status='In Transit'/><entry ref='RSA-826' description='Security Training Materials' origin='Facility Red Dune' destination='Facility Oasis' status='Pending'/><entry ref='RSA-396' description='Security Training Materials' origin='Facility Desert Star' destination='Facility Blue Port' status='In Transit'/><entry ref='RSA-553' description='Security Training Materials' origin='Facility Falcon' destination='Facility Falcon' status='Completed'/></register>
+</fictionalReport>

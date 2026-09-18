@@ -1,0 +1,10 @@
+Field	Value
+Title	Procurement Stationery Order
+Classification	Internal
+RelatedToSDAIAQuebook	False
+Keywords	notebooks; toner cartridge; whiteboard markers; sticky notes
+Reference	Description	Origin	Destination	Status
+GEN-594	Stationery Reorder Pack	Facility Falcon	Facility Oasis	Pending
+GEN-357	Garden Tools Set	Facility Oasis	Facility Horizon	Pending
+GEN-804	Garden Tools Set	Facility Blue Port	Facility Desert Star	In Transit
+GEN-990	Catering Supplies	Facility Desert Star	Facility Oasis	In Transit

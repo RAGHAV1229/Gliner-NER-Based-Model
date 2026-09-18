@@ -1,0 +1,13 @@
+Field,Value
+Title,Counter-Terrorism Threat Digest
+DocumentNumber,FCT-2026-BE8D1E
+Classification,Top Secret
+RelatedToSDAIAQuebook,True
+Keywords,IED; bomb; radicalization; extremist; ISIS; suicide attack; violent extremism; attack plan
+Summary,"This report summarizes simulated activity related to terrorism and national security threats across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: IED, bomb, radicalization, extremist, ISIS."
+
+Reference,Description,Origin,Destination,Status
+RSA-896,Simulated Weapons Training Kits,Facility Horizon,Facility Blue Port,Scheduled
+RSA-206,Authorized Logistics Packages,Facility Red Dune,Facility Oasis,Completed
+RSA-543,Restricted Training Equipment,Facility Horizon,Facility Blue Port,Scheduled
+RSA-383,Restricted Training Equipment,Facility Blue Port,Facility Falcon,In Transit

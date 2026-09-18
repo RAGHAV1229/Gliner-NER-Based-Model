@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fictionalReport relatedToSDAIAQuebook="true">
+  <meta>
+    <title>Strategic Resource Outlook</title>
+    <documentNumber>FCT-2026-27AE6F</documentNumber>
+    <classification>Secret</classification>
+    <preparedBy>Records Management Division</preparedBy>
+  </meta>
+  <disclaimer>FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.</disclaimer>
+  <summary>This report summarizes simulated activity related to strategic natural resources across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: mining, resource depletion, commodity price, production quota, OPEC.</summary>
+  <overview>During the period between 13 July 2026 and 25 July 2026, the fictional coordination office recorded controlled entries associated with strategic natural resources. References such as 'mining', 'resource depletion', and 'commodity price' are embedded for AI sensitivity scoring.</overview>
+  <keywords><keyword>mining</keyword><keyword>resource depletion</keyword><keyword>commodity price</keyword><keyword>production quota</keyword><keyword>OPEC</keyword><keyword>natural gas</keyword><keyword>Brent</keyword><keyword>oil reserve</keyword></keywords>
+  <register><entry ref='RSA-581' description='Controlled Inventory Containers' origin='Facility Horizon' destination='Facility Red Dune' status='Completed'/><entry ref='RSA-197' description='Encrypted Transport Cases' origin='Facility Oasis' destination='Facility Blue Port' status='Scheduled'/><entry ref='RSA-434' description='Encrypted Transport Cases' origin='Facility Falcon' destination='Facility Desert Star' status='Scheduled'/><entry ref='RSA-851' description='Security Training Materials' origin='Facility Red Dune' destination='Facility Oasis' status='In Transit'/></register>
+</fictionalReport>

@@ -1,0 +1,56 @@
+{
+  "disclaimer": "FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.",
+  "title": "Sports Club Training Roster",
+  "documentNumber": "FCT-2026-8B4BF5",
+  "classification": "Public",
+  "relatedToSDAIAQuebook": false,
+  "preparedBy": "Continuity Planning Desk",
+  "date": "2026-06-12T00:00:00",
+  "summary": "This memo covers routine administrative activity for sports training. It contains no defense, security, or national sensitivity indicators.",
+  "overview": "Between 12 June 2026 and 30 June 2026, staff completed ordinary tasks related to sports training. Mentions include 'football drills' and 'attendance sheet' for operational clarity only.",
+  "keywords": [
+    "football drills",
+    "attendance sheet",
+    "coach notes",
+    "injury recovery"
+  ],
+  "indicators": [
+    "football drills",
+    "attendance sheet",
+    "coach notes",
+    "injury recovery",
+    "Internal Use",
+    "Routine Operations",
+    "Public Notice"
+  ],
+  "register": [
+    {
+      "Reference": "GEN-487",
+      "Description": "Catering Supplies",
+      "Origin": "Facility Blue Port",
+      "Destination": "Facility Oasis",
+      "Status": "In Transit"
+    },
+    {
+      "Reference": "GEN-237",
+      "Description": "Garden Tools Set",
+      "Origin": "Facility Falcon",
+      "Destination": "Facility Oasis",
+      "Status": "Pending"
+    },
+    {
+      "Reference": "GEN-871",
+      "Description": "Catering Supplies",
+      "Origin": "Facility Oasis",
+      "Destination": "Facility Desert Star",
+      "Status": "Pending"
+    },
+    {
+      "Reference": "GEN-290",
+      "Description": "Office Furniture Transfer",
+      "Origin": "Facility Oasis",
+      "Destination": "Facility Red Dune",
+      "Status": "Scheduled"
+    }
+  ]
+}

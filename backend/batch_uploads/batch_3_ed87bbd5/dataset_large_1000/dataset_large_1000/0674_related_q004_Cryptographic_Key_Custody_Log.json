@@ -1,0 +1,66 @@
+{
+  "disclaimer": "FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.",
+  "title": "Cryptographic Key Custody Log",
+  "documentNumber": "FCT-2026-3426B1",
+  "classification": "Top Secret",
+  "relatedToSDAIAQuebook": true,
+  "preparedBy": "Logistics Coordination Office",
+  "date": "2026-07-12T00:00:00",
+  "summary": "This report summarizes simulated activity related to encryption and security mechanisms across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: RSA, private key, certificate authority, PKI, root certificate.",
+  "overview": "During the period between 12 July 2026 and 29 July 2026, the fictional coordination office recorded controlled entries associated with encryption and security mechanisms. References such as 'RSA', 'private key', and 'certificate authority' are embedded for AI sensitivity scoring.",
+  "keywords": [
+    "RSA",
+    "private key",
+    "certificate authority",
+    "PKI",
+    "root certificate",
+    "cryptographic key",
+    "ECC",
+    "TLS certificate"
+  ],
+  "indicators": [
+    "RSA",
+    "private key",
+    "certificate authority",
+    "PKI",
+    "root certificate",
+    "cryptographic key",
+    "ECC",
+    "TLS certificate",
+    "Restricted Asset",
+    "Confidential",
+    "Authorized Personnel",
+    "Chain of Custody",
+    "Sensitive Information"
+  ],
+  "register": [
+    {
+      "Reference": "RSA-414",
+      "Description": "Authorized Logistics Packages",
+      "Origin": "Facility Blue Port",
+      "Destination": "Facility Oasis",
+      "Status": "Scheduled"
+    },
+    {
+      "Reference": "RSA-639",
+      "Description": "Security Training Materials",
+      "Origin": "Facility Oasis",
+      "Destination": "Facility Oasis",
+      "Status": "Scheduled"
+    },
+    {
+      "Reference": "RSA-149",
+      "Description": "Controlled Inventory Containers",
+      "Origin": "Facility Falcon",
+      "Destination": "Facility Horizon",
+      "Status": "Scheduled"
+    },
+    {
+      "Reference": "RSA-157",
+      "Description": "Restricted Training Equipment",
+      "Origin": "Facility Blue Port",
+      "Destination": "Facility Blue Port",
+      "Status": "In Transit"
+    }
+  ]
+}

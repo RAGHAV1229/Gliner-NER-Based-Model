@@ -1,0 +1,13 @@
+Field,Value
+Title,Force and VIP Movement Coordination Note
+DocumentNumber,FCT-2026-754E0C
+Classification,Top Secret
+RelatedToSDAIAQuebook,True
+Keywords,deployment; troop movement; military exercise; operational route; patrol route; VIP movement; mobilization; escort
+Summary,"This report summarizes simulated activity related to armed forces and VIP movement across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: deployment, troop movement, military exercise, operational route, patrol route."
+
+Reference,Description,Origin,Destination,Status
+RSA-509,Authorized Logistics Packages,Facility Red Dune,Facility Red Dune,Scheduled
+RSA-436,Security Training Materials,Facility Falcon,Facility Desert Star,Completed
+RSA-258,Simulated Weapons Training Kits,Facility Falcon,Facility Desert Star,In Transit
+RSA-881,Encrypted Transport Cases,Facility Falcon,Facility Desert Star,Scheduled

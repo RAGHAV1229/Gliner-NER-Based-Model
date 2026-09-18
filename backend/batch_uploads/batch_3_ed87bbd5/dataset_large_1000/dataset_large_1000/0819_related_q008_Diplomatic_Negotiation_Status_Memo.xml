@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fictionalReport relatedToSDAIAQuebook="true">
+  <meta>
+    <title>Diplomatic Negotiation Status Memo</title>
+    <documentNumber>FCT-2026-CDB2C5</documentNumber>
+    <classification>Secret</classification>
+    <preparedBy>Records Management Division</preparedBy>
+  </meta>
+  <disclaimer>FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.</disclaimer>
+  <summary>This report summarizes simulated activity related to diplomatic relations and treaties across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: diplomatic cable, treaty, MOU, embassy, diplomatic note.</summary>
+  <overview>During the period between 08 July 2026 and 20 July 2026, the fictional coordination office recorded controlled entries associated with diplomatic relations and treaties. References such as 'diplomatic cable', 'treaty', and 'MOU' are embedded for AI sensitivity scoring.</overview>
+  <keywords><keyword>diplomatic cable</keyword><keyword>treaty</keyword><keyword>MOU</keyword><keyword>embassy</keyword><keyword>diplomatic note</keyword><keyword>consulate</keyword><keyword>strategic partnership</keyword><keyword>foreign ministry</keyword></keywords>
+  <register><entry ref='RSA-744' description='Authorized Logistics Packages' origin='Facility Desert Star' destination='Facility Red Dune' status='Pending'/><entry ref='RSA-520' description='Encrypted Transport Cases' origin='Facility Desert Star' destination='Facility Desert Star' status='In Transit'/><entry ref='RSA-303' description='Simulated Weapons Training Kits' origin='Facility Blue Port' destination='Facility Oasis' status='Completed'/><entry ref='RSA-494' description='Controlled Inventory Containers' origin='Facility Desert Star' destination='Facility Falcon' status='Pending'/></register>
+</fictionalReport>

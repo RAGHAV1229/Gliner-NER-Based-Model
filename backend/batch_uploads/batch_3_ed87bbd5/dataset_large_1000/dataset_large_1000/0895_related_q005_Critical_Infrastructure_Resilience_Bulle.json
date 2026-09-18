@@ -1,0 +1,66 @@
+{
+  "disclaimer": "FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.",
+  "title": "Critical Infrastructure Resilience Bulletin",
+  "documentNumber": "FCT-2026-4AF4A2",
+  "classification": "Top Secret",
+  "relatedToSDAIAQuebook": true,
+  "preparedBy": "Compliance & Governance Unit",
+  "date": "2026-06-10T00:00:00",
+  "summary": "This report summarizes simulated activity related to critical infrastructure disruption across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: critical infrastructure, water treatment, telecommunications outage, gas plant, blackout.",
+  "overview": "During the period between 10 June 2026 and 01 July 2026, the fictional coordination office recorded controlled entries associated with critical infrastructure disruption. References such as 'critical infrastructure', 'water treatment', and 'telecommunications outage' are embedded for AI sensitivity scoring.",
+  "keywords": [
+    "critical infrastructure",
+    "water treatment",
+    "telecommunications outage",
+    "gas plant",
+    "blackout",
+    "refinery",
+    "oil production",
+    "ICS"
+  ],
+  "indicators": [
+    "critical infrastructure",
+    "water treatment",
+    "telecommunications outage",
+    "gas plant",
+    "blackout",
+    "refinery",
+    "oil production",
+    "ICS",
+    "Restricted Asset",
+    "Confidential",
+    "Authorized Personnel",
+    "Chain of Custody",
+    "Sensitive Information"
+  ],
+  "register": [
+    {
+      "Reference": "RSA-443",
+      "Description": "Encrypted Transport Cases",
+      "Origin": "Facility Desert Star",
+      "Destination": "Facility Blue Port",
+      "Status": "Pending"
+    },
+    {
+      "Reference": "RSA-379",
+      "Description": "Controlled Inventory Containers",
+      "Origin": "Facility Red Dune",
+      "Destination": "Facility Horizon",
+      "Status": "Completed"
+    },
+    {
+      "Reference": "RSA-262",
+      "Description": "Security Training Materials",
+      "Origin": "Facility Horizon",
+      "Destination": "Facility Red Dune",
+      "Status": "Completed"
+    },
+    {
+      "Reference": "RSA-200",
+      "Description": "Security Training Materials",
+      "Origin": "Facility Horizon",
+      "Destination": "Facility Horizon",
+      "Status": "In Transit"
+    }
+  ]
+}

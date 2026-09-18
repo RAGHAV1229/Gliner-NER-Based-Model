@@ -1,0 +1,10 @@
+Field	Value
+Title	Restricted Defense Asset Inventory Brief
+Classification	Top Secret
+RelatedToSDAIAQuebook	True
+Keywords	explosives; fighter aircraft; UAV; missile; weapons cache; drone; military base; ballistic missile
+Reference	Description	Origin	Destination	Status
+RSA-894	Simulated Weapons Training Kits	Facility Blue Port	Facility Horizon	Completed
+RSA-768	Restricted Training Equipment	Facility Falcon	Facility Horizon	Pending
+RSA-421	Security Training Materials	Facility Horizon	Facility Falcon	In Transit
+RSA-888	Encrypted Transport Cases	Facility Blue Port	Facility Desert Star	Completed

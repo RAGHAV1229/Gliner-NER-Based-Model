@@ -1,0 +1,87 @@
+FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.
+
+Title: International Commercial Partnership Summary (Fictional)
+
+Document Number: FCT-2026-6645E6
+
+Classification: Secret
+
+Prepared By: Logistics Coordination Office
+
+Date: 15 July 2026
+
+Executive Summary
+
+This report summarizes simulated activity related to strategic commercial agreements across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: foreign investment, sovereign investment, investment agreement, strategic supplier, commercial agreement.
+
+Activity Overview
+
+During the period between 15 July 2026 and 26 July 2026, the fictional coordination office recorded controlled entries associated with strategic commercial agreements. References such as 'foreign investment', 'sovereign investment', and 'investment agreement' are embedded for AI sensitivity scoring.
+
+Facilities Involved
+
+- Facility Horizon (Eastern Region)
+
+- Facility Red Dune (Southern Region)
+
+- Facility Oasis (Northern Region)
+
+- Facility Blue Port (Coastal Region)
+
+Operational Controls
+
+- Dual authorization by department managers.
+
+- Identity verification of all personnel involved.
+
+- Digital audit logging of manifests.
+
+- Encrypted storage of transportation records.
+
+- Keywords tracked for classification: foreign investment, sovereign investment, investment agreement, strategic supplier, commercial agreement, joint venture, strategic partnership, technology transfer.
+
+Classification Indicators
+
+- foreign investment
+
+- sovereign investment
+
+- investment agreement
+
+- strategic supplier
+
+- commercial agreement
+
+- joint venture
+
+- strategic partnership
+
+- technology transfer
+
+- Restricted Asset
+
+- Confidential
+
+- Authorized Personnel
+
+- Chain of Custody
+
+- Sensitive Information
+
+Conclusion
+
+This fictional record is intended exclusively for AI classification, governance, and Hyland Document Filters text-extraction Proof of Concept testing.
+
+END OF DOCUMENT
+
+Sample Register
+
+Reference | Description | Origin | Destination | Status
+
+RSA-874 | Authorized Logistics Packages | Facility Falcon | Facility Falcon | Completed
+
+RSA-833 | Authorized Logistics Packages | Facility Desert Star | Facility Red Dune | Scheduled
+
+RSA-479 | Controlled Inventory Containers | Facility Oasis | Facility Blue Port | In Transit
+
+RSA-914 | Simulated Weapons Training Kits | Facility Red Dune | Facility Oasis | Scheduled

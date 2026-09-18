@@ -1,0 +1,66 @@
+{
+  "disclaimer": "FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.",
+  "title": "Labor Market Stability Brief",
+  "documentNumber": "FCT-2026-729228",
+  "classification": "Secret",
+  "relatedToSDAIAQuebook": true,
+  "preparedBy": "Continuity Planning Desk",
+  "date": "2026-06-03T00:00:00",
+  "summary": "This report summarizes simulated activity related to labor market impacts across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: labor shortage, workforce reduction, wage reduction, Nitaqat, Saudization.",
+  "overview": "During the period between 03 June 2026 and 21 June 2026, the fictional coordination office recorded controlled entries associated with labor market impacts. References such as 'labor shortage', 'workforce reduction', and 'wage reduction' are embedded for AI sensitivity scoring.",
+  "keywords": [
+    "labor shortage",
+    "workforce reduction",
+    "wage reduction",
+    "Nitaqat",
+    "Saudization",
+    "unemployment",
+    "recruitment freeze",
+    "employment crisis"
+  ],
+  "indicators": [
+    "labor shortage",
+    "workforce reduction",
+    "wage reduction",
+    "Nitaqat",
+    "Saudization",
+    "unemployment",
+    "recruitment freeze",
+    "employment crisis",
+    "Restricted Asset",
+    "Confidential",
+    "Authorized Personnel",
+    "Chain of Custody",
+    "Sensitive Information"
+  ],
+  "register": [
+    {
+      "Reference": "RSA-494",
+      "Description": "Controlled Inventory Containers",
+      "Origin": "Facility Desert Star",
+      "Destination": "Facility Oasis",
+      "Status": "Pending"
+    },
+    {
+      "Reference": "RSA-565",
+      "Description": "Authorized Logistics Packages",
+      "Origin": "Facility Red Dune",
+      "Destination": "Facility Horizon",
+      "Status": "In Transit"
+    },
+    {
+      "Reference": "RSA-686",
+      "Description": "Authorized Logistics Packages",
+      "Origin": "Facility Horizon",
+      "Destination": "Facility Blue Port",
+      "Status": "In Transit"
+    },
+    {
+      "Reference": "RSA-156",
+      "Description": "Restricted Training Equipment",
+      "Origin": "Facility Red Dune",
+      "Destination": "Facility Horizon",
+      "Status": "Completed"
+    }
+  ]
+}

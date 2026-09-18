@@ -1,0 +1,66 @@
+{
+  "disclaimer": "FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.",
+  "title": "Export Continuity Advisory",
+  "documentNumber": "FCT-2026-3F3D43",
+  "classification": "Secret",
+  "relatedToSDAIAQuebook": true,
+  "preparedBy": "Security Operations Department",
+  "date": "2026-06-16T00:00:00",
+  "summary": "This report summarizes simulated activity related to export continuity across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: customs restriction, export restriction, sanctions, trade embargo, trade barrier.",
+  "overview": "During the period between 16 June 2026 and 29 June 2026, the fictional coordination office recorded controlled entries associated with export continuity. References such as 'customs restriction', 'export restriction', and 'sanctions' are embedded for AI sensitivity scoring.",
+  "keywords": [
+    "customs restriction",
+    "export restriction",
+    "sanctions",
+    "trade embargo",
+    "trade barrier",
+    "port closure",
+    "export decline",
+    "shipping disruption"
+  ],
+  "indicators": [
+    "customs restriction",
+    "export restriction",
+    "sanctions",
+    "trade embargo",
+    "trade barrier",
+    "port closure",
+    "export decline",
+    "shipping disruption",
+    "Restricted Asset",
+    "Confidential",
+    "Authorized Personnel",
+    "Chain of Custody",
+    "Sensitive Information"
+  ],
+  "register": [
+    {
+      "Reference": "RSA-356",
+      "Description": "Security Training Materials",
+      "Origin": "Facility Oasis",
+      "Destination": "Facility Red Dune",
+      "Status": "Completed"
+    },
+    {
+      "Reference": "RSA-486",
+      "Description": "Simulated Weapons Training Kits",
+      "Origin": "Facility Blue Port",
+      "Destination": "Facility Horizon",
+      "Status": "In Transit"
+    },
+    {
+      "Reference": "RSA-364",
+      "Description": "Encrypted Transport Cases",
+      "Origin": "Facility Desert Star",
+      "Destination": "Facility Red Dune",
+      "Status": "In Transit"
+    },
+    {
+      "Reference": "RSA-754",
+      "Description": "Restricted Training Equipment",
+      "Origin": "Facility Desert Star",
+      "Destination": "Facility Oasis",
+      "Status": "Pending"
+    }
+  ]
+}

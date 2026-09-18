@@ -1,0 +1,87 @@
+FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.
+
+Title: Restricted Defense Asset Inventory Brief (Fictional)
+
+Document Number: FCT-2026-DD8A4C
+
+Classification: Top Secret
+
+Prepared By: Continuity Planning Desk
+
+Date: 17 June 2026
+
+Executive Summary
+
+This report summarizes simulated activity related to weapons and military assets across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: explosives, tank, ammunition depot, drone, arsenal.
+
+Activity Overview
+
+During the period between 17 June 2026 and 25 June 2026, the fictional coordination office recorded controlled entries associated with weapons and military assets. References such as 'explosives', 'tank', and 'ammunition depot' are embedded for AI sensitivity scoring.
+
+Facilities Involved
+
+- Facility Desert Star (Western Region)
+
+- Facility Oasis (Northern Region)
+
+- Facility Horizon (Eastern Region)
+
+- Facility Blue Port (Coastal Region)
+
+Operational Controls
+
+- Dual authorization by department managers.
+
+- Identity verification of all personnel involved.
+
+- Digital audit logging of manifests.
+
+- Encrypted storage of transportation records.
+
+- Keywords tracked for classification: explosives, tank, ammunition depot, drone, arsenal, UAV, fighter aircraft, missile.
+
+Classification Indicators
+
+- explosives
+
+- tank
+
+- ammunition depot
+
+- drone
+
+- arsenal
+
+- UAV
+
+- fighter aircraft
+
+- missile
+
+- Restricted Asset
+
+- Confidential
+
+- Authorized Personnel
+
+- Chain of Custody
+
+- Sensitive Information
+
+Conclusion
+
+This fictional record is intended exclusively for AI classification, governance, and Hyland Document Filters text-extraction Proof of Concept testing.
+
+END OF DOCUMENT
+
+Sample Register
+
+Reference | Description | Origin | Destination | Status
+
+RSA-760 | Security Training Materials | Facility Desert Star | Facility Desert Star | In Transit
+
+RSA-341 | Controlled Inventory Containers | Facility Horizon | Facility Falcon | In Transit
+
+RSA-399 | Security Training Materials | Facility Blue Port | Facility Horizon | Pending
+
+RSA-391 | Restricted Training Equipment | Facility Falcon | Facility Desert Star | Scheduled

@@ -1,0 +1,13 @@
+Field,Value
+Title,Diplomatic Negotiation Status Memo
+DocumentNumber,FCT-2026-B5CCA7
+Classification,Secret
+RelatedToSDAIAQuebook,True
+Keywords,diplomatic cable; consulate; embassy; foreign ministry; diplomatic note; treaty; strategic partnership; MOU
+Summary,"This report summarizes simulated activity related to diplomatic relations and treaties across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: diplomatic cable, consulate, embassy, foreign ministry, diplomatic note."
+
+Reference,Description,Origin,Destination,Status
+RSA-670,Controlled Inventory Containers,Facility Red Dune,Facility Horizon,Completed
+RSA-397,Controlled Inventory Containers,Facility Oasis,Facility Desert Star,Scheduled
+RSA-844,Restricted Training Equipment,Facility Oasis,Facility Desert Star,In Transit
+RSA-250,Controlled Inventory Containers,Facility Horizon,Facility Red Dune,Scheduled

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fictionalReport relatedToSDAIAQuebook="false">
+  <meta>
+    <title>Volunteer Greening Day Plan</title>
+    <documentNumber>FCT-2026-B896F1</documentNumber>
+    <classification>Public</classification>
+    <preparedBy>Logistics Coordination Office</preparedBy>
+  </meta>
+  <disclaimer>FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.</disclaimer>
+  <summary>This memo covers routine administrative activity for community greening. It contains no defense, security, or national sensitivity indicators.</summary>
+  <overview>Between 12 June 2026 and 23 June 2026, staff completed ordinary tasks related to community greening. Mentions include 'tree planting' and 'community garden' for operational clarity only.</overview>
+  <keywords><keyword>tree planting</keyword><keyword>community garden</keyword><keyword>recycling bins</keyword><keyword>irrigation hose</keyword></keywords>
+  <register><entry ref='GEN-879' description='Catering Supplies' origin='Facility Oasis' destination='Facility Red Dune' status='In Transit'/><entry ref='GEN-336' description='Sports Equipment Bundle' origin='Facility Oasis' destination='Facility Desert Star' status='Pending'/><entry ref='GEN-747' description='Garden Tools Set' origin='Facility Desert Star' destination='Facility Blue Port' status='Completed'/><entry ref='GEN-417' description='Library Book Cartons' origin='Facility Oasis' destination='Facility Red Dune' status='Pending'/></register>
+</fictionalReport>

@@ -1,0 +1,10 @@
+Field	Value
+Title	Procurement Stationery Order
+Classification	Internal
+RelatedToSDAIAQuebook	False
+Keywords	notebooks; whiteboard markers; toner cartridge; sticky notes
+Reference	Description	Origin	Destination	Status
+GEN-638	Office Furniture Transfer	Facility Falcon	Facility Blue Port	Pending
+GEN-795	Office Furniture Transfer	Facility Desert Star	Facility Red Dune	Completed
+GEN-554	Stationery Reorder Pack	Facility Blue Port	Facility Falcon	In Transit
+GEN-313	Library Book Cartons	Facility Oasis	Facility Falcon	Pending

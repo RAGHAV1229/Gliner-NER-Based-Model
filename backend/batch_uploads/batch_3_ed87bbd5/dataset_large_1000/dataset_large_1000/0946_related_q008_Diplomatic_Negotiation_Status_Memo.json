@@ -1,0 +1,66 @@
+{
+  "disclaimer": "FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.",
+  "title": "Diplomatic Negotiation Status Memo",
+  "documentNumber": "FCT-2026-914805",
+  "classification": "Secret",
+  "relatedToSDAIAQuebook": true,
+  "preparedBy": "Logistics Coordination Office",
+  "date": "2026-07-12T00:00:00",
+  "summary": "This report summarizes simulated activity related to diplomatic relations and treaties across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: classified negotiation, foreign ministry, treaty, diplomatic note, MOU.",
+  "overview": "During the period between 12 July 2026 and 21 July 2026, the fictional coordination office recorded controlled entries associated with diplomatic relations and treaties. References such as 'classified negotiation', 'foreign ministry', and 'treaty' are embedded for AI sensitivity scoring.",
+  "keywords": [
+    "classified negotiation",
+    "foreign ministry",
+    "treaty",
+    "diplomatic note",
+    "MOU",
+    "bilateral agreement",
+    "consulate",
+    "strategic partnership"
+  ],
+  "indicators": [
+    "classified negotiation",
+    "foreign ministry",
+    "treaty",
+    "diplomatic note",
+    "MOU",
+    "bilateral agreement",
+    "consulate",
+    "strategic partnership",
+    "Restricted Asset",
+    "Confidential",
+    "Authorized Personnel",
+    "Chain of Custody",
+    "Sensitive Information"
+  ],
+  "register": [
+    {
+      "Reference": "RSA-568",
+      "Description": "Simulated Weapons Training Kits",
+      "Origin": "Facility Red Dune",
+      "Destination": "Facility Blue Port",
+      "Status": "Completed"
+    },
+    {
+      "Reference": "RSA-888",
+      "Description": "Encrypted Transport Cases",
+      "Origin": "Facility Oasis",
+      "Destination": "Facility Horizon",
+      "Status": "Pending"
+    },
+    {
+      "Reference": "RSA-402",
+      "Description": "Simulated Weapons Training Kits",
+      "Origin": "Facility Falcon",
+      "Destination": "Facility Oasis",
+      "Status": "In Transit"
+    },
+    {
+      "Reference": "RSA-401",
+      "Description": "Controlled Inventory Containers",
+      "Origin": "Facility Blue Port",
+      "Destination": "Facility Oasis",
+      "Status": "In Transit"
+    }
+  ]
+}

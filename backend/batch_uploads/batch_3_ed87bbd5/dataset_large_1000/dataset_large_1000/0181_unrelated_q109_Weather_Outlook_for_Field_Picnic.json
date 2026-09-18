@@ -1,0 +1,56 @@
+{
+  "disclaimer": "FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.",
+  "title": "Weather Outlook for Field Picnic",
+  "documentNumber": "FCT-2026-CAA98F",
+  "classification": "Public",
+  "relatedToSDAIAQuebook": false,
+  "preparedBy": "Continuity Planning Desk",
+  "date": "2026-06-03T00:00:00",
+  "summary": "This memo covers routine administrative activity for outdoor picnic weather. It contains no defense, security, or national sensitivity indicators.",
+  "overview": "Between 03 June 2026 and 10 June 2026, staff completed ordinary tasks related to outdoor picnic weather. Mentions include 'sunny intervals' and 'UV index' for operational clarity only.",
+  "keywords": [
+    "sunny intervals",
+    "UV index",
+    "light breeze",
+    "picnic blankets"
+  ],
+  "indicators": [
+    "sunny intervals",
+    "UV index",
+    "light breeze",
+    "picnic blankets",
+    "Internal Use",
+    "Routine Operations",
+    "Public Notice"
+  ],
+  "register": [
+    {
+      "Reference": "GEN-691",
+      "Description": "Office Furniture Transfer",
+      "Origin": "Facility Horizon",
+      "Destination": "Facility Horizon",
+      "Status": "Scheduled"
+    },
+    {
+      "Reference": "GEN-172",
+      "Description": "Library Book Cartons",
+      "Origin": "Facility Falcon",
+      "Destination": "Facility Oasis",
+      "Status": "Pending"
+    },
+    {
+      "Reference": "GEN-463",
+      "Description": "Office Furniture Transfer",
+      "Origin": "Facility Oasis",
+      "Destination": "Facility Oasis",
+      "Status": "Completed"
+    },
+    {
+      "Reference": "GEN-717",
+      "Description": "Stationery Reorder Pack",
+      "Origin": "Facility Desert Star",
+      "Destination": "Facility Red Dune",
+      "Status": "Scheduled"
+    }
+  ]
+}

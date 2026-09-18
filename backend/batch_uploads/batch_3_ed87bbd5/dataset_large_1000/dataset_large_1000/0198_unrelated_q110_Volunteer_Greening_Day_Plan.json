@@ -1,0 +1,56 @@
+{
+  "disclaimer": "FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.",
+  "title": "Volunteer Greening Day Plan",
+  "documentNumber": "FCT-2026-921A37",
+  "classification": "Public",
+  "relatedToSDAIAQuebook": false,
+  "preparedBy": "Compliance & Governance Unit",
+  "date": "2026-07-04T00:00:00",
+  "summary": "This memo covers routine administrative activity for community greening. It contains no defense, security, or national sensitivity indicators.",
+  "overview": "Between 04 July 2026 and 16 July 2026, staff completed ordinary tasks related to community greening. Mentions include 'irrigation hose' and 'tree planting' for operational clarity only.",
+  "keywords": [
+    "irrigation hose",
+    "tree planting",
+    "community garden",
+    "recycling bins"
+  ],
+  "indicators": [
+    "irrigation hose",
+    "tree planting",
+    "community garden",
+    "recycling bins",
+    "Internal Use",
+    "Routine Operations",
+    "Public Notice"
+  ],
+  "register": [
+    {
+      "Reference": "GEN-159",
+      "Description": "Garden Tools Set",
+      "Origin": "Facility Blue Port",
+      "Destination": "Facility Red Dune",
+      "Status": "In Transit"
+    },
+    {
+      "Reference": "GEN-375",
+      "Description": "Garden Tools Set",
+      "Origin": "Facility Blue Port",
+      "Destination": "Facility Oasis",
+      "Status": "In Transit"
+    },
+    {
+      "Reference": "GEN-587",
+      "Description": "Sports Equipment Bundle",
+      "Origin": "Facility Oasis",
+      "Destination": "Facility Blue Port",
+      "Status": "Completed"
+    },
+    {
+      "Reference": "GEN-958",
+      "Description": "Library Book Cartons",
+      "Origin": "Facility Horizon",
+      "Destination": "Facility Blue Port",
+      "Status": "Completed"
+    }
+  ]
+}

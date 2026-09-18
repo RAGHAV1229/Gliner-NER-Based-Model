@@ -1,0 +1,87 @@
+FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.
+
+Title: National Reputation Risk Watchlist (Fictional)
+
+Document Number: FCT-2026-512EEA
+
+Classification: Top Secret
+
+Prepared By: Records Management Division
+
+Date: 22 June 2026
+
+Executive Summary
+
+This report summarizes simulated activity related to national reputation risk across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: sanctions, diplomatic crisis, corruption, scandal, censorship.
+
+Activity Overview
+
+During the period between 22 June 2026 and 02 July 2026, the fictional coordination office recorded controlled entries associated with national reputation risk. References such as 'sanctions', 'diplomatic crisis', and 'corruption' are embedded for AI sensitivity scoring.
+
+Facilities Involved
+
+- Facility Red Dune (Southern Region)
+
+- Facility Oasis (Northern Region)
+
+- Facility Horizon (Eastern Region)
+
+- Facility Blue Port (Coastal Region)
+
+Operational Controls
+
+- Dual authorization by department managers.
+
+- Identity verification of all personnel involved.
+
+- Digital audit logging of manifests.
+
+- Encrypted storage of transportation records.
+
+- Keywords tracked for classification: sanctions, diplomatic crisis, corruption, scandal, censorship, bribery, international criticism, media exposure.
+
+Classification Indicators
+
+- sanctions
+
+- diplomatic crisis
+
+- corruption
+
+- scandal
+
+- censorship
+
+- bribery
+
+- international criticism
+
+- media exposure
+
+- Restricted Asset
+
+- Confidential
+
+- Authorized Personnel
+
+- Chain of Custody
+
+- Sensitive Information
+
+Conclusion
+
+This fictional record is intended exclusively for AI classification, governance, and Hyland Document Filters text-extraction Proof of Concept testing.
+
+END OF DOCUMENT
+
+Sample Register
+
+Reference | Description | Origin | Destination | Status
+
+RSA-354 | Authorized Logistics Packages | Facility Falcon | Facility Falcon | Scheduled
+
+RSA-656 | Security Training Materials | Facility Desert Star | Facility Blue Port | In Transit
+
+RSA-967 | Authorized Logistics Packages | Facility Falcon | Facility Oasis | In Transit
+
+RSA-701 | Controlled Inventory Containers | Facility Blue Port | Facility Falcon | Completed

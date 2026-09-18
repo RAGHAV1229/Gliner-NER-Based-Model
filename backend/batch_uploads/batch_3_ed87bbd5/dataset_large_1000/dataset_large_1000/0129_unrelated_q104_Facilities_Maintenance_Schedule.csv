@@ -1,0 +1,13 @@
+Field,Value
+Title,Facilities Maintenance Schedule
+DocumentNumber,FCT-2026-BEA1FA
+Classification,Internal
+RelatedToSDAIAQuebook,False
+Keywords,HVAC filter; parking lot paint; lighting upgrade; elevator inspection
+Summary,"This memo covers routine administrative activity for facilities maintenance. It contains no defense, security, or national sensitivity indicators."
+
+Reference,Description,Origin,Destination,Status
+GEN-136,Stationery Reorder Pack,Facility Red Dune,Facility Oasis,Pending
+GEN-339,Office Furniture Transfer,Facility Horizon,Facility Red Dune,Pending
+GEN-742,Catering Supplies,Facility Red Dune,Facility Blue Port,Pending
+GEN-849,Stationery Reorder Pack,Facility Red Dune,Facility Desert Star,Completed

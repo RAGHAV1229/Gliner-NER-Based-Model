@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fictionalReport relatedToSDAIAQuebook="true">
+  <meta>
+    <title>Diplomatic Negotiation Status Memo</title>
+    <documentNumber>FCT-2026-B8714B</documentNumber>
+    <classification>Secret</classification>
+    <preparedBy>Compliance & Governance Unit</preparedBy>
+  </meta>
+  <disclaimer>FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.</disclaimer>
+  <summary>This report summarizes simulated activity related to diplomatic relations and treaties across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: foreign ministry, strategic partnership, bilateral agreement, consulate, treaty.</summary>
+  <overview>During the period between 07 June 2026 and 24 June 2026, the fictional coordination office recorded controlled entries associated with diplomatic relations and treaties. References such as 'foreign ministry', 'strategic partnership', and 'bilateral agreement' are embedded for AI sensitivity scoring.</overview>
+  <keywords><keyword>foreign ministry</keyword><keyword>strategic partnership</keyword><keyword>bilateral agreement</keyword><keyword>consulate</keyword><keyword>treaty</keyword><keyword>embassy</keyword><keyword>classified negotiation</keyword><keyword>diplomatic note</keyword></keywords>
+  <register><entry ref='RSA-485' description='Restricted Training Equipment' origin='Facility Red Dune' destination='Facility Falcon' status='Scheduled'/><entry ref='RSA-887' description='Simulated Weapons Training Kits' origin='Facility Blue Port' destination='Facility Red Dune' status='Pending'/><entry ref='RSA-346' description='Restricted Training Equipment' origin='Facility Blue Port' destination='Facility Horizon' status='In Transit'/><entry ref='RSA-230' description='Restricted Training Equipment' origin='Facility Oasis' destination='Facility Oasis' status='Completed'/></register>
+</fictionalReport>

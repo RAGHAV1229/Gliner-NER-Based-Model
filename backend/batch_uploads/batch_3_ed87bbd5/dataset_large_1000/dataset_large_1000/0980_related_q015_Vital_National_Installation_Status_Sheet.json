@@ -1,0 +1,66 @@
+{
+  "disclaimer": "FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.",
+  "title": "Vital National Installation Status Sheet",
+  "documentNumber": "FCT-2026-16F40B",
+  "classification": "Secret",
+  "relatedToSDAIAQuebook": true,
+  "preparedBy": "Compliance & Governance Unit",
+  "date": "2026-07-04T00:00:00",
+  "summary": "This report summarizes simulated activity related to vital national installations across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: airport, military base, power station, seaport, government facility.",
+  "overview": "During the period between 04 July 2026 and 16 July 2026, the fictional coordination office recorded controlled entries associated with vital national installations. References such as 'airport', 'military base', and 'power station' are embedded for AI sensitivity scoring.",
+  "keywords": [
+    "airport",
+    "military base",
+    "power station",
+    "seaport",
+    "government facility",
+    "command center",
+    "substation",
+    "telecom exchange"
+  ],
+  "indicators": [
+    "airport",
+    "military base",
+    "power station",
+    "seaport",
+    "government facility",
+    "command center",
+    "substation",
+    "telecom exchange",
+    "Restricted Asset",
+    "Confidential",
+    "Authorized Personnel",
+    "Chain of Custody",
+    "Sensitive Information"
+  ],
+  "register": [
+    {
+      "Reference": "RSA-833",
+      "Description": "Authorized Logistics Packages",
+      "Origin": "Facility Horizon",
+      "Destination": "Facility Red Dune",
+      "Status": "Completed"
+    },
+    {
+      "Reference": "RSA-120",
+      "Description": "Controlled Inventory Containers",
+      "Origin": "Facility Oasis",
+      "Destination": "Facility Oasis",
+      "Status": "Completed"
+    },
+    {
+      "Reference": "RSA-101",
+      "Description": "Controlled Inventory Containers",
+      "Origin": "Facility Falcon",
+      "Destination": "Facility Blue Port",
+      "Status": "In Transit"
+    },
+    {
+      "Reference": "RSA-395",
+      "Description": "Encrypted Transport Cases",
+      "Origin": "Facility Falcon",
+      "Destination": "Facility Blue Port",
+      "Status": "In Transit"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+Field	Value
+Title	Diplomatic Negotiation Status Memo
+Classification	Secret
+RelatedToSDAIAQuebook	True
+Keywords	treaty; foreign ministry; embassy; diplomatic cable; MOU; diplomatic note; bilateral agreement; strategic partnership
+Reference	Description	Origin	Destination	Status
+RSA-246	Authorized Logistics Packages	Facility Oasis	Facility Red Dune	Scheduled
+RSA-465	Security Training Materials	Facility Falcon	Facility Blue Port	Completed
+RSA-611	Restricted Training Equipment	Facility Desert Star	Facility Red Dune	Completed
+RSA-999	Restricted Training Equipment	Facility Red Dune	Facility Falcon	In Transit

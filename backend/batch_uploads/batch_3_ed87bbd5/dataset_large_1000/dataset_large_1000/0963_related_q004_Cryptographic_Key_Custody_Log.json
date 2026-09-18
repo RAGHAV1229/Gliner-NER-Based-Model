@@ -1,0 +1,66 @@
+{
+  "disclaimer": "FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.",
+  "title": "Cryptographic Key Custody Log",
+  "documentNumber": "FCT-2026-AB159F",
+  "classification": "Top Secret",
+  "relatedToSDAIAQuebook": true,
+  "preparedBy": "Security Operations Department",
+  "date": "2026-07-15T00:00:00",
+  "summary": "This report summarizes simulated activity related to encryption and security mechanisms across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: PKI, private key, root certificate, key management, RSA.",
+  "overview": "During the period between 15 July 2026 and 24 July 2026, the fictional coordination office recorded controlled entries associated with encryption and security mechanisms. References such as 'PKI', 'private key', and 'root certificate' are embedded for AI sensitivity scoring.",
+  "keywords": [
+    "PKI",
+    "private key",
+    "root certificate",
+    "key management",
+    "RSA",
+    "certificate authority",
+    "AES",
+    "secret key"
+  ],
+  "indicators": [
+    "PKI",
+    "private key",
+    "root certificate",
+    "key management",
+    "RSA",
+    "certificate authority",
+    "AES",
+    "secret key",
+    "Restricted Asset",
+    "Confidential",
+    "Authorized Personnel",
+    "Chain of Custody",
+    "Sensitive Information"
+  ],
+  "register": [
+    {
+      "Reference": "RSA-465",
+      "Description": "Security Training Materials",
+      "Origin": "Facility Falcon",
+      "Destination": "Facility Red Dune",
+      "Status": "In Transit"
+    },
+    {
+      "Reference": "RSA-726",
+      "Description": "Restricted Training Equipment",
+      "Origin": "Facility Red Dune",
+      "Destination": "Facility Oasis",
+      "Status": "Completed"
+    },
+    {
+      "Reference": "RSA-295",
+      "Description": "Authorized Logistics Packages",
+      "Origin": "Facility Horizon",
+      "Destination": "Facility Desert Star",
+      "Status": "Completed"
+    },
+    {
+      "Reference": "RSA-357",
+      "Description": "Security Training Materials",
+      "Origin": "Facility Desert Star",
+      "Destination": "Facility Horizon",
+      "Status": "In Transit"
+    }
+  ]
+}

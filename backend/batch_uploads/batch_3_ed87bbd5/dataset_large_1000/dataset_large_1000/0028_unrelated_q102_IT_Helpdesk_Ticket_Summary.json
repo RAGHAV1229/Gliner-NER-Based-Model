@@ -1,0 +1,56 @@
+{
+  "disclaimer": "FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.",
+  "title": "IT Helpdesk Ticket Summary",
+  "documentNumber": "FCT-2026-781E95",
+  "classification": "Internal",
+  "relatedToSDAIAQuebook": false,
+  "preparedBy": "Compliance & Governance Unit",
+  "date": "2026-07-03T00:00:00",
+  "summary": "This memo covers routine administrative activity for IT support tickets. It contains no defense, security, or national sensitivity indicators.",
+  "overview": "Between 03 July 2026 and 13 July 2026, staff completed ordinary tasks related to IT support tickets. Mentions include 'password reset' and 'printer jam' for operational clarity only.",
+  "keywords": [
+    "password reset",
+    "printer jam",
+    "laptop docking",
+    "VPN latency"
+  ],
+  "indicators": [
+    "password reset",
+    "printer jam",
+    "laptop docking",
+    "VPN latency",
+    "Internal Use",
+    "Routine Operations",
+    "Public Notice"
+  ],
+  "register": [
+    {
+      "Reference": "GEN-800",
+      "Description": "Library Book Cartons",
+      "Origin": "Facility Falcon",
+      "Destination": "Facility Red Dune",
+      "Status": "Pending"
+    },
+    {
+      "Reference": "GEN-283",
+      "Description": "Office Furniture Transfer",
+      "Origin": "Facility Desert Star",
+      "Destination": "Facility Desert Star",
+      "Status": "In Transit"
+    },
+    {
+      "Reference": "GEN-545",
+      "Description": "Catering Supplies",
+      "Origin": "Facility Red Dune",
+      "Destination": "Facility Falcon",
+      "Status": "Scheduled"
+    },
+    {
+      "Reference": "GEN-482",
+      "Description": "Catering Supplies",
+      "Origin": "Facility Falcon",
+      "Destination": "Facility Desert Star",
+      "Status": "Pending"
+    }
+  ]
+}

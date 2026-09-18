@@ -1,0 +1,88 @@
+.auth-page {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1.5rem;
+  background:
+    radial-gradient(1200px 500px at 10% -10%, rgba(29, 78, 216, 0.12), transparent 55%),
+    radial-gradient(900px 400px at 100% 0%, rgba(15, 23, 42, 0.08), transparent 50%),
+    linear-gradient(180deg, #e8eef7 0%, var(--bg) 55%, #e2e8f0 100%);
+}
+
+.auth-card {
+  width: 100%;
+  max-width: 420px;
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  box-shadow: var(--shadow);
+  padding: 2rem 1.75rem 1.75rem;
+}
+
+.auth-header {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.auth-header h1 {
+  font-size: 1.35rem;
+  margin-top: 0.85rem;
+}
+
+.auth-header p {
+  margin-top: 0.35rem;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.brand-mark {
+  width: 40px;
+  height: 40px;
+  border-radius: 10px;
+  background: var(--accent);
+  color: #fff;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  font-size: 0.85rem;
+}
+
+.brand-mark.large {
+  width: 52px;
+  height: 52px;
+  font-size: 1rem;
+  border-radius: 12px;
+}
+
+.auth-form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
+}
+
+.auth-form label {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #334155;
+  margin-top: 0.35rem;
+}
+
+.auth-form input {
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 0.65rem 0.75rem;
+  background: #fff;
+  color: var(--text);
+}
+
+.auth-form input:focus {
+  outline: 2px solid rgba(29, 78, 216, 0.25);
+  border-color: #93c5fd;
+}
+
+.auth-form .btn {
+  margin-top: 0.85rem;
+}

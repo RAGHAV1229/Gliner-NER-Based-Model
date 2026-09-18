@@ -1,0 +1,66 @@
+{
+  "disclaimer": "FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.",
+  "title": "Restricted Defense Asset Inventory Brief",
+  "documentNumber": "FCT-2026-701227",
+  "classification": "Top Secret",
+  "relatedToSDAIAQuebook": true,
+  "preparedBy": "Records Management Division",
+  "date": "2026-06-06T00:00:00",
+  "summary": "This report summarizes simulated activity related to weapons and military assets across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: weapons cache, UAV, Ministry of Defense, ammunition depot, military base.",
+  "overview": "During the period between 06 June 2026 and 22 June 2026, the fictional coordination office recorded controlled entries associated with weapons and military assets. References such as 'weapons cache', 'UAV', and 'Ministry of Defense' are embedded for AI sensitivity scoring.",
+  "keywords": [
+    "weapons cache",
+    "UAV",
+    "Ministry of Defense",
+    "ammunition depot",
+    "military base",
+    "armory",
+    "explosives",
+    "missile"
+  ],
+  "indicators": [
+    "weapons cache",
+    "UAV",
+    "Ministry of Defense",
+    "ammunition depot",
+    "military base",
+    "armory",
+    "explosives",
+    "missile",
+    "Restricted Asset",
+    "Confidential",
+    "Authorized Personnel",
+    "Chain of Custody",
+    "Sensitive Information"
+  ],
+  "register": [
+    {
+      "Reference": "RSA-853",
+      "Description": "Simulated Weapons Training Kits",
+      "Origin": "Facility Blue Port",
+      "Destination": "Facility Blue Port",
+      "Status": "In Transit"
+    },
+    {
+      "Reference": "RSA-242",
+      "Description": "Authorized Logistics Packages",
+      "Origin": "Facility Red Dune",
+      "Destination": "Facility Desert Star",
+      "Status": "In Transit"
+    },
+    {
+      "Reference": "RSA-247",
+      "Description": "Authorized Logistics Packages",
+      "Origin": "Facility Blue Port",
+      "Destination": "Facility Red Dune",
+      "Status": "Scheduled"
+    },
+    {
+      "Reference": "RSA-128",
+      "Description": "Simulated Weapons Training Kits",
+      "Origin": "Facility Horizon",
+      "Destination": "Facility Red Dune",
+      "Status": "Scheduled"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+Field,Value
+Title,Export Continuity Advisory
+DocumentNumber,FCT-2026-4E4C54
+Classification,Secret
+RelatedToSDAIAQuebook,True
+Keywords,export decline; export restriction; customs restriction; trade barrier; port closure; sanctions; trade embargo; shipping disruption
+Summary,"This report summarizes simulated activity related to export continuity across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: export decline, export restriction, customs restriction, trade barrier, port closure."
+
+Reference,Description,Origin,Destination,Status
+RSA-928,Encrypted Transport Cases,Facility Falcon,Facility Blue Port,Completed
+RSA-841,Controlled Inventory Containers,Facility Desert Star,Facility Blue Port,In Transit
+RSA-180,Simulated Weapons Training Kits,Facility Horizon,Facility Desert Star,In Transit
+RSA-610,Restricted Training Equipment,Facility Desert Star,Facility Desert Star,Scheduled

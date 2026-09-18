@@ -1,0 +1,10 @@
+Field	Value
+Title	Procurement Stationery Order
+Classification	Internal
+RelatedToSDAIAQuebook	False
+Keywords	whiteboard markers; sticky notes; toner cartridge; notebooks
+Reference	Description	Origin	Destination	Status
+GEN-703	Catering Supplies	Facility Blue Port	Facility Oasis	Pending
+GEN-946	Library Book Cartons	Facility Horizon	Facility Falcon	Scheduled
+GEN-406	Library Book Cartons	Facility Desert Star	Facility Blue Port	In Transit
+GEN-981	Sports Equipment Bundle	Facility Desert Star	Facility Desert Star	Completed

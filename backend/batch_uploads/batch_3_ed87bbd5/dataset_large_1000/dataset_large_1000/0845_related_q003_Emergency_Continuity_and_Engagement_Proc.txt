@@ -1,0 +1,87 @@
+FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.
+
+Title: Emergency Continuity and Engagement Procedures (Fictional)
+
+Document Number: FCT-2026-12C3A2
+
+Classification: Top Secret
+
+Prepared By: Records Management Division
+
+Date: 01 July 2026
+
+Executive Summary
+
+This report summarizes simulated activity related to war and emergency procedures across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: war plan, rules of engagement, defense strategy, evacuation plan, continuity of government.
+
+Activity Overview
+
+During the period between 01 July 2026 and 08 July 2026, the fictional coordination office recorded controlled entries associated with war and emergency procedures. References such as 'war plan', 'rules of engagement', and 'defense strategy' are embedded for AI sensitivity scoring.
+
+Facilities Involved
+
+- Facility Falcon (Central Region)
+
+- Facility Red Dune (Southern Region)
+
+- Facility Desert Star (Western Region)
+
+- Facility Horizon (Eastern Region)
+
+Operational Controls
+
+- Dual authorization by department managers.
+
+- Identity verification of all personnel involved.
+
+- Digital audit logging of manifests.
+
+- Encrypted storage of transportation records.
+
+- Keywords tracked for classification: war plan, rules of engagement, defense strategy, evacuation plan, continuity of government, command structure, contingency plan, military doctrine.
+
+Classification Indicators
+
+- war plan
+
+- rules of engagement
+
+- defense strategy
+
+- evacuation plan
+
+- continuity of government
+
+- command structure
+
+- contingency plan
+
+- military doctrine
+
+- Restricted Asset
+
+- Confidential
+
+- Authorized Personnel
+
+- Chain of Custody
+
+- Sensitive Information
+
+Conclusion
+
+This fictional record is intended exclusively for AI classification, governance, and Hyland Document Filters text-extraction Proof of Concept testing.
+
+END OF DOCUMENT
+
+Sample Register
+
+Reference | Description | Origin | Destination | Status
+
+RSA-159 | Security Training Materials | Facility Horizon | Facility Blue Port | Scheduled
+
+RSA-977 | Controlled Inventory Containers | Facility Oasis | Facility Oasis | Scheduled
+
+RSA-790 | Controlled Inventory Containers | Facility Desert Star | Facility Horizon | Scheduled
+
+RSA-298 | Controlled Inventory Containers | Facility Red Dune | Facility Desert Star | Pending

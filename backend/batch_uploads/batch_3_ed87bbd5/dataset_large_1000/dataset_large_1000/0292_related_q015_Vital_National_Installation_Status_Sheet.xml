@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fictionalReport relatedToSDAIAQuebook="true">
+  <meta>
+    <title>Vital National Installation Status Sheet</title>
+    <documentNumber>FCT-2026-D0F049</documentNumber>
+    <classification>Secret</classification>
+    <preparedBy>Compliance & Governance Unit</preparedBy>
+  </meta>
+  <disclaimer>FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.</disclaimer>
+  <summary>This report summarizes simulated activity related to vital national installations across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: power station, oil refinery, seaport, government facility, substation.</summary>
+  <overview>During the period between 16 June 2026 and 06 July 2026, the fictional coordination office recorded controlled entries associated with vital national installations. References such as 'power station', 'oil refinery', and 'seaport' are embedded for AI sensitivity scoring.</overview>
+  <keywords><keyword>power station</keyword><keyword>oil refinery</keyword><keyword>seaport</keyword><keyword>government facility</keyword><keyword>substation</keyword><keyword>airport</keyword><keyword>military base</keyword><keyword>telecom exchange</keyword></keywords>
+  <register><entry ref='RSA-331' description='Encrypted Transport Cases' origin='Facility Horizon' destination='Facility Red Dune' status='Pending'/><entry ref='RSA-160' description='Simulated Weapons Training Kits' origin='Facility Blue Port' destination='Facility Falcon' status='In Transit'/><entry ref='RSA-343' description='Encrypted Transport Cases' origin='Facility Red Dune' destination='Facility Oasis' status='Scheduled'/><entry ref='RSA-414' description='Authorized Logistics Packages' origin='Facility Oasis' destination='Facility Blue Port' status='In Transit'/></register>
+</fictionalReport>

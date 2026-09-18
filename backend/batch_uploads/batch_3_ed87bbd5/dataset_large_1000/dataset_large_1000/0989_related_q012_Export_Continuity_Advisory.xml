@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fictionalReport relatedToSDAIAQuebook="true">
+  <meta>
+    <title>Export Continuity Advisory</title>
+    <documentNumber>FCT-2026-35647B</documentNumber>
+    <classification>Secret</classification>
+    <preparedBy>Continuity Planning Desk</preparedBy>
+  </meta>
+  <disclaimer>FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.</disclaimer>
+  <summary>This report summarizes simulated activity related to export continuity across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: shipping disruption, port closure, export restriction, export decline, sanctions.</summary>
+  <overview>During the period between 02 June 2026 and 21 June 2026, the fictional coordination office recorded controlled entries associated with export continuity. References such as 'shipping disruption', 'port closure', and 'export restriction' are embedded for AI sensitivity scoring.</overview>
+  <keywords><keyword>shipping disruption</keyword><keyword>port closure</keyword><keyword>export restriction</keyword><keyword>export decline</keyword><keyword>sanctions</keyword><keyword>trade embargo</keyword><keyword>trade barrier</keyword><keyword>customs restriction</keyword></keywords>
+  <register><entry ref='RSA-969' description='Controlled Inventory Containers' origin='Facility Falcon' destination='Facility Horizon' status='In Transit'/><entry ref='RSA-318' description='Security Training Materials' origin='Facility Blue Port' destination='Facility Blue Port' status='In Transit'/><entry ref='RSA-575' description='Encrypted Transport Cases' origin='Facility Desert Star' destination='Facility Desert Star' status='In Transit'/><entry ref='RSA-676' description='Controlled Inventory Containers' origin='Facility Red Dune' destination='Facility Horizon' status='Scheduled'/></register>
+</fictionalReport>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fictionalReport relatedToSDAIAQuebook="true">
+  <meta>
+    <title>Vital National Installation Status Sheet</title>
+    <documentNumber>FCT-2026-5F61CE</documentNumber>
+    <classification>Secret</classification>
+    <preparedBy>Continuity Planning Desk</preparedBy>
+  </meta>
+  <disclaimer>FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.</disclaimer>
+  <summary>This report summarizes simulated activity related to vital national installations across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: military base, desalination plant, command center, government facility, airport.</summary>
+  <overview>During the period between 09 June 2026 and 23 June 2026, the fictional coordination office recorded controlled entries associated with vital national installations. References such as 'military base', 'desalination plant', and 'command center' are embedded for AI sensitivity scoring.</overview>
+  <keywords><keyword>military base</keyword><keyword>desalination plant</keyword><keyword>command center</keyword><keyword>government facility</keyword><keyword>airport</keyword><keyword>seaport</keyword><keyword>oil refinery</keyword><keyword>substation</keyword></keywords>
+  <register><entry ref='RSA-396' description='Authorized Logistics Packages' origin='Facility Red Dune' destination='Facility Oasis' status='Pending'/><entry ref='RSA-598' description='Restricted Training Equipment' origin='Facility Blue Port' destination='Facility Desert Star' status='In Transit'/><entry ref='RSA-421' description='Authorized Logistics Packages' origin='Facility Desert Star' destination='Facility Horizon' status='Completed'/><entry ref='RSA-102' description='Controlled Inventory Containers' origin='Facility Red Dune' destination='Facility Red Dune' status='In Transit'/></register>
+</fictionalReport>

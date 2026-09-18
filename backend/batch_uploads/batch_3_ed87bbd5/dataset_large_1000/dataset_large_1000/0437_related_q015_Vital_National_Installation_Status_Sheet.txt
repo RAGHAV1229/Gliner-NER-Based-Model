@@ -1,0 +1,87 @@
+FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.
+
+Title: Vital National Installation Status Sheet (Fictional)
+
+Document Number: FCT-2026-32AF85
+
+Classification: Secret
+
+Prepared By: Logistics Coordination Office
+
+Date: 10 June 2026
+
+Executive Summary
+
+This report summarizes simulated activity related to vital national installations across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: airport, seaport, substation, oil refinery, desalination plant.
+
+Activity Overview
+
+During the period between 10 June 2026 and 28 June 2026, the fictional coordination office recorded controlled entries associated with vital national installations. References such as 'airport', 'seaport', and 'substation' are embedded for AI sensitivity scoring.
+
+Facilities Involved
+
+- Facility Red Dune (Southern Region)
+
+- Facility Blue Port (Coastal Region)
+
+- Facility Horizon (Eastern Region)
+
+- Facility Oasis (Northern Region)
+
+Operational Controls
+
+- Dual authorization by department managers.
+
+- Identity verification of all personnel involved.
+
+- Digital audit logging of manifests.
+
+- Encrypted storage of transportation records.
+
+- Keywords tracked for classification: airport, seaport, substation, oil refinery, desalination plant, command center, power station, government facility.
+
+Classification Indicators
+
+- airport
+
+- seaport
+
+- substation
+
+- oil refinery
+
+- desalination plant
+
+- command center
+
+- power station
+
+- government facility
+
+- Restricted Asset
+
+- Confidential
+
+- Authorized Personnel
+
+- Chain of Custody
+
+- Sensitive Information
+
+Conclusion
+
+This fictional record is intended exclusively for AI classification, governance, and Hyland Document Filters text-extraction Proof of Concept testing.
+
+END OF DOCUMENT
+
+Sample Register
+
+Reference | Description | Origin | Destination | Status
+
+RSA-508 | Simulated Weapons Training Kits | Facility Horizon | Facility Red Dune | In Transit
+
+RSA-992 | Security Training Materials | Facility Horizon | Facility Oasis | Scheduled
+
+RSA-506 | Restricted Training Equipment | Facility Horizon | Facility Oasis | Completed
+
+RSA-682 | Controlled Inventory Containers | Facility Falcon | Facility Blue Port | Pending

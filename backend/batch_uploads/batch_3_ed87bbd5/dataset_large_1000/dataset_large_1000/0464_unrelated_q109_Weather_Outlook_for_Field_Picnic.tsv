@@ -1,0 +1,10 @@
+Field	Value
+Title	Weather Outlook for Field Picnic
+Classification	Public
+RelatedToSDAIAQuebook	False
+Keywords	light breeze; UV index; sunny intervals; picnic blankets
+Reference	Description	Origin	Destination	Status
+GEN-386	Office Furniture Transfer	Facility Blue Port	Facility Desert Star	Scheduled
+GEN-445	Catering Supplies	Facility Desert Star	Facility Red Dune	Completed
+GEN-677	Stationery Reorder Pack	Facility Falcon	Facility Desert Star	In Transit
+GEN-845	Office Furniture Transfer	Facility Falcon	Facility Desert Star	Scheduled

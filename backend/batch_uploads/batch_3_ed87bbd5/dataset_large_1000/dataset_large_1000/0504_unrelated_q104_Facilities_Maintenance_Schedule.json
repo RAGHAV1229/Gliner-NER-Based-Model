@@ -1,0 +1,56 @@
+{
+  "disclaimer": "FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.",
+  "title": "Facilities Maintenance Schedule",
+  "documentNumber": "FCT-2026-DB5EC0",
+  "classification": "Internal",
+  "relatedToSDAIAQuebook": false,
+  "preparedBy": "Compliance & Governance Unit",
+  "date": "2026-06-06T00:00:00",
+  "summary": "This memo covers routine administrative activity for facilities maintenance. It contains no defense, security, or national sensitivity indicators.",
+  "overview": "Between 06 June 2026 and 24 June 2026, staff completed ordinary tasks related to facilities maintenance. Mentions include 'HVAC filter' and 'parking lot paint' for operational clarity only.",
+  "keywords": [
+    "HVAC filter",
+    "parking lot paint",
+    "elevator inspection",
+    "lighting upgrade"
+  ],
+  "indicators": [
+    "HVAC filter",
+    "parking lot paint",
+    "elevator inspection",
+    "lighting upgrade",
+    "Internal Use",
+    "Routine Operations",
+    "Public Notice"
+  ],
+  "register": [
+    {
+      "Reference": "GEN-181",
+      "Description": "Stationery Reorder Pack",
+      "Origin": "Facility Horizon",
+      "Destination": "Facility Blue Port",
+      "Status": "Scheduled"
+    },
+    {
+      "Reference": "GEN-219",
+      "Description": "Library Book Cartons",
+      "Origin": "Facility Falcon",
+      "Destination": "Facility Oasis",
+      "Status": "In Transit"
+    },
+    {
+      "Reference": "GEN-433",
+      "Description": "Library Book Cartons",
+      "Origin": "Facility Horizon",
+      "Destination": "Facility Oasis",
+      "Status": "Pending"
+    },
+    {
+      "Reference": "GEN-815",
+      "Description": "Catering Supplies",
+      "Origin": "Facility Falcon",
+      "Destination": "Facility Desert Star",
+      "Status": "Pending"
+    }
+  ]
+}

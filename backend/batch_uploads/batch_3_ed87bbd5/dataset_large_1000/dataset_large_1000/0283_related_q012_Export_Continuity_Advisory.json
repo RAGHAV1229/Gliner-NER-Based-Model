@@ -1,0 +1,66 @@
+{
+  "disclaimer": "FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.",
+  "title": "Export Continuity Advisory",
+  "documentNumber": "FCT-2026-AE47B1",
+  "classification": "Secret",
+  "relatedToSDAIAQuebook": true,
+  "preparedBy": "Security Operations Department",
+  "date": "2026-06-11T00:00:00",
+  "summary": "This report summarizes simulated activity related to export continuity across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: trade barrier, shipping disruption, port closure, export restriction, sanctions.",
+  "overview": "During the period between 11 June 2026 and 24 June 2026, the fictional coordination office recorded controlled entries associated with export continuity. References such as 'trade barrier', 'shipping disruption', and 'port closure' are embedded for AI sensitivity scoring.",
+  "keywords": [
+    "trade barrier",
+    "shipping disruption",
+    "port closure",
+    "export restriction",
+    "sanctions",
+    "customs restriction",
+    "export decline",
+    "trade embargo"
+  ],
+  "indicators": [
+    "trade barrier",
+    "shipping disruption",
+    "port closure",
+    "export restriction",
+    "sanctions",
+    "customs restriction",
+    "export decline",
+    "trade embargo",
+    "Restricted Asset",
+    "Confidential",
+    "Authorized Personnel",
+    "Chain of Custody",
+    "Sensitive Information"
+  ],
+  "register": [
+    {
+      "Reference": "RSA-401",
+      "Description": "Encrypted Transport Cases",
+      "Origin": "Facility Oasis",
+      "Destination": "Facility Oasis",
+      "Status": "In Transit"
+    },
+    {
+      "Reference": "RSA-650",
+      "Description": "Restricted Training Equipment",
+      "Origin": "Facility Red Dune",
+      "Destination": "Facility Blue Port",
+      "Status": "Completed"
+    },
+    {
+      "Reference": "RSA-286",
+      "Description": "Restricted Training Equipment",
+      "Origin": "Facility Falcon",
+      "Destination": "Facility Blue Port",
+      "Status": "Pending"
+    },
+    {
+      "Reference": "RSA-696",
+      "Description": "Authorized Logistics Packages",
+      "Origin": "Facility Blue Port",
+      "Destination": "Facility Horizon",
+      "Status": "Scheduled"
+    }
+  ]
+}

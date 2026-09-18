@@ -1,0 +1,87 @@
+FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.
+
+Title: Diplomatic Negotiation Status Memo (Fictional)
+
+Document Number: FCT-2026-1E337B
+
+Classification: Secret
+
+Prepared By: Compliance & Governance Unit
+
+Date: 11 July 2026
+
+Executive Summary
+
+This report summarizes simulated activity related to diplomatic relations and treaties across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: treaty, MOU, bilateral agreement, consulate, embassy.
+
+Activity Overview
+
+During the period between 11 July 2026 and 26 July 2026, the fictional coordination office recorded controlled entries associated with diplomatic relations and treaties. References such as 'treaty', 'MOU', and 'bilateral agreement' are embedded for AI sensitivity scoring.
+
+Facilities Involved
+
+- Facility Desert Star (Western Region)
+
+- Facility Blue Port (Coastal Region)
+
+- Facility Falcon (Central Region)
+
+- Facility Oasis (Northern Region)
+
+Operational Controls
+
+- Dual authorization by department managers.
+
+- Identity verification of all personnel involved.
+
+- Digital audit logging of manifests.
+
+- Encrypted storage of transportation records.
+
+- Keywords tracked for classification: treaty, MOU, bilateral agreement, consulate, embassy, strategic partnership, diplomatic cable, classified negotiation.
+
+Classification Indicators
+
+- treaty
+
+- MOU
+
+- bilateral agreement
+
+- consulate
+
+- embassy
+
+- strategic partnership
+
+- diplomatic cable
+
+- classified negotiation
+
+- Restricted Asset
+
+- Confidential
+
+- Authorized Personnel
+
+- Chain of Custody
+
+- Sensitive Information
+
+Conclusion
+
+This fictional record is intended exclusively for AI classification, governance, and Hyland Document Filters text-extraction Proof of Concept testing.
+
+END OF DOCUMENT
+
+Sample Register
+
+Reference | Description | Origin | Destination | Status
+
+RSA-578 | Simulated Weapons Training Kits | Facility Horizon | Facility Oasis | Pending
+
+RSA-374 | Restricted Training Equipment | Facility Desert Star | Facility Desert Star | In Transit
+
+RSA-439 | Encrypted Transport Cases | Facility Oasis | Facility Blue Port | Completed
+
+RSA-162 | Authorized Logistics Packages | Facility Blue Port | Facility Horizon | Completed

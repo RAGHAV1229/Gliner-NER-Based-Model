@@ -1,0 +1,56 @@
+{
+  "disclaimer": "FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.",
+  "title": "Office Cafeteria Weekly Menu",
+  "documentNumber": "FCT-2026-FECA35",
+  "classification": "Public",
+  "relatedToSDAIAQuebook": false,
+  "preparedBy": "Compliance & Governance Unit",
+  "date": "2026-06-23T00:00:00",
+  "summary": "This memo covers routine administrative activity for cafeteria and catering. It contains no defense, security, or national sensitivity indicators.",
+  "overview": "Between 23 June 2026 and 03 July 2026, staff completed ordinary tasks related to cafeteria and catering. Mentions include 'dessert bar' and 'vegetarian option' for operational clarity only.",
+  "keywords": [
+    "dessert bar",
+    "vegetarian option",
+    "coffee station",
+    "lunch special"
+  ],
+  "indicators": [
+    "dessert bar",
+    "vegetarian option",
+    "coffee station",
+    "lunch special",
+    "Internal Use",
+    "Routine Operations",
+    "Public Notice"
+  ],
+  "register": [
+    {
+      "Reference": "GEN-613",
+      "Description": "Office Furniture Transfer",
+      "Origin": "Facility Desert Star",
+      "Destination": "Facility Falcon",
+      "Status": "In Transit"
+    },
+    {
+      "Reference": "GEN-421",
+      "Description": "Stationery Reorder Pack",
+      "Origin": "Facility Red Dune",
+      "Destination": "Facility Oasis",
+      "Status": "Completed"
+    },
+    {
+      "Reference": "GEN-449",
+      "Description": "Stationery Reorder Pack",
+      "Origin": "Facility Blue Port",
+      "Destination": "Facility Desert Star",
+      "Status": "In Transit"
+    },
+    {
+      "Reference": "GEN-194",
+      "Description": "Stationery Reorder Pack",
+      "Origin": "Facility Red Dune",
+      "Destination": "Facility Falcon",
+      "Status": "In Transit"
+    }
+  ]
+}

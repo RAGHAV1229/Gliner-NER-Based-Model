@@ -1,0 +1,13 @@
+Field,Value
+Title,Office Cafeteria Weekly Menu
+DocumentNumber,FCT-2026-6D31DA
+Classification,Public
+RelatedToSDAIAQuebook,False
+Keywords,vegetarian option; dessert bar; coffee station; lunch special
+Summary,"This memo covers routine administrative activity for cafeteria and catering. It contains no defense, security, or national sensitivity indicators."
+
+Reference,Description,Origin,Destination,Status
+GEN-254,Library Book Cartons,Facility Horizon,Facility Horizon,Scheduled
+GEN-268,Catering Supplies,Facility Falcon,Facility Oasis,Completed
+GEN-493,Catering Supplies,Facility Oasis,Facility Blue Port,In Transit
+GEN-361,Sports Equipment Bundle,Facility Oasis,Facility Horizon,Scheduled

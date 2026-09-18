@@ -1,0 +1,13 @@
+Field,Value
+Title,Procurement Stationery Order
+DocumentNumber,FCT-2026-5BF973
+Classification,Internal
+RelatedToSDAIAQuebook,False
+Keywords,notebooks; whiteboard markers; toner cartridge; sticky notes
+Summary,"This memo covers routine administrative activity for office stationery. It contains no defense, security, or national sensitivity indicators."
+
+Reference,Description,Origin,Destination,Status
+GEN-358,Library Book Cartons,Facility Falcon,Facility Blue Port,Scheduled
+GEN-791,Sports Equipment Bundle,Facility Horizon,Facility Red Dune,Pending
+GEN-842,Sports Equipment Bundle,Facility Red Dune,Facility Blue Port,In Transit
+GEN-780,Stationery Reorder Pack,Facility Horizon,Facility Blue Port,Scheduled

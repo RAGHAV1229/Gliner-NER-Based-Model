@@ -1,0 +1,38 @@
+Microsoft
+Azure Cloud Services
+Infosys
+Tata Consultancy Services
+Amazon Web Services
+Google Cloud
+IBM
+Oracle
+SAP
+Accenture
+Deloitte
+PwC
+HDFC Bank
+State Bank of India
+Reserve Bank of India
+World Health Organization
+United Nations
+NATO
+ISRO
+DRDO
+All India Institute of Medical Sciences
+Stanford University
+Medi-Caps University
+BlueLine Logistics
+Data Dynamics
+Siemens
+Boeing
+Lockheed Martin
+Palantir
+CrowdStrike
+Ministry of Defence
+Ministry of Health
+European Central Bank
+Reliance Industries
+Adani Ports
+Tesla
+OpenAI
+NVIDIA

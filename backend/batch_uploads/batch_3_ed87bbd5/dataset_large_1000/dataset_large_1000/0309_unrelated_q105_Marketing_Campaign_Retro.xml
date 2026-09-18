@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fictionalReport relatedToSDAIAQuebook="false">
+  <meta>
+    <title>Marketing Campaign Retro</title>
+    <documentNumber>FCT-2026-7F039A</documentNumber>
+    <classification>Internal</classification>
+    <preparedBy>Compliance & Governance Unit</preparedBy>
+  </meta>
+  <disclaimer>FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.</disclaimer>
+  <summary>This memo covers routine administrative activity for marketing analytics. It contains no defense, security, or national sensitivity indicators.</summary>
+  <overview>Between 29 June 2026 and 07 July 2026, staff completed ordinary tasks related to marketing analytics. Mentions include 'click-through rate' and 'social media post' for operational clarity only.</overview>
+  <keywords><keyword>click-through rate</keyword><keyword>social media post</keyword><keyword>brand awareness</keyword><keyword>newsletter open rate</keyword></keywords>
+  <register><entry ref='GEN-455' description='Library Book Cartons' origin='Facility Blue Port' destination='Facility Red Dune' status='In Transit'/><entry ref='GEN-807' description='Library Book Cartons' origin='Facility Oasis' destination='Facility Horizon' status='Pending'/><entry ref='GEN-898' description='Office Furniture Transfer' origin='Facility Horizon' destination='Facility Falcon' status='Completed'/><entry ref='GEN-751' description='Sports Equipment Bundle' origin='Facility Red Dune' destination='Facility Blue Port' status='Pending'/></register>
+</fictionalReport>

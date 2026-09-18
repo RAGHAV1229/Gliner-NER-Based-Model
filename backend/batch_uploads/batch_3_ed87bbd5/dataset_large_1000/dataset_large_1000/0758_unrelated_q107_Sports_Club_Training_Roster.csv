@@ -1,0 +1,13 @@
+Field,Value
+Title,Sports Club Training Roster
+DocumentNumber,FCT-2026-1A222E
+Classification,Public
+RelatedToSDAIAQuebook,False
+Keywords,football drills; injury recovery; attendance sheet; coach notes
+Summary,"This memo covers routine administrative activity for sports training. It contains no defense, security, or national sensitivity indicators."
+
+Reference,Description,Origin,Destination,Status
+GEN-538,Stationery Reorder Pack,Facility Falcon,Facility Desert Star,Pending
+GEN-747,Sports Equipment Bundle,Facility Red Dune,Facility Oasis,Completed
+GEN-310,Office Furniture Transfer,Facility Falcon,Facility Falcon,Pending
+GEN-370,Stationery Reorder Pack,Facility Desert Star,Facility Oasis,Completed

@@ -1,0 +1,13 @@
+Field,Value
+Title,Weather Outlook for Field Picnic
+DocumentNumber,FCT-2026-B851DA
+Classification,Public
+RelatedToSDAIAQuebook,False
+Keywords,UV index; picnic blankets; sunny intervals; light breeze
+Summary,"This memo covers routine administrative activity for outdoor picnic weather. It contains no defense, security, or national sensitivity indicators."
+
+Reference,Description,Origin,Destination,Status
+GEN-346,Garden Tools Set,Facility Oasis,Facility Blue Port,Scheduled
+GEN-177,Garden Tools Set,Facility Falcon,Facility Red Dune,Completed
+GEN-244,Sports Equipment Bundle,Facility Horizon,Facility Red Dune,Pending
+GEN-988,Stationery Reorder Pack,Facility Red Dune,Facility Falcon,In Transit

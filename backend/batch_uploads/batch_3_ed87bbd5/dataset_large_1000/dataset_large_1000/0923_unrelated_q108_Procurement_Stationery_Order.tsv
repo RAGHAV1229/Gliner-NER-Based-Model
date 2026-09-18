@@ -1,0 +1,10 @@
+Field	Value
+Title	Procurement Stationery Order
+Classification	Internal
+RelatedToSDAIAQuebook	False
+Keywords	notebooks; whiteboard markers; toner cartridge; sticky notes
+Reference	Description	Origin	Destination	Status
+GEN-338	Office Furniture Transfer	Facility Desert Star	Facility Oasis	Pending
+GEN-381	Catering Supplies	Facility Oasis	Facility Oasis	Scheduled
+GEN-978	Office Furniture Transfer	Facility Horizon	Facility Red Dune	Scheduled
+GEN-130	Catering Supplies	Facility Desert Star	Facility Oasis	In Transit

@@ -1,0 +1,13 @@
+Field,Value
+Title,National Reputation Risk Watchlist
+DocumentNumber,FCT-2026-9B401C
+Classification,Top Secret
+RelatedToSDAIAQuebook,True
+Keywords,corruption; human rights violation; media exposure; money laundering; bribery; diplomatic crisis; international criticism; censorship
+Summary,"This report summarizes simulated activity related to national reputation risk across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: corruption, human rights violation, media exposure, money laundering, bribery."
+
+Reference,Description,Origin,Destination,Status
+RSA-865,Authorized Logistics Packages,Facility Red Dune,Facility Desert Star,Pending
+RSA-759,Authorized Logistics Packages,Facility Desert Star,Facility Red Dune,Pending
+RSA-985,Restricted Training Equipment,Facility Red Dune,Facility Red Dune,Scheduled
+RSA-671,Security Training Materials,Facility Falcon,Facility Blue Port,Pending

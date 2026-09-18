@@ -1,0 +1,13 @@
+Field,Value
+Title,Labor Market Stability Brief
+DocumentNumber,FCT-2026-8C121E
+Classification,Secret
+RelatedToSDAIAQuebook,True
+Keywords,Saudization; recruitment freeze; labor shortage; unemployment; wage reduction; employment crisis; Nitaqat; mass layoff
+Summary,"This report summarizes simulated activity related to labor market impacts across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: Saudization, recruitment freeze, labor shortage, unemployment, wage reduction."
+
+Reference,Description,Origin,Destination,Status
+RSA-549,Simulated Weapons Training Kits,Facility Oasis,Facility Red Dune,Completed
+RSA-682,Encrypted Transport Cases,Facility Blue Port,Facility Red Dune,Pending
+RSA-648,Restricted Training Equipment,Facility Oasis,Facility Red Dune,Completed
+RSA-713,Restricted Training Equipment,Facility Falcon,Facility Blue Port,Completed

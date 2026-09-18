@@ -1,0 +1,66 @@
+{
+  "disclaimer": "FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.",
+  "title": "Vital National Installation Status Sheet",
+  "documentNumber": "FCT-2026-277F0C",
+  "classification": "Secret",
+  "relatedToSDAIAQuebook": true,
+  "preparedBy": "Logistics Coordination Office",
+  "date": "2026-06-09T00:00:00",
+  "summary": "This report summarizes simulated activity related to vital national installations across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: military base, telecom exchange, desalination plant, seaport, power station.",
+  "overview": "During the period between 09 June 2026 and 17 June 2026, the fictional coordination office recorded controlled entries associated with vital national installations. References such as 'military base', 'telecom exchange', and 'desalination plant' are embedded for AI sensitivity scoring.",
+  "keywords": [
+    "military base",
+    "telecom exchange",
+    "desalination plant",
+    "seaport",
+    "power station",
+    "government facility",
+    "airport",
+    "command center"
+  ],
+  "indicators": [
+    "military base",
+    "telecom exchange",
+    "desalination plant",
+    "seaport",
+    "power station",
+    "government facility",
+    "airport",
+    "command center",
+    "Restricted Asset",
+    "Confidential",
+    "Authorized Personnel",
+    "Chain of Custody",
+    "Sensitive Information"
+  ],
+  "register": [
+    {
+      "Reference": "RSA-860",
+      "Description": "Encrypted Transport Cases",
+      "Origin": "Facility Desert Star",
+      "Destination": "Facility Desert Star",
+      "Status": "Pending"
+    },
+    {
+      "Reference": "RSA-799",
+      "Description": "Security Training Materials",
+      "Origin": "Facility Red Dune",
+      "Destination": "Facility Blue Port",
+      "Status": "Pending"
+    },
+    {
+      "Reference": "RSA-998",
+      "Description": "Simulated Weapons Training Kits",
+      "Origin": "Facility Red Dune",
+      "Destination": "Facility Horizon",
+      "Status": "Scheduled"
+    },
+    {
+      "Reference": "RSA-927",
+      "Description": "Security Training Materials",
+      "Origin": "Facility Oasis",
+      "Destination": "Facility Horizon",
+      "Status": "Scheduled"
+    }
+  ]
+}

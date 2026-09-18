@@ -1,0 +1,66 @@
+{
+  "disclaimer": "FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.",
+  "title": "Restricted Defense Asset Inventory Brief",
+  "documentNumber": "FCT-2026-422B2D",
+  "classification": "Top Secret",
+  "relatedToSDAIAQuebook": true,
+  "preparedBy": "Logistics Coordination Office",
+  "date": "2026-07-11T00:00:00",
+  "summary": "This report summarizes simulated activity related to weapons and military assets across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: explosives, fighter aircraft, artillery, Royal Saudi Air Force, UAV.",
+  "overview": "During the period between 11 July 2026 and 28 July 2026, the fictional coordination office recorded controlled entries associated with weapons and military assets. References such as 'explosives', 'fighter aircraft', and 'artillery' are embedded for AI sensitivity scoring.",
+  "keywords": [
+    "explosives",
+    "fighter aircraft",
+    "artillery",
+    "Royal Saudi Air Force",
+    "UAV",
+    "ammunition depot",
+    "ballistic missile",
+    "Ministry of Defense"
+  ],
+  "indicators": [
+    "explosives",
+    "fighter aircraft",
+    "artillery",
+    "Royal Saudi Air Force",
+    "UAV",
+    "ammunition depot",
+    "ballistic missile",
+    "Ministry of Defense",
+    "Restricted Asset",
+    "Confidential",
+    "Authorized Personnel",
+    "Chain of Custody",
+    "Sensitive Information"
+  ],
+  "register": [
+    {
+      "Reference": "RSA-865",
+      "Description": "Authorized Logistics Packages",
+      "Origin": "Facility Falcon",
+      "Destination": "Facility Falcon",
+      "Status": "Scheduled"
+    },
+    {
+      "Reference": "RSA-867",
+      "Description": "Controlled Inventory Containers",
+      "Origin": "Facility Oasis",
+      "Destination": "Facility Blue Port",
+      "Status": "Pending"
+    },
+    {
+      "Reference": "RSA-587",
+      "Description": "Authorized Logistics Packages",
+      "Origin": "Facility Red Dune",
+      "Destination": "Facility Oasis",
+      "Status": "Pending"
+    },
+    {
+      "Reference": "RSA-818",
+      "Description": "Security Training Materials",
+      "Origin": "Facility Oasis",
+      "Destination": "Facility Desert Star",
+      "Status": "Scheduled"
+    }
+  ]
+}

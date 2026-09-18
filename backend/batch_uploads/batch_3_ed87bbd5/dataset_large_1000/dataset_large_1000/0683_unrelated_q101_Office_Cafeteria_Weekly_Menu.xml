@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fictionalReport relatedToSDAIAQuebook="false">
+  <meta>
+    <title>Office Cafeteria Weekly Menu</title>
+    <documentNumber>FCT-2026-8DA19A</documentNumber>
+    <classification>Public</classification>
+    <preparedBy>Security Operations Department</preparedBy>
+  </meta>
+  <disclaimer>FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.</disclaimer>
+  <summary>This memo covers routine administrative activity for cafeteria and catering. It contains no defense, security, or national sensitivity indicators.</summary>
+  <overview>Between 07 July 2026 and 14 July 2026, staff completed ordinary tasks related to cafeteria and catering. Mentions include 'lunch special' and 'vegetarian option' for operational clarity only.</overview>
+  <keywords><keyword>lunch special</keyword><keyword>vegetarian option</keyword><keyword>coffee station</keyword><keyword>dessert bar</keyword></keywords>
+  <register><entry ref='GEN-856' description='Office Furniture Transfer' origin='Facility Desert Star' destination='Facility Horizon' status='Completed'/><entry ref='GEN-898' description='Garden Tools Set' origin='Facility Desert Star' destination='Facility Horizon' status='Scheduled'/><entry ref='GEN-848' description='Stationery Reorder Pack' origin='Facility Blue Port' destination='Facility Horizon' status='Scheduled'/><entry ref='GEN-869' description='Library Book Cartons' origin='Facility Falcon' destination='Facility Horizon' status='Scheduled'/></register>
+</fictionalReport>

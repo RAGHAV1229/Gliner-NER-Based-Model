@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fictionalReport relatedToSDAIAQuebook="false">
+  <meta>
+    <title>Facilities Maintenance Schedule</title>
+    <documentNumber>FCT-2026-EE70E9</documentNumber>
+    <classification>Internal</classification>
+    <preparedBy>Compliance & Governance Unit</preparedBy>
+  </meta>
+  <disclaimer>FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.</disclaimer>
+  <summary>This memo covers routine administrative activity for facilities maintenance. It contains no defense, security, or national sensitivity indicators.</summary>
+  <overview>Between 15 June 2026 and 30 June 2026, staff completed ordinary tasks related to facilities maintenance. Mentions include 'HVAC filter' and 'parking lot paint' for operational clarity only.</overview>
+  <keywords><keyword>HVAC filter</keyword><keyword>parking lot paint</keyword><keyword>lighting upgrade</keyword><keyword>elevator inspection</keyword></keywords>
+  <register><entry ref='GEN-422' description='Office Furniture Transfer' origin='Facility Horizon' destination='Facility Blue Port' status='Completed'/><entry ref='GEN-860' description='Stationery Reorder Pack' origin='Facility Red Dune' destination='Facility Oasis' status='Pending'/><entry ref='GEN-106' description='Office Furniture Transfer' origin='Facility Falcon' destination='Facility Blue Port' status='In Transit'/><entry ref='GEN-897' description='Garden Tools Set' origin='Facility Red Dune' destination='Facility Blue Port' status='Scheduled'/></register>
+</fictionalReport>

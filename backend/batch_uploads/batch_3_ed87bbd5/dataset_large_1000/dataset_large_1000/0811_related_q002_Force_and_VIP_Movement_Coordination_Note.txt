@@ -1,0 +1,87 @@
+FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.
+
+Title: Force and VIP Movement Coordination Note (Fictional)
+
+Document Number: FCT-2026-9D2703
+
+Classification: Top Secret
+
+Prepared By: Continuity Planning Desk
+
+Date: 10 June 2026
+
+Executive Summary
+
+This report summarizes simulated activity related to armed forces and VIP movement across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: motorcade, convoy, National Guard, checkpoint, troop movement.
+
+Activity Overview
+
+During the period between 10 June 2026 and 22 June 2026, the fictional coordination office recorded controlled entries associated with armed forces and VIP movement. References such as 'motorcade', 'convoy', and 'National Guard' are embedded for AI sensitivity scoring.
+
+Facilities Involved
+
+- Facility Blue Port (Coastal Region)
+
+- Facility Desert Star (Western Region)
+
+- Facility Horizon (Eastern Region)
+
+- Facility Red Dune (Southern Region)
+
+Operational Controls
+
+- Dual authorization by department managers.
+
+- Identity verification of all personnel involved.
+
+- Digital audit logging of manifests.
+
+- Encrypted storage of transportation records.
+
+- Keywords tracked for classification: motorcade, convoy, National Guard, checkpoint, troop movement, military exercise, Royal Guard, escort.
+
+Classification Indicators
+
+- motorcade
+
+- convoy
+
+- National Guard
+
+- checkpoint
+
+- troop movement
+
+- military exercise
+
+- Royal Guard
+
+- escort
+
+- Restricted Asset
+
+- Confidential
+
+- Authorized Personnel
+
+- Chain of Custody
+
+- Sensitive Information
+
+Conclusion
+
+This fictional record is intended exclusively for AI classification, governance, and Hyland Document Filters text-extraction Proof of Concept testing.
+
+END OF DOCUMENT
+
+Sample Register
+
+Reference | Description | Origin | Destination | Status
+
+RSA-579 | Controlled Inventory Containers | Facility Oasis | Facility Desert Star | Completed
+
+RSA-915 | Security Training Materials | Facility Falcon | Facility Horizon | In Transit
+
+RSA-297 | Controlled Inventory Containers | Facility Horizon | Facility Desert Star | Completed
+
+RSA-224 | Security Training Materials | Facility Falcon | Facility Falcon | In Transit

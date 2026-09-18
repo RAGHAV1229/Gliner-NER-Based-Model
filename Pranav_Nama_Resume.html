@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Pranav Nama — Resume</title>
+  <style>
+    @page { size: A4; margin: 10mm 12mm; }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: #e8edf2;
+      color: #1a2332;
+      font-family: Calibri, "Segoe UI", Arial, sans-serif;
+      font-size: 10pt;
+      line-height: 1.28;
+    }
+    .page {
+      width: 210mm;
+      min-height: 297mm;
+      margin: 16px auto;
+      padding: 11mm 14mm;
+      background: #fff;
+      box-shadow: 0 2px 18px rgba(16, 32, 56, 0.12);
+    }
+    h1 { margin: 0; font-size: 20pt; letter-spacing: 1.5px; text-align: center; color: #0f2744; }
+    .role { margin: 2px 0 5px; text-align: center; font-size: 10.5pt; color: #2c4a6e; font-weight: 600; }
+    .contact { text-align: center; font-size: 9.3pt; color: #334155; }
+    .contact a { color: #1d4ed8; text-decoration: none; }
+    h2 {
+      margin: 8px 0 4px;
+      font-size: 10.5pt;
+      letter-spacing: 1px;
+      color: #0f2744;
+      border-bottom: 1.5px solid #0f2744;
+      padding-bottom: 1px;
+      text-transform: uppercase;
+    }
+    p { margin: 0 0 3px; }
+    .summary { text-align: justify; }
+    .skills td { vertical-align: top; padding: 0; font-size: 10pt; }
+    .skills td:first-child { width: 108px; font-weight: 700; color: #0f2744; white-space: nowrap; }
+    .row { display: flex; justify-content: space-between; gap: 10px; font-weight: 700; color: #0f2744; }
+    .sub { display: flex; justify-content: space-between; font-style: italic; color: #3b4d63; font-size: 9.5pt; margin-bottom: 1px; }
+    .item { margin-bottom: 5px; }
+    ul { margin: 1px 0 0 16px; padding: 0; }
+    li { margin: 0; }
+    @media print {
+      body { background: #fff; }
+      .page { margin: 0; box-shadow: none; width: auto; min-height: auto; padding: 0; }
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <h1>PRANAV NAMA</h1>
+    <div class="role">B.Tech. CSE — Data Science | Software &amp; Data Engineering</div>
+    <div class="contact">
+      Indore, Madhya Pradesh &nbsp;|&nbsp; +91 94149 39841 &nbsp;|&nbsp; +91 88244 27873<br />
+      <a href="mailto:en22cs303035@medicaps.ac.in">en22cs303035@medicaps.ac.in</a>
+      &nbsp;|&nbsp; <a href="mailto:pranavlalit@gmail.com">pranavlalit@gmail.com</a>
+      &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/pranav-nama-3b1547326/">linkedin.com/in/pranav-nama-3b1547326</a>
+    </div>
+
+    <h2>Professional Summary</h2>
+    <p class="summary">Final-year CSE (Data Science) student building production-style systems in Python, SQL, and the MERN stack. Delivered an enterprise NER/PII platform, semantic duplicate-document detection, and data-cleaning pipelines. Seeking a software or data engineering role with clean code, structured delivery, and measurable impact.</p>
+
+    <h2>Technical Skills</h2>
+    <table class="skills">
+      <tr><td>Languages</td><td>Python, C, C++, SQL, JavaScript, HTML, CSS, R</td></tr>
+      <tr><td>Frameworks</td><td>FastAPI, Django, Flask, React.js, Node.js, Express.js</td></tr>
+      <tr><td>Data &amp; NLP</td><td>Pandas, NumPy, GLiNER, Transformers, Sentence-Transformers, scikit-learn, Regex</td></tr>
+      <tr><td>Databases</td><td>PostgreSQL, MySQL, MongoDB, SQLAlchemy</td></tr>
+      <tr><td>Analytics</td><td>Power BI, Tableau, Excel, Alteryx Designer, DBeaver, Matplotlib, Seaborn</td></tr>
+      <tr><td>Tools</td><td>Git, REST APIs, JWT Auth, Vite, Jupyter, PyCharm</td></tr>
+    </table>
+
+    <h2>Education</h2>
+    <div class="item">
+      <div class="row"><span>Medicaps University, Indore</span><span>2022 – 2026</span></div>
+      <div class="sub"><span>B.Tech. Computer Science &amp; Engineering — Data Science</span><span>CGPA: 6.86 / 10</span></div>
+      <div class="row" style="font-weight:600;font-size:10pt;margin-top:2px;"><span>Aklank Public School, Kota | Class XII, CBSE | 77%</span><span>2022</span></div>
+      <div class="row" style="font-weight:600;font-size:10pt;"><span>Bansal Public School, Kota | Class X, CBSE | 62.10%</span><span>2020</span></div>
+    </div>
+
+    <h2>Internships</h2>
+    <div class="item">
+      <div class="row"><span>Data Analyst Intern — VGT Kota</span><span>Jul 2025 – Aug 2025</span></div>
+      <ul>
+        <li>Cleaned and analysed datasets with Python (Pandas, NumPy), Excel, and MySQL; summarised results in R.</li>
+        <li>Built Power BI and Tableau dashboards for business reporting and visual decision support.</li>
+      </ul>
+    </div>
+    <div class="item">
+      <div class="row"><span>Alteryx Designer Intern — Academic / Research</span><span>Jun 2025 – Jul 2025</span></div>
+      <ul>
+        <li>Built Alteryx Designer workflows for data preparation, blending, and repeatable analytics automation.</li>
+      </ul>
+    </div>
+
+    <h2>Projects</h2>
+    <div class="item">
+      <div class="row"><span>Enterprise GLiNER NER Platform</span><span style="font-weight:600;font-style:italic;color:#3b4d63;">FastAPI, React, GLiNER, SQLAlchemy, OpenAI</span></div>
+      <ul>
+        <li>Role-based NER product with batch file/folder/archive upload, scan progress, history, and admin/user access.</li>
+        <li>Hybrid detection: contextual GLiNER plus deterministic PII extractors (Aadhaar, PAN, GST, cards, email, phone).</li>
+        <li>Fine-tuned GLiNER on an enterprise dataset and compared results against OpenAI NER.</li>
+      </ul>
+    </div>
+    <div class="item">
+      <div class="row"><span>Duplicate Document Finder</span><span style="font-weight:600;font-style:italic;color:#3b4d63;">Python, Sentence-Transformers, scikit-learn, Pandas</span></div>
+      <ul>
+        <li>Detected exact and near-duplicate documents with sentence embeddings and similarity ranking.</li>
+        <li>Produced clustered duplicate reports so reviewers can inspect matching document pairs quickly.</li>
+      </ul>
+    </div>
+    <div class="item">
+      <div class="row"><span>PII Scanner</span><span style="font-weight:600;font-style:italic;color:#3b4d63;">Python, Regex, pypdf, python-docx</span></div>
+      <ul>
+        <li>Scanned TXT, PDF, and DOCX files for emails, phones, and sensitive keywords; exported count-based reports.</li>
+      </ul>
+    </div>
+    <div class="item">
+      <div class="row"><span>Mini File Search &amp; Sensitive Data Detection</span><span style="font-weight:600;font-style:italic;color:#3b4d63;">Python, OS, Regex</span></div>
+      <ul>
+        <li>Indexed folders of text files and returned keyword hits with file name and line number.</li>
+        <li>Flagged sensitive content during search so reviewers can locate PII-like terms quickly.</li>
+      </ul>
+    </div>
+    <div class="item">
+      <div class="row"><span>Keyword Detection System</span><span style="font-weight:600;font-style:italic;color:#3b4d63;">Python, Regex, PyPDF2, python-docx</span></div>
+      <ul>
+        <li>Read TXT, PDF, and DOCX files and detected emails, phone numbers, and predefined sensitive keywords.</li>
+        <li>Generated a count-based report summarising matches by file and keyword type.</li>
+      </ul>
+    </div>
+    <p class="summary"><strong>Additional practice:</strong> PostgreSQL schema + analytical SQL in DBeaver (top users, duplicates, summaries); Pandas log analyser (ERROR/WARNING/INFO); CSV cleaning pipeline with quality report.</p>
+
+    <h2>Certifications</h2>
+    <p>Python (85) · C++ (85) · MERN Stack (85) · Web Development (85) · DSA (85) · Alteryx Community (90)</p>
+
+    <h2>Leadership</h2>
+    <ul>
+      <li>Organised and mentored campus teams; represented the institute in inter-university competitive events.</li>
+      <li>Winner — Medicaps University Valorant Tournament (2023); Winner — Jio Games Campus Cup (2025); 2nd — GodLike Esports (2023).</li>
+    </ul>
+  </div>
+</body>
+</html>

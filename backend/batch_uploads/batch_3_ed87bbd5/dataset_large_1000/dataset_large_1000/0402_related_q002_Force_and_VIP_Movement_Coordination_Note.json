@@ -1,0 +1,66 @@
+{
+  "disclaimer": "FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.",
+  "title": "Force and VIP Movement Coordination Note",
+  "documentNumber": "FCT-2026-EA4CFD",
+  "classification": "Top Secret",
+  "relatedToSDAIAQuebook": true,
+  "preparedBy": "Records Management Division",
+  "date": "2026-06-23T00:00:00",
+  "summary": "This report summarizes simulated activity related to armed forces and VIP movement across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: military exercise, mobilization, motorcade, deployment, patrol route.",
+  "overview": "During the period between 23 June 2026 and 30 June 2026, the fictional coordination office recorded controlled entries associated with armed forces and VIP movement. References such as 'military exercise', 'mobilization', and 'motorcade' are embedded for AI sensitivity scoring.",
+  "keywords": [
+    "military exercise",
+    "mobilization",
+    "motorcade",
+    "deployment",
+    "patrol route",
+    "VIP movement",
+    "Royal Guard",
+    "convoy"
+  ],
+  "indicators": [
+    "military exercise",
+    "mobilization",
+    "motorcade",
+    "deployment",
+    "patrol route",
+    "VIP movement",
+    "Royal Guard",
+    "convoy",
+    "Restricted Asset",
+    "Confidential",
+    "Authorized Personnel",
+    "Chain of Custody",
+    "Sensitive Information"
+  ],
+  "register": [
+    {
+      "Reference": "RSA-236",
+      "Description": "Encrypted Transport Cases",
+      "Origin": "Facility Oasis",
+      "Destination": "Facility Desert Star",
+      "Status": "Pending"
+    },
+    {
+      "Reference": "RSA-325",
+      "Description": "Authorized Logistics Packages",
+      "Origin": "Facility Falcon",
+      "Destination": "Facility Desert Star",
+      "Status": "In Transit"
+    },
+    {
+      "Reference": "RSA-505",
+      "Description": "Simulated Weapons Training Kits",
+      "Origin": "Facility Horizon",
+      "Destination": "Facility Blue Port",
+      "Status": "Pending"
+    },
+    {
+      "Reference": "RSA-724",
+      "Description": "Controlled Inventory Containers",
+      "Origin": "Facility Red Dune",
+      "Destination": "Facility Blue Port",
+      "Status": "Scheduled"
+    }
+  ]
+}

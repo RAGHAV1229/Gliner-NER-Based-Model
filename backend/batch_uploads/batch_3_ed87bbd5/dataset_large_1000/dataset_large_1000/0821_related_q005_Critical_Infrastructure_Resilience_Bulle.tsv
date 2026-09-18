@@ -1,0 +1,10 @@
+Field	Value
+Title	Critical Infrastructure Resilience Bulletin
+Classification	Top Secret
+RelatedToSDAIAQuebook	True
+Keywords	pipeline; ICS; blackout; SCADA; power grid; seaport; critical infrastructure; oil production
+Reference	Description	Origin	Destination	Status
+RSA-190	Encrypted Transport Cases	Facility Oasis	Facility Red Dune	Completed
+RSA-317	Restricted Training Equipment	Facility Oasis	Facility Horizon	Completed
+RSA-148	Security Training Materials	Facility Falcon	Facility Falcon	Pending
+RSA-537	Encrypted Transport Cases	Facility Falcon	Facility Red Dune	Pending

@@ -1,0 +1,11 @@
+from app.config.entity_ontology import (
+    MODEL_LABEL_PROMPTS,
+    PRODUCTION_TRAINING_LABELS,
+)
+
+ALLOWED_LABELS = set(PRODUCTION_TRAINING_LABELS)
+LABEL_TO_PROMPT = {
+    label: MODEL_LABEL_PROMPTS[label]
+    for label in PRODUCTION_TRAINING_LABELS
+    if label in MODEL_LABEL_PROMPTS
+}

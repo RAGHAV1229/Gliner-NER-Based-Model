@@ -1,0 +1,3 @@
+suspicious domain
+malicious IP
+C2 server

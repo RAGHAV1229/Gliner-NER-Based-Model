@@ -1,0 +1,66 @@
+{
+  "disclaimer": "FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.",
+  "title": "Government Operations Disruption Report",
+  "documentNumber": "FCT-2026-BB0E13",
+  "classification": "Secret",
+  "relatedToSDAIAQuebook": true,
+  "preparedBy": "Compliance & Governance Unit",
+  "date": "2026-06-14T00:00:00",
+  "summary": "This report summarizes simulated activity related to government operations continuity across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: disaster recovery, cyber attack, business continuity, system failure, emergency operations.",
+  "overview": "During the period between 14 June 2026 and 03 July 2026, the fictional coordination office recorded controlled entries associated with government operations continuity. References such as 'disaster recovery', 'cyber attack', and 'business continuity' are embedded for AI sensitivity scoring.",
+  "keywords": [
+    "disaster recovery",
+    "cyber attack",
+    "business continuity",
+    "system failure",
+    "emergency operations",
+    "operational disruption",
+    "government shutdown",
+    "service outage"
+  ],
+  "indicators": [
+    "disaster recovery",
+    "cyber attack",
+    "business continuity",
+    "system failure",
+    "emergency operations",
+    "operational disruption",
+    "government shutdown",
+    "service outage",
+    "Restricted Asset",
+    "Confidential",
+    "Authorized Personnel",
+    "Chain of Custody",
+    "Sensitive Information"
+  ],
+  "register": [
+    {
+      "Reference": "RSA-171",
+      "Description": "Restricted Training Equipment",
+      "Origin": "Facility Blue Port",
+      "Destination": "Facility Red Dune",
+      "Status": "Scheduled"
+    },
+    {
+      "Reference": "RSA-486",
+      "Description": "Authorized Logistics Packages",
+      "Origin": "Facility Blue Port",
+      "Destination": "Facility Oasis",
+      "Status": "Completed"
+    },
+    {
+      "Reference": "RSA-533",
+      "Description": "Security Training Materials",
+      "Origin": "Facility Desert Star",
+      "Destination": "Facility Red Dune",
+      "Status": "Scheduled"
+    },
+    {
+      "Reference": "RSA-996",
+      "Description": "Restricted Training Equipment",
+      "Origin": "Facility Blue Port",
+      "Destination": "Facility Blue Port",
+      "Status": "In Transit"
+    }
+  ]
+}

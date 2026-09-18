@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fictionalReport relatedToSDAIAQuebook="true">
+  <meta>
+    <title>Diplomatic Negotiation Status Memo</title>
+    <documentNumber>FCT-2026-402846</documentNumber>
+    <classification>Secret</classification>
+    <preparedBy>Records Management Division</preparedBy>
+  </meta>
+  <disclaimer>FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.</disclaimer>
+  <summary>This report summarizes simulated activity related to diplomatic relations and treaties across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: embassy, diplomatic cable, diplomatic note, foreign ministry, treaty.</summary>
+  <overview>During the period between 02 June 2026 and 22 June 2026, the fictional coordination office recorded controlled entries associated with diplomatic relations and treaties. References such as 'embassy', 'diplomatic cable', and 'diplomatic note' are embedded for AI sensitivity scoring.</overview>
+  <keywords><keyword>embassy</keyword><keyword>diplomatic cable</keyword><keyword>diplomatic note</keyword><keyword>foreign ministry</keyword><keyword>treaty</keyword><keyword>MOU</keyword><keyword>classified negotiation</keyword><keyword>strategic partnership</keyword></keywords>
+  <register><entry ref='RSA-672' description='Controlled Inventory Containers' origin='Facility Horizon' destination='Facility Oasis' status='Scheduled'/><entry ref='RSA-514' description='Security Training Materials' origin='Facility Horizon' destination='Facility Red Dune' status='Completed'/><entry ref='RSA-931' description='Controlled Inventory Containers' origin='Facility Oasis' destination='Facility Red Dune' status='In Transit'/><entry ref='RSA-453' description='Simulated Weapons Training Kits' origin='Facility Desert Star' destination='Facility Desert Star' status='In Transit'/></register>
+</fictionalReport>

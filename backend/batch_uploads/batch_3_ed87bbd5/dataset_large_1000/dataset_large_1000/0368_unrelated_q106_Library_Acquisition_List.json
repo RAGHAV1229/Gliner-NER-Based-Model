@@ -1,0 +1,56 @@
+{
+  "disclaimer": "FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.",
+  "title": "Library Acquisition List",
+  "documentNumber": "FCT-2026-A8CE82",
+  "classification": "Public",
+  "relatedToSDAIAQuebook": false,
+  "preparedBy": "Records Management Division",
+  "date": "2026-06-24T00:00:00",
+  "summary": "This memo covers routine administrative activity for library acquisitions. It contains no defense, security, or national sensitivity indicators.",
+  "overview": "Between 24 June 2026 and 07 July 2026, staff completed ordinary tasks related to library acquisitions. Mentions include 'interlibrary loan' and 'cataloguing' for operational clarity only.",
+  "keywords": [
+    "interlibrary loan",
+    "cataloguing",
+    "fiction collection",
+    "reading club"
+  ],
+  "indicators": [
+    "interlibrary loan",
+    "cataloguing",
+    "fiction collection",
+    "reading club",
+    "Internal Use",
+    "Routine Operations",
+    "Public Notice"
+  ],
+  "register": [
+    {
+      "Reference": "GEN-192",
+      "Description": "Library Book Cartons",
+      "Origin": "Facility Falcon",
+      "Destination": "Facility Desert Star",
+      "Status": "Scheduled"
+    },
+    {
+      "Reference": "GEN-451",
+      "Description": "Catering Supplies",
+      "Origin": "Facility Horizon",
+      "Destination": "Facility Falcon",
+      "Status": "Scheduled"
+    },
+    {
+      "Reference": "GEN-826",
+      "Description": "Catering Supplies",
+      "Origin": "Facility Oasis",
+      "Destination": "Facility Red Dune",
+      "Status": "Pending"
+    },
+    {
+      "Reference": "GEN-977",
+      "Description": "Stationery Reorder Pack",
+      "Origin": "Facility Red Dune",
+      "Destination": "Facility Falcon",
+      "Status": "Completed"
+    }
+  ]
+}

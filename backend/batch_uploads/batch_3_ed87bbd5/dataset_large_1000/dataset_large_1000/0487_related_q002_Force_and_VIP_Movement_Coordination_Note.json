@@ -1,0 +1,66 @@
+{
+  "disclaimer": "FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.",
+  "title": "Force and VIP Movement Coordination Note",
+  "documentNumber": "FCT-2026-D12EDB",
+  "classification": "Top Secret",
+  "relatedToSDAIAQuebook": true,
+  "preparedBy": "Compliance & Governance Unit",
+  "date": "2026-06-16T00:00:00",
+  "summary": "This report summarizes simulated activity related to armed forces and VIP movement across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: troop movement, patrol route, mobilization, checkpoint, National Guard.",
+  "overview": "During the period between 16 June 2026 and 23 June 2026, the fictional coordination office recorded controlled entries associated with armed forces and VIP movement. References such as 'troop movement', 'patrol route', and 'mobilization' are embedded for AI sensitivity scoring.",
+  "keywords": [
+    "troop movement",
+    "patrol route",
+    "mobilization",
+    "checkpoint",
+    "National Guard",
+    "convoy",
+    "Royal Guard",
+    "VIP movement"
+  ],
+  "indicators": [
+    "troop movement",
+    "patrol route",
+    "mobilization",
+    "checkpoint",
+    "National Guard",
+    "convoy",
+    "Royal Guard",
+    "VIP movement",
+    "Restricted Asset",
+    "Confidential",
+    "Authorized Personnel",
+    "Chain of Custody",
+    "Sensitive Information"
+  ],
+  "register": [
+    {
+      "Reference": "RSA-807",
+      "Description": "Security Training Materials",
+      "Origin": "Facility Red Dune",
+      "Destination": "Facility Red Dune",
+      "Status": "Scheduled"
+    },
+    {
+      "Reference": "RSA-501",
+      "Description": "Restricted Training Equipment",
+      "Origin": "Facility Falcon",
+      "Destination": "Facility Desert Star",
+      "Status": "Scheduled"
+    },
+    {
+      "Reference": "RSA-786",
+      "Description": "Controlled Inventory Containers",
+      "Origin": "Facility Oasis",
+      "Destination": "Facility Desert Star",
+      "Status": "Scheduled"
+    },
+    {
+      "Reference": "RSA-656",
+      "Description": "Security Training Materials",
+      "Origin": "Facility Desert Star",
+      "Destination": "Facility Red Dune",
+      "Status": "Completed"
+    }
+  ]
+}

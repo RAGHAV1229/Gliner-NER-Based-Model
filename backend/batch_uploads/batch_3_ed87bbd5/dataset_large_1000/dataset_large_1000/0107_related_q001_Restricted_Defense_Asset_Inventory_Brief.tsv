@@ -1,0 +1,10 @@
+Field	Value
+Title	Restricted Defense Asset Inventory Brief
+Classification	Top Secret
+RelatedToSDAIAQuebook	True
+Keywords	Ministry of Defense; ballistic missile; armory; drone; Royal Saudi Air Force; military base; fighter aircraft; arsenal
+Reference	Description	Origin	Destination	Status
+RSA-348	Controlled Inventory Containers	Facility Red Dune	Facility Blue Port	Pending
+RSA-933	Controlled Inventory Containers	Facility Falcon	Facility Falcon	Pending
+RSA-890	Authorized Logistics Packages	Facility Blue Port	Facility Desert Star	Pending
+RSA-577	Security Training Materials	Facility Desert Star	Facility Falcon	Completed

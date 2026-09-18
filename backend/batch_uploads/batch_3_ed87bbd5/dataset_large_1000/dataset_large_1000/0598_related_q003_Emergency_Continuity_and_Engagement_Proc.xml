@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fictionalReport relatedToSDAIAQuebook="true">
+  <meta>
+    <title>Emergency Continuity and Engagement Procedures</title>
+    <documentNumber>FCT-2026-4BC4CB</documentNumber>
+    <classification>Top Secret</classification>
+    <preparedBy>Records Management Division</preparedBy>
+  </meta>
+  <disclaimer>FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.</disclaimer>
+  <summary>This report summarizes simulated activity related to war and emergency procedures across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: mobilization plan, emergency response, continuity of government, rules of engagement, defense strategy.</summary>
+  <overview>During the period between 07 July 2026 and 17 July 2026, the fictional coordination office recorded controlled entries associated with war and emergency procedures. References such as 'mobilization plan', 'emergency response', and 'continuity of government' are embedded for AI sensitivity scoring.</overview>
+  <keywords><keyword>mobilization plan</keyword><keyword>emergency response</keyword><keyword>continuity of government</keyword><keyword>rules of engagement</keyword><keyword>defense strategy</keyword><keyword>evacuation plan</keyword><keyword>command structure</keyword><keyword>contingency plan</keyword></keywords>
+  <register><entry ref='RSA-224' description='Authorized Logistics Packages' origin='Facility Falcon' destination='Facility Falcon' status='Pending'/><entry ref='RSA-941' description='Controlled Inventory Containers' origin='Facility Horizon' destination='Facility Falcon' status='Scheduled'/><entry ref='RSA-955' description='Restricted Training Equipment' origin='Facility Blue Port' destination='Facility Red Dune' status='In Transit'/><entry ref='RSA-962' description='Simulated Weapons Training Kits' origin='Facility Falcon' destination='Facility Horizon' status='Pending'/></register>
+</fictionalReport>

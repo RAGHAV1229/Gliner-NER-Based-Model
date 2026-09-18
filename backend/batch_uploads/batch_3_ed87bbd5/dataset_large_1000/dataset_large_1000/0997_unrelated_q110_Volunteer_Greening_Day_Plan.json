@@ -1,0 +1,56 @@
+{
+  "disclaimer": "FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.",
+  "title": "Volunteer Greening Day Plan",
+  "documentNumber": "FCT-2026-379527",
+  "classification": "Public",
+  "relatedToSDAIAQuebook": false,
+  "preparedBy": "Records Management Division",
+  "date": "2026-07-04T00:00:00",
+  "summary": "This memo covers routine administrative activity for community greening. It contains no defense, security, or national sensitivity indicators.",
+  "overview": "Between 04 July 2026 and 15 July 2026, staff completed ordinary tasks related to community greening. Mentions include 'tree planting' and 'recycling bins' for operational clarity only.",
+  "keywords": [
+    "tree planting",
+    "recycling bins",
+    "community garden",
+    "irrigation hose"
+  ],
+  "indicators": [
+    "tree planting",
+    "recycling bins",
+    "community garden",
+    "irrigation hose",
+    "Internal Use",
+    "Routine Operations",
+    "Public Notice"
+  ],
+  "register": [
+    {
+      "Reference": "GEN-381",
+      "Description": "Sports Equipment Bundle",
+      "Origin": "Facility Red Dune",
+      "Destination": "Facility Desert Star",
+      "Status": "Scheduled"
+    },
+    {
+      "Reference": "GEN-791",
+      "Description": "Library Book Cartons",
+      "Origin": "Facility Falcon",
+      "Destination": "Facility Falcon",
+      "Status": "Pending"
+    },
+    {
+      "Reference": "GEN-154",
+      "Description": "Catering Supplies",
+      "Origin": "Facility Red Dune",
+      "Destination": "Facility Horizon",
+      "Status": "Completed"
+    },
+    {
+      "Reference": "GEN-984",
+      "Description": "Sports Equipment Bundle",
+      "Origin": "Facility Desert Star",
+      "Destination": "Facility Red Dune",
+      "Status": "Completed"
+    }
+  ]
+}

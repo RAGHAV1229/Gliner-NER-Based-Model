@@ -1,0 +1,13 @@
+Field,Value
+Title,Vital National Installation Status Sheet
+DocumentNumber,FCT-2026-A9265C
+Classification,Secret
+RelatedToSDAIAQuebook,True
+Keywords,government facility; seaport; substation; military base; telecom exchange; command center; power station; airport
+Summary,"This report summarizes simulated activity related to vital national installations across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: government facility, seaport, substation, military base, telecom exchange."
+
+Reference,Description,Origin,Destination,Status
+RSA-299,Security Training Materials,Facility Blue Port,Facility Blue Port,In Transit
+RSA-491,Restricted Training Equipment,Facility Red Dune,Facility Oasis,Completed
+RSA-820,Restricted Training Equipment,Facility Desert Star,Facility Horizon,In Transit
+RSA-459,Authorized Logistics Packages,Facility Blue Port,Facility Red Dune,In Transit

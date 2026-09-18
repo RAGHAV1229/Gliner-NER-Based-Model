@@ -1,0 +1,10 @@
+Field	Value
+Title	Critical Infrastructure Resilience Bulletin
+Classification	Top Secret
+RelatedToSDAIAQuebook	True
+Keywords	SCADA; blackout; gas plant; water treatment; telecommunications outage; refinery; seaport; pipeline
+Reference	Description	Origin	Destination	Status
+RSA-767	Controlled Inventory Containers	Facility Red Dune	Facility Red Dune	Scheduled
+RSA-446	Encrypted Transport Cases	Facility Oasis	Facility Red Dune	Scheduled
+RSA-493	Security Training Materials	Facility Desert Star	Facility Horizon	Scheduled
+RSA-138	Controlled Inventory Containers	Facility Horizon	Facility Red Dune	Scheduled

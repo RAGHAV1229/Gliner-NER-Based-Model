@@ -1,0 +1,66 @@
+{
+  "disclaimer": "FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.",
+  "title": "Critical Infrastructure Resilience Bulletin",
+  "documentNumber": "FCT-2026-D408D4",
+  "classification": "Top Secret",
+  "relatedToSDAIAQuebook": true,
+  "preparedBy": "Logistics Coordination Office",
+  "date": "2026-06-05T00:00:00",
+  "summary": "This report summarizes simulated activity related to critical infrastructure disruption across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: water treatment, gas plant, oil production, airport shutdown, ICS.",
+  "overview": "During the period between 05 June 2026 and 25 June 2026, the fictional coordination office recorded controlled entries associated with critical infrastructure disruption. References such as 'water treatment', 'gas plant', and 'oil production' are embedded for AI sensitivity scoring.",
+  "keywords": [
+    "water treatment",
+    "gas plant",
+    "oil production",
+    "airport shutdown",
+    "ICS",
+    "seaport",
+    "SCADA",
+    "telecommunications outage"
+  ],
+  "indicators": [
+    "water treatment",
+    "gas plant",
+    "oil production",
+    "airport shutdown",
+    "ICS",
+    "seaport",
+    "SCADA",
+    "telecommunications outage",
+    "Restricted Asset",
+    "Confidential",
+    "Authorized Personnel",
+    "Chain of Custody",
+    "Sensitive Information"
+  ],
+  "register": [
+    {
+      "Reference": "RSA-217",
+      "Description": "Encrypted Transport Cases",
+      "Origin": "Facility Blue Port",
+      "Destination": "Facility Red Dune",
+      "Status": "Completed"
+    },
+    {
+      "Reference": "RSA-601",
+      "Description": "Encrypted Transport Cases",
+      "Origin": "Facility Oasis",
+      "Destination": "Facility Red Dune",
+      "Status": "Pending"
+    },
+    {
+      "Reference": "RSA-920",
+      "Description": "Simulated Weapons Training Kits",
+      "Origin": "Facility Horizon",
+      "Destination": "Facility Desert Star",
+      "Status": "In Transit"
+    },
+    {
+      "Reference": "RSA-924",
+      "Description": "Simulated Weapons Training Kits",
+      "Origin": "Facility Blue Port",
+      "Destination": "Facility Horizon",
+      "Status": "Scheduled"
+    }
+  ]
+}

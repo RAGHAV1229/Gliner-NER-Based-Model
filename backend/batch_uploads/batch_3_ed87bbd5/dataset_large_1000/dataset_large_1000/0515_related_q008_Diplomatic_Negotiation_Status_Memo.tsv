@@ -1,0 +1,10 @@
+Field	Value
+Title	Diplomatic Negotiation Status Memo
+Classification	Secret
+RelatedToSDAIAQuebook	True
+Keywords	strategic partnership; embassy; foreign ministry; diplomatic cable; MOU; treaty; diplomatic note; classified negotiation
+Reference	Description	Origin	Destination	Status
+RSA-302	Encrypted Transport Cases	Facility Desert Star	Facility Desert Star	In Transit
+RSA-916	Controlled Inventory Containers	Facility Horizon	Facility Blue Port	Completed
+RSA-599	Restricted Training Equipment	Facility Falcon	Facility Horizon	In Transit
+RSA-334	Encrypted Transport Cases	Facility Falcon	Facility Blue Port	In Transit

@@ -1,0 +1,10 @@
+Field	Value
+Title	Diplomatic Negotiation Status Memo
+Classification	Secret
+RelatedToSDAIAQuebook	True
+Keywords	classified negotiation; foreign ministry; diplomatic cable; treaty; consulate; embassy; diplomatic note; strategic partnership
+Reference	Description	Origin	Destination	Status
+RSA-384	Simulated Weapons Training Kits	Facility Oasis	Facility Horizon	In Transit
+RSA-498	Simulated Weapons Training Kits	Facility Horizon	Facility Falcon	Pending
+RSA-292	Authorized Logistics Packages	Facility Horizon	Facility Desert Star	Pending
+RSA-500	Security Training Materials	Facility Blue Port	Facility Oasis	Completed

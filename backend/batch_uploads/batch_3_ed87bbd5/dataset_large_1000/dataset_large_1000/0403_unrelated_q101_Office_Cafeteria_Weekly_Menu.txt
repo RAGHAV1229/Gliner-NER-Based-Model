@@ -1,0 +1,73 @@
+FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.
+
+Title: Office Cafeteria Weekly Menu (Fictional)
+
+Document Number: FCT-2026-2B73AE
+
+Classification: Public
+
+Prepared By: Security Operations Department
+
+Date: 02 July 2026
+
+Executive Summary
+
+This memo covers routine administrative activity for cafeteria and catering. It contains no defense, security, or national sensitivity indicators.
+
+Activity Overview
+
+Between 02 July 2026 and 16 July 2026, staff completed ordinary tasks related to cafeteria and catering. Mentions include 'coffee station' and 'vegetarian option' for operational clarity only.
+
+Facilities Involved
+
+- Facility Horizon (Eastern Region)
+
+- Facility Red Dune (Southern Region)
+
+- Facility Blue Port (Coastal Region)
+
+- Facility Oasis (Northern Region)
+
+Operational Controls
+
+- Supervisor sign-off for purchases over SAR 500.
+
+- Weekly checklist completion.
+
+- Public notice board posting where relevant.
+
+- Standard records retention of 12 months.
+
+Classification Indicators
+
+- coffee station
+
+- vegetarian option
+
+- lunch special
+
+- dessert bar
+
+- Internal Use
+
+- Routine Operations
+
+- Public Notice
+
+Conclusion
+
+This fictional record represents ordinary non-sensitive administrative content for baseline testing.
+
+END OF DOCUMENT
+
+Sample Register
+
+Reference | Description | Origin | Destination | Status
+
+GEN-923 | Catering Supplies | Facility Falcon | Facility Desert Star | In Transit
+
+GEN-111 | Office Furniture Transfer | Facility Blue Port | Facility Horizon | Scheduled
+
+GEN-505 | Office Furniture Transfer | Facility Oasis | Facility Red Dune | Completed
+
+GEN-618 | Catering Supplies | Facility Horizon | Facility Horizon | Completed

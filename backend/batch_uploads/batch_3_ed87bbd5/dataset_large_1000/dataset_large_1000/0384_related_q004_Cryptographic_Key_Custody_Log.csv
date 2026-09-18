@@ -1,0 +1,13 @@
+Field,Value
+Title,Cryptographic Key Custody Log
+DocumentNumber,FCT-2026-153BCF
+Classification,Top Secret
+RelatedToSDAIAQuebook,True
+Keywords,certificate authority; key management; cryptographic key; private key; root certificate; HSM; AES; PKI
+Summary,"This report summarizes simulated activity related to encryption and security mechanisms across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: certificate authority, key management, cryptographic key, private key, root certificate."
+
+Reference,Description,Origin,Destination,Status
+RSA-851,Restricted Training Equipment,Facility Desert Star,Facility Desert Star,Pending
+RSA-993,Security Training Materials,Facility Oasis,Facility Oasis,Scheduled
+RSA-925,Controlled Inventory Containers,Facility Oasis,Facility Oasis,In Transit
+RSA-797,Security Training Materials,Facility Blue Port,Facility Horizon,In Transit

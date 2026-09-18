@@ -1,0 +1,66 @@
+{
+  "disclaimer": "FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.",
+  "title": "Diplomatic Negotiation Status Memo",
+  "documentNumber": "FCT-2026-7AA422",
+  "classification": "Secret",
+  "relatedToSDAIAQuebook": true,
+  "preparedBy": "Compliance & Governance Unit",
+  "date": "2026-06-08T00:00:00",
+  "summary": "This report summarizes simulated activity related to diplomatic relations and treaties across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: foreign ministry, strategic partnership, classified negotiation, consulate, diplomatic cable.",
+  "overview": "During the period between 08 June 2026 and 18 June 2026, the fictional coordination office recorded controlled entries associated with diplomatic relations and treaties. References such as 'foreign ministry', 'strategic partnership', and 'classified negotiation' are embedded for AI sensitivity scoring.",
+  "keywords": [
+    "foreign ministry",
+    "strategic partnership",
+    "classified negotiation",
+    "consulate",
+    "diplomatic cable",
+    "MOU",
+    "treaty",
+    "embassy"
+  ],
+  "indicators": [
+    "foreign ministry",
+    "strategic partnership",
+    "classified negotiation",
+    "consulate",
+    "diplomatic cable",
+    "MOU",
+    "treaty",
+    "embassy",
+    "Restricted Asset",
+    "Confidential",
+    "Authorized Personnel",
+    "Chain of Custody",
+    "Sensitive Information"
+  ],
+  "register": [
+    {
+      "Reference": "RSA-748",
+      "Description": "Simulated Weapons Training Kits",
+      "Origin": "Facility Red Dune",
+      "Destination": "Facility Oasis",
+      "Status": "In Transit"
+    },
+    {
+      "Reference": "RSA-244",
+      "Description": "Simulated Weapons Training Kits",
+      "Origin": "Facility Desert Star",
+      "Destination": "Facility Horizon",
+      "Status": "Completed"
+    },
+    {
+      "Reference": "RSA-335",
+      "Description": "Controlled Inventory Containers",
+      "Origin": "Facility Red Dune",
+      "Destination": "Facility Falcon",
+      "Status": "Pending"
+    },
+    {
+      "Reference": "RSA-766",
+      "Description": "Restricted Training Equipment",
+      "Origin": "Facility Desert Star",
+      "Destination": "Facility Falcon",
+      "Status": "Scheduled"
+    }
+  ]
+}

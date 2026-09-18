@@ -1,0 +1,56 @@
+{
+  "disclaimer": "FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.",
+  "title": "Weather Outlook for Field Picnic",
+  "documentNumber": "FCT-2026-2AB10E",
+  "classification": "Public",
+  "relatedToSDAIAQuebook": false,
+  "preparedBy": "Logistics Coordination Office",
+  "date": "2026-06-09T00:00:00",
+  "summary": "This memo covers routine administrative activity for outdoor picnic weather. It contains no defense, security, or national sensitivity indicators.",
+  "overview": "Between 09 June 2026 and 23 June 2026, staff completed ordinary tasks related to outdoor picnic weather. Mentions include 'picnic blankets' and 'sunny intervals' for operational clarity only.",
+  "keywords": [
+    "picnic blankets",
+    "sunny intervals",
+    "UV index",
+    "light breeze"
+  ],
+  "indicators": [
+    "picnic blankets",
+    "sunny intervals",
+    "UV index",
+    "light breeze",
+    "Internal Use",
+    "Routine Operations",
+    "Public Notice"
+  ],
+  "register": [
+    {
+      "Reference": "GEN-849",
+      "Description": "Stationery Reorder Pack",
+      "Origin": "Facility Horizon",
+      "Destination": "Facility Desert Star",
+      "Status": "In Transit"
+    },
+    {
+      "Reference": "GEN-457",
+      "Description": "Sports Equipment Bundle",
+      "Origin": "Facility Horizon",
+      "Destination": "Facility Desert Star",
+      "Status": "In Transit"
+    },
+    {
+      "Reference": "GEN-295",
+      "Description": "Library Book Cartons",
+      "Origin": "Facility Blue Port",
+      "Destination": "Facility Red Dune",
+      "Status": "Scheduled"
+    },
+    {
+      "Reference": "GEN-472",
+      "Description": "Catering Supplies",
+      "Origin": "Facility Horizon",
+      "Destination": "Facility Falcon",
+      "Status": "Completed"
+    }
+  ]
+}

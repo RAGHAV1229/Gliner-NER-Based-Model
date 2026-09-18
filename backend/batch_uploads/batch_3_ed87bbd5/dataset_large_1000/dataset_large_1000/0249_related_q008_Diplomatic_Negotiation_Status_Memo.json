@@ -1,0 +1,66 @@
+{
+  "disclaimer": "FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.",
+  "title": "Diplomatic Negotiation Status Memo",
+  "documentNumber": "FCT-2026-24C0E8",
+  "classification": "Secret",
+  "relatedToSDAIAQuebook": true,
+  "preparedBy": "Security Operations Department",
+  "date": "2026-07-03T00:00:00",
+  "summary": "This report summarizes simulated activity related to diplomatic relations and treaties across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: strategic partnership, consulate, MOU, foreign ministry, treaty.",
+  "overview": "During the period between 03 July 2026 and 13 July 2026, the fictional coordination office recorded controlled entries associated with diplomatic relations and treaties. References such as 'strategic partnership', 'consulate', and 'MOU' are embedded for AI sensitivity scoring.",
+  "keywords": [
+    "strategic partnership",
+    "consulate",
+    "MOU",
+    "foreign ministry",
+    "treaty",
+    "diplomatic note",
+    "embassy",
+    "classified negotiation"
+  ],
+  "indicators": [
+    "strategic partnership",
+    "consulate",
+    "MOU",
+    "foreign ministry",
+    "treaty",
+    "diplomatic note",
+    "embassy",
+    "classified negotiation",
+    "Restricted Asset",
+    "Confidential",
+    "Authorized Personnel",
+    "Chain of Custody",
+    "Sensitive Information"
+  ],
+  "register": [
+    {
+      "Reference": "RSA-463",
+      "Description": "Simulated Weapons Training Kits",
+      "Origin": "Facility Desert Star",
+      "Destination": "Facility Falcon",
+      "Status": "Scheduled"
+    },
+    {
+      "Reference": "RSA-964",
+      "Description": "Encrypted Transport Cases",
+      "Origin": "Facility Red Dune",
+      "Destination": "Facility Oasis",
+      "Status": "Scheduled"
+    },
+    {
+      "Reference": "RSA-729",
+      "Description": "Security Training Materials",
+      "Origin": "Facility Blue Port",
+      "Destination": "Facility Red Dune",
+      "Status": "In Transit"
+    },
+    {
+      "Reference": "RSA-387",
+      "Description": "Authorized Logistics Packages",
+      "Origin": "Facility Red Dune",
+      "Destination": "Facility Oasis",
+      "Status": "Scheduled"
+    }
+  ]
+}

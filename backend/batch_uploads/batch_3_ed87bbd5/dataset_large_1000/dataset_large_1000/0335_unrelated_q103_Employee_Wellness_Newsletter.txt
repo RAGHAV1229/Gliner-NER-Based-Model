@@ -1,0 +1,73 @@
+FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.
+
+Title: Employee Wellness Newsletter (Fictional)
+
+Document Number: FCT-2026-8AEBF2
+
+Classification: Public
+
+Prepared By: Records Management Division
+
+Date: 27 June 2026
+
+Executive Summary
+
+This memo covers routine administrative activity for employee wellness. It contains no defense, security, or national sensitivity indicators.
+
+Activity Overview
+
+Between 27 June 2026 and 18 July 2026, staff completed ordinary tasks related to employee wellness. Mentions include 'ergonomic chair' and 'yoga session' for operational clarity only.
+
+Facilities Involved
+
+- Facility Blue Port (Coastal Region)
+
+- Facility Horizon (Eastern Region)
+
+- Facility Oasis (Northern Region)
+
+- Facility Falcon (Central Region)
+
+Operational Controls
+
+- Supervisor sign-off for purchases over SAR 500.
+
+- Weekly checklist completion.
+
+- Public notice board posting where relevant.
+
+- Standard records retention of 12 months.
+
+Classification Indicators
+
+- ergonomic chair
+
+- yoga session
+
+- hydration tips
+
+- step challenge
+
+- Internal Use
+
+- Routine Operations
+
+- Public Notice
+
+Conclusion
+
+This fictional record represents ordinary non-sensitive administrative content for baseline testing.
+
+END OF DOCUMENT
+
+Sample Register
+
+Reference | Description | Origin | Destination | Status
+
+GEN-518 | Catering Supplies | Facility Blue Port | Facility Falcon | In Transit
+
+GEN-813 | Library Book Cartons | Facility Falcon | Facility Desert Star | Completed
+
+GEN-684 | Catering Supplies | Facility Falcon | Facility Oasis | Scheduled
+
+GEN-329 | Library Book Cartons | Facility Blue Port | Facility Desert Star | Completed

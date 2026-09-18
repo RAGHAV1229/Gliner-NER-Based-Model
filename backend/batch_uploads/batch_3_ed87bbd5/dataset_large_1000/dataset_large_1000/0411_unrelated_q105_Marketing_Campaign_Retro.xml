@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fictionalReport relatedToSDAIAQuebook="false">
+  <meta>
+    <title>Marketing Campaign Retro</title>
+    <documentNumber>FCT-2026-610544</documentNumber>
+    <classification>Internal</classification>
+    <preparedBy>Continuity Planning Desk</preparedBy>
+  </meta>
+  <disclaimer>FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.</disclaimer>
+  <summary>This memo covers routine administrative activity for marketing analytics. It contains no defense, security, or national sensitivity indicators.</summary>
+  <overview>Between 14 June 2026 and 05 July 2026, staff completed ordinary tasks related to marketing analytics. Mentions include 'social media post' and 'newsletter open rate' for operational clarity only.</overview>
+  <keywords><keyword>social media post</keyword><keyword>newsletter open rate</keyword><keyword>click-through rate</keyword><keyword>brand awareness</keyword></keywords>
+  <register><entry ref='GEN-196' description='Garden Tools Set' origin='Facility Desert Star' destination='Facility Oasis' status='In Transit'/><entry ref='GEN-524' description='Stationery Reorder Pack' origin='Facility Blue Port' destination='Facility Desert Star' status='Completed'/><entry ref='GEN-395' description='Catering Supplies' origin='Facility Oasis' destination='Facility Desert Star' status='In Transit'/><entry ref='GEN-688' description='Garden Tools Set' origin='Facility Desert Star' destination='Facility Horizon' status='Scheduled'/></register>
+</fictionalReport>

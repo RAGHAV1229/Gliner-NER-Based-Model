@@ -1,0 +1,66 @@
+{
+  "disclaimer": "FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.",
+  "title": "Government Operations Disruption Report",
+  "documentNumber": "FCT-2026-9FF23D",
+  "classification": "Secret",
+  "relatedToSDAIAQuebook": true,
+  "preparedBy": "Security Operations Department",
+  "date": "2026-06-29T00:00:00",
+  "summary": "This report summarizes simulated activity related to government operations continuity across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: service outage, disaster recovery, cyber attack, emergency operations, government shutdown.",
+  "overview": "During the period between 29 June 2026 and 13 July 2026, the fictional coordination office recorded controlled entries associated with government operations continuity. References such as 'service outage', 'disaster recovery', and 'cyber attack' are embedded for AI sensitivity scoring.",
+  "keywords": [
+    "service outage",
+    "disaster recovery",
+    "cyber attack",
+    "emergency operations",
+    "government shutdown",
+    "business continuity",
+    "operational disruption",
+    "system failure"
+  ],
+  "indicators": [
+    "service outage",
+    "disaster recovery",
+    "cyber attack",
+    "emergency operations",
+    "government shutdown",
+    "business continuity",
+    "operational disruption",
+    "system failure",
+    "Restricted Asset",
+    "Confidential",
+    "Authorized Personnel",
+    "Chain of Custody",
+    "Sensitive Information"
+  ],
+  "register": [
+    {
+      "Reference": "RSA-192",
+      "Description": "Encrypted Transport Cases",
+      "Origin": "Facility Red Dune",
+      "Destination": "Facility Red Dune",
+      "Status": "Completed"
+    },
+    {
+      "Reference": "RSA-901",
+      "Description": "Simulated Weapons Training Kits",
+      "Origin": "Facility Horizon",
+      "Destination": "Facility Blue Port",
+      "Status": "Scheduled"
+    },
+    {
+      "Reference": "RSA-584",
+      "Description": "Controlled Inventory Containers",
+      "Origin": "Facility Horizon",
+      "Destination": "Facility Horizon",
+      "Status": "Completed"
+    },
+    {
+      "Reference": "RSA-402",
+      "Description": "Simulated Weapons Training Kits",
+      "Origin": "Facility Red Dune",
+      "Destination": "Facility Oasis",
+      "Status": "Pending"
+    }
+  ]
+}

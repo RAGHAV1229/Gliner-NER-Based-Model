@@ -1,0 +1,66 @@
+{
+  "disclaimer": "FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.",
+  "title": "Strategic Warehouse and Logistics Reserve Register",
+  "documentNumber": "FCT-2026-DA3944",
+  "classification": "Secret",
+  "relatedToSDAIAQuebook": true,
+  "preparedBy": "Security Operations Department",
+  "date": "2026-06-02T00:00:00",
+  "summary": "This report summarizes simulated activity related to strategic warehouses and logistics across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: emergency stockpile, strategic reserve, inventory reserve, warehouse, fuel depot.",
+  "overview": "During the period between 02 June 2026 and 15 June 2026, the fictional coordination office recorded controlled entries associated with strategic warehouses and logistics. References such as 'emergency stockpile', 'strategic reserve', and 'inventory reserve' are embedded for AI sensitivity scoring.",
+  "keywords": [
+    "emergency stockpile",
+    "strategic reserve",
+    "inventory reserve",
+    "warehouse",
+    "fuel depot",
+    "supply depot",
+    "logistics center",
+    "storage facility"
+  ],
+  "indicators": [
+    "emergency stockpile",
+    "strategic reserve",
+    "inventory reserve",
+    "warehouse",
+    "fuel depot",
+    "supply depot",
+    "logistics center",
+    "storage facility",
+    "Restricted Asset",
+    "Confidential",
+    "Authorized Personnel",
+    "Chain of Custody",
+    "Sensitive Information"
+  ],
+  "register": [
+    {
+      "Reference": "RSA-911",
+      "Description": "Controlled Inventory Containers",
+      "Origin": "Facility Red Dune",
+      "Destination": "Facility Red Dune",
+      "Status": "Completed"
+    },
+    {
+      "Reference": "RSA-253",
+      "Description": "Encrypted Transport Cases",
+      "Origin": "Facility Blue Port",
+      "Destination": "Facility Desert Star",
+      "Status": "Scheduled"
+    },
+    {
+      "Reference": "RSA-408",
+      "Description": "Security Training Materials",
+      "Origin": "Facility Oasis",
+      "Destination": "Facility Desert Star",
+      "Status": "In Transit"
+    },
+    {
+      "Reference": "RSA-448",
+      "Description": "Authorized Logistics Packages",
+      "Origin": "Facility Desert Star",
+      "Destination": "Facility Falcon",
+      "Status": "Completed"
+    }
+  ]
+}

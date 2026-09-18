@@ -1,0 +1,13 @@
+Field,Value
+Title,Facilities Maintenance Schedule
+DocumentNumber,FCT-2026-8DBB48
+Classification,Internal
+RelatedToSDAIAQuebook,False
+Keywords,parking lot paint; elevator inspection; HVAC filter; lighting upgrade
+Summary,"This memo covers routine administrative activity for facilities maintenance. It contains no defense, security, or national sensitivity indicators."
+
+Reference,Description,Origin,Destination,Status
+GEN-899,Office Furniture Transfer,Facility Falcon,Facility Horizon,Scheduled
+GEN-782,Office Furniture Transfer,Facility Oasis,Facility Desert Star,Scheduled
+GEN-644,Office Furniture Transfer,Facility Oasis,Facility Falcon,Scheduled
+GEN-528,Sports Equipment Bundle,Facility Horizon,Facility Oasis,Pending

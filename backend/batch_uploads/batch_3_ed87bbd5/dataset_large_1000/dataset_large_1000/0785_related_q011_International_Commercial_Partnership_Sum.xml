@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fictionalReport relatedToSDAIAQuebook="true">
+  <meta>
+    <title>International Commercial Partnership Summary</title>
+    <documentNumber>FCT-2026-481605</documentNumber>
+    <classification>Secret</classification>
+    <preparedBy>Continuity Planning Desk</preparedBy>
+  </meta>
+  <disclaimer>FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.</disclaimer>
+  <summary>This report summarizes simulated activity related to strategic commercial agreements across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: strategic supplier, strategic partnership, commercial agreement, foreign investment, joint venture.</summary>
+  <overview>During the period between 20 June 2026 and 01 July 2026, the fictional coordination office recorded controlled entries associated with strategic commercial agreements. References such as 'strategic supplier', 'strategic partnership', and 'commercial agreement' are embedded for AI sensitivity scoring.</overview>
+  <keywords><keyword>strategic supplier</keyword><keyword>strategic partnership</keyword><keyword>commercial agreement</keyword><keyword>foreign investment</keyword><keyword>joint venture</keyword><keyword>sovereign investment</keyword><keyword>technology transfer</keyword><keyword>investment agreement</keyword></keywords>
+  <register><entry ref='RSA-686' description='Authorized Logistics Packages' origin='Facility Red Dune' destination='Facility Horizon' status='In Transit'/><entry ref='RSA-628' description='Restricted Training Equipment' origin='Facility Falcon' destination='Facility Blue Port' status='In Transit'/><entry ref='RSA-720' description='Encrypted Transport Cases' origin='Facility Blue Port' destination='Facility Desert Star' status='Scheduled'/><entry ref='RSA-217' description='Authorized Logistics Packages' origin='Facility Falcon' destination='Facility Desert Star' status='Pending'/></register>
+</fictionalReport>

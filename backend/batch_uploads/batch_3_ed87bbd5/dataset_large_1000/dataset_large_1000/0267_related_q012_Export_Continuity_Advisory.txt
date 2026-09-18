@@ -1,0 +1,87 @@
+FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.
+
+Title: Export Continuity Advisory (Fictional)
+
+Document Number: FCT-2026-97580D
+
+Classification: Secret
+
+Prepared By: Security Operations Department
+
+Date: 03 June 2026
+
+Executive Summary
+
+This report summarizes simulated activity related to export continuity across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: customs restriction, sanctions, port closure, export decline, trade barrier.
+
+Activity Overview
+
+During the period between 03 June 2026 and 24 June 2026, the fictional coordination office recorded controlled entries associated with export continuity. References such as 'customs restriction', 'sanctions', and 'port closure' are embedded for AI sensitivity scoring.
+
+Facilities Involved
+
+- Facility Horizon (Eastern Region)
+
+- Facility Oasis (Northern Region)
+
+- Facility Falcon (Central Region)
+
+- Facility Desert Star (Western Region)
+
+Operational Controls
+
+- Dual authorization by department managers.
+
+- Identity verification of all personnel involved.
+
+- Digital audit logging of manifests.
+
+- Encrypted storage of transportation records.
+
+- Keywords tracked for classification: customs restriction, sanctions, port closure, export decline, trade barrier, trade embargo, export restriction, shipping disruption.
+
+Classification Indicators
+
+- customs restriction
+
+- sanctions
+
+- port closure
+
+- export decline
+
+- trade barrier
+
+- trade embargo
+
+- export restriction
+
+- shipping disruption
+
+- Restricted Asset
+
+- Confidential
+
+- Authorized Personnel
+
+- Chain of Custody
+
+- Sensitive Information
+
+Conclusion
+
+This fictional record is intended exclusively for AI classification, governance, and Hyland Document Filters text-extraction Proof of Concept testing.
+
+END OF DOCUMENT
+
+Sample Register
+
+Reference | Description | Origin | Destination | Status
+
+RSA-956 | Simulated Weapons Training Kits | Facility Horizon | Facility Falcon | Scheduled
+
+RSA-147 | Controlled Inventory Containers | Facility Oasis | Facility Horizon | Completed
+
+RSA-153 | Controlled Inventory Containers | Facility Red Dune | Facility Horizon | In Transit
+
+RSA-920 | Encrypted Transport Cases | Facility Red Dune | Facility Red Dune | Pending

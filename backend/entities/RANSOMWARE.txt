@@ -1,0 +1,5 @@
+WannaCry
+LockBit
+REvil
+Conti
+BlackCat

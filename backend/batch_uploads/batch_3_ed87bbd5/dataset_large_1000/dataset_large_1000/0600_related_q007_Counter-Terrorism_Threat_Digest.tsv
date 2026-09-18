@@ -1,0 +1,10 @@
+Field	Value
+Title	Counter-Terrorism Threat Digest
+Classification	Top Secret
+RelatedToSDAIAQuebook	True
+Keywords	Daesh; violent extremism; terrorism; VBIED; attack plan; radicalization; suicide attack; hostage
+Reference	Description	Origin	Destination	Status
+RSA-363	Encrypted Transport Cases	Facility Desert Star	Facility Desert Star	Scheduled
+RSA-367	Security Training Materials	Facility Falcon	Facility Horizon	Scheduled
+RSA-126	Encrypted Transport Cases	Facility Blue Port	Facility Oasis	In Transit
+RSA-282	Encrypted Transport Cases	Facility Falcon	Facility Horizon	Pending

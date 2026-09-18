@@ -1,0 +1,13 @@
+Field,Value
+Title,Library Acquisition List
+DocumentNumber,FCT-2026-0B7B1B
+Classification,Public
+RelatedToSDAIAQuebook,False
+Keywords,fiction collection; interlibrary loan; cataloguing; reading club
+Summary,"This memo covers routine administrative activity for library acquisitions. It contains no defense, security, or national sensitivity indicators."
+
+Reference,Description,Origin,Destination,Status
+GEN-508,Sports Equipment Bundle,Facility Oasis,Facility Desert Star,In Transit
+GEN-433,Sports Equipment Bundle,Facility Oasis,Facility Red Dune,Pending
+GEN-321,Stationery Reorder Pack,Facility Horizon,Facility Oasis,Scheduled
+GEN-653,Stationery Reorder Pack,Facility Desert Star,Facility Horizon,In Transit

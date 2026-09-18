@@ -1,0 +1,13 @@
+Field,Value
+Title,Marketing Campaign Retro
+DocumentNumber,FCT-2026-4ADA26
+Classification,Internal
+RelatedToSDAIAQuebook,False
+Keywords,brand awareness; click-through rate; social media post; newsletter open rate
+Summary,"This memo covers routine administrative activity for marketing analytics. It contains no defense, security, or national sensitivity indicators."
+
+Reference,Description,Origin,Destination,Status
+GEN-328,Sports Equipment Bundle,Facility Falcon,Facility Desert Star,Scheduled
+GEN-162,Garden Tools Set,Facility Horizon,Facility Horizon,Pending
+GEN-262,Sports Equipment Bundle,Facility Red Dune,Facility Blue Port,In Transit
+GEN-675,Library Book Cartons,Facility Falcon,Facility Falcon,Pending

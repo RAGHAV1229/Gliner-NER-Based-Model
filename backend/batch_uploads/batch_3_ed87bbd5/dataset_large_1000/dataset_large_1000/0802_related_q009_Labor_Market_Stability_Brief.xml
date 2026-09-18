@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fictionalReport relatedToSDAIAQuebook="true">
+  <meta>
+    <title>Labor Market Stability Brief</title>
+    <documentNumber>FCT-2026-467DF9</documentNumber>
+    <classification>Secret</classification>
+    <preparedBy>Compliance & Governance Unit</preparedBy>
+  </meta>
+  <disclaimer>FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.</disclaimer>
+  <summary>This report summarizes simulated activity related to labor market impacts across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: wage reduction, Saudization, mass layoff, recruitment freeze, Nitaqat.</summary>
+  <overview>During the period between 02 June 2026 and 11 June 2026, the fictional coordination office recorded controlled entries associated with labor market impacts. References such as 'wage reduction', 'Saudization', and 'mass layoff' are embedded for AI sensitivity scoring.</overview>
+  <keywords><keyword>wage reduction</keyword><keyword>Saudization</keyword><keyword>mass layoff</keyword><keyword>recruitment freeze</keyword><keyword>Nitaqat</keyword><keyword>labor shortage</keyword><keyword>unemployment</keyword><keyword>employment crisis</keyword></keywords>
+  <register><entry ref='RSA-541' description='Restricted Training Equipment' origin='Facility Red Dune' destination='Facility Red Dune' status='Scheduled'/><entry ref='RSA-264' description='Restricted Training Equipment' origin='Facility Desert Star' destination='Facility Red Dune' status='In Transit'/><entry ref='RSA-355' description='Controlled Inventory Containers' origin='Facility Oasis' destination='Facility Red Dune' status='Pending'/><entry ref='RSA-910' description='Controlled Inventory Containers' origin='Facility Oasis' destination='Facility Blue Port' status='Scheduled'/></register>
+</fictionalReport>

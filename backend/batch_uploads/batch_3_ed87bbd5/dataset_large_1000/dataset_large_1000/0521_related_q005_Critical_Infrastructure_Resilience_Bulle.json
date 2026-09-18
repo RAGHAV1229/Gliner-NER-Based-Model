@@ -1,0 +1,66 @@
+{
+  "disclaimer": "FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.",
+  "title": "Critical Infrastructure Resilience Bulletin",
+  "documentNumber": "FCT-2026-EF041D",
+  "classification": "Top Secret",
+  "relatedToSDAIAQuebook": true,
+  "preparedBy": "Security Operations Department",
+  "date": "2026-06-24T00:00:00",
+  "summary": "This report summarizes simulated activity related to critical infrastructure disruption across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: water treatment, ICS, SCADA, airport shutdown, gas plant.",
+  "overview": "During the period between 24 June 2026 and 15 July 2026, the fictional coordination office recorded controlled entries associated with critical infrastructure disruption. References such as 'water treatment', 'ICS', and 'SCADA' are embedded for AI sensitivity scoring.",
+  "keywords": [
+    "water treatment",
+    "ICS",
+    "SCADA",
+    "airport shutdown",
+    "gas plant",
+    "seaport",
+    "pipeline",
+    "oil production"
+  ],
+  "indicators": [
+    "water treatment",
+    "ICS",
+    "SCADA",
+    "airport shutdown",
+    "gas plant",
+    "seaport",
+    "pipeline",
+    "oil production",
+    "Restricted Asset",
+    "Confidential",
+    "Authorized Personnel",
+    "Chain of Custody",
+    "Sensitive Information"
+  ],
+  "register": [
+    {
+      "Reference": "RSA-729",
+      "Description": "Encrypted Transport Cases",
+      "Origin": "Facility Horizon",
+      "Destination": "Facility Desert Star",
+      "Status": "In Transit"
+    },
+    {
+      "Reference": "RSA-408",
+      "Description": "Authorized Logistics Packages",
+      "Origin": "Facility Oasis",
+      "Destination": "Facility Oasis",
+      "Status": "Scheduled"
+    },
+    {
+      "Reference": "RSA-951",
+      "Description": "Authorized Logistics Packages",
+      "Origin": "Facility Oasis",
+      "Destination": "Facility Red Dune",
+      "Status": "Completed"
+    },
+    {
+      "Reference": "RSA-128",
+      "Description": "Simulated Weapons Training Kits",
+      "Origin": "Facility Oasis",
+      "Destination": "Facility Oasis",
+      "Status": "Completed"
+    }
+  ]
+}

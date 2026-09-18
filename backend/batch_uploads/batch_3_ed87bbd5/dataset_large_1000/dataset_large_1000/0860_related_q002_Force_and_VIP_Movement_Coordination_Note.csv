@@ -1,0 +1,13 @@
+Field,Value
+Title,Force and VIP Movement Coordination Note
+DocumentNumber,FCT-2026-E95B67
+Classification,Top Secret
+RelatedToSDAIAQuebook,True
+Keywords,troop movement; VIP movement; patrol route; National Guard; checkpoint; convoy; operational route; military exercise
+Summary,"This report summarizes simulated activity related to armed forces and VIP movement across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: troop movement, VIP movement, patrol route, National Guard, checkpoint."
+
+Reference,Description,Origin,Destination,Status
+RSA-795,Restricted Training Equipment,Facility Horizon,Facility Red Dune,Completed
+RSA-738,Controlled Inventory Containers,Facility Falcon,Facility Red Dune,In Transit
+RSA-591,Controlled Inventory Containers,Facility Desert Star,Facility Oasis,Pending
+RSA-368,Security Training Materials,Facility Red Dune,Facility Horizon,Scheduled

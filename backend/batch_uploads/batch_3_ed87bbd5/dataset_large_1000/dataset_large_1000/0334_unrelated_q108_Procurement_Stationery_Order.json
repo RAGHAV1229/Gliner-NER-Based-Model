@@ -1,0 +1,56 @@
+{
+  "disclaimer": "FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.",
+  "title": "Procurement Stationery Order",
+  "documentNumber": "FCT-2026-AB643E",
+  "classification": "Internal",
+  "relatedToSDAIAQuebook": false,
+  "preparedBy": "Logistics Coordination Office",
+  "date": "2026-07-08T00:00:00",
+  "summary": "This memo covers routine administrative activity for office stationery. It contains no defense, security, or national sensitivity indicators.",
+  "overview": "Between 08 July 2026 and 16 July 2026, staff completed ordinary tasks related to office stationery. Mentions include 'sticky notes' and 'toner cartridge' for operational clarity only.",
+  "keywords": [
+    "sticky notes",
+    "toner cartridge",
+    "notebooks",
+    "whiteboard markers"
+  ],
+  "indicators": [
+    "sticky notes",
+    "toner cartridge",
+    "notebooks",
+    "whiteboard markers",
+    "Internal Use",
+    "Routine Operations",
+    "Public Notice"
+  ],
+  "register": [
+    {
+      "Reference": "GEN-352",
+      "Description": "Stationery Reorder Pack",
+      "Origin": "Facility Falcon",
+      "Destination": "Facility Desert Star",
+      "Status": "Completed"
+    },
+    {
+      "Reference": "GEN-346",
+      "Description": "Catering Supplies",
+      "Origin": "Facility Falcon",
+      "Destination": "Facility Red Dune",
+      "Status": "Scheduled"
+    },
+    {
+      "Reference": "GEN-903",
+      "Description": "Library Book Cartons",
+      "Origin": "Facility Blue Port",
+      "Destination": "Facility Falcon",
+      "Status": "Pending"
+    },
+    {
+      "Reference": "GEN-360",
+      "Description": "Sports Equipment Bundle",
+      "Origin": "Facility Blue Port",
+      "Destination": "Facility Red Dune",
+      "Status": "Scheduled"
+    }
+  ]
+}

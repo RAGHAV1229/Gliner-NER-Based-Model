@@ -1,0 +1,13 @@
+Field,Value
+Title,Diplomatic Negotiation Status Memo
+DocumentNumber,FCT-2026-0549F0
+Classification,Secret
+RelatedToSDAIAQuebook,True
+Keywords,classified negotiation; embassy; treaty; foreign ministry; consulate; bilateral agreement; diplomatic cable; strategic partnership
+Summary,"This report summarizes simulated activity related to diplomatic relations and treaties across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: classified negotiation, embassy, treaty, foreign ministry, consulate."
+
+Reference,Description,Origin,Destination,Status
+RSA-121,Controlled Inventory Containers,Facility Horizon,Facility Falcon,Pending
+RSA-283,Restricted Training Equipment,Facility Horizon,Facility Red Dune,Pending
+RSA-370,Security Training Materials,Facility Horizon,Facility Desert Star,Scheduled
+RSA-201,Simulated Weapons Training Kits,Facility Red Dune,Facility Blue Port,Scheduled

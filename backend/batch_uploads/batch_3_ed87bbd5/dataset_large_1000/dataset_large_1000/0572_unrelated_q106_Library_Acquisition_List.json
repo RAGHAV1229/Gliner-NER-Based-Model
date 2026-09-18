@@ -1,0 +1,56 @@
+{
+  "disclaimer": "FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.",
+  "title": "Library Acquisition List",
+  "documentNumber": "FCT-2026-297412",
+  "classification": "Public",
+  "relatedToSDAIAQuebook": false,
+  "preparedBy": "Continuity Planning Desk",
+  "date": "2026-06-18T00:00:00",
+  "summary": "This memo covers routine administrative activity for library acquisitions. It contains no defense, security, or national sensitivity indicators.",
+  "overview": "Between 18 June 2026 and 30 June 2026, staff completed ordinary tasks related to library acquisitions. Mentions include 'fiction collection' and 'reading club' for operational clarity only.",
+  "keywords": [
+    "fiction collection",
+    "reading club",
+    "interlibrary loan",
+    "cataloguing"
+  ],
+  "indicators": [
+    "fiction collection",
+    "reading club",
+    "interlibrary loan",
+    "cataloguing",
+    "Internal Use",
+    "Routine Operations",
+    "Public Notice"
+  ],
+  "register": [
+    {
+      "Reference": "GEN-561",
+      "Description": "Stationery Reorder Pack",
+      "Origin": "Facility Red Dune",
+      "Destination": "Facility Oasis",
+      "Status": "Scheduled"
+    },
+    {
+      "Reference": "GEN-855",
+      "Description": "Sports Equipment Bundle",
+      "Origin": "Facility Falcon",
+      "Destination": "Facility Oasis",
+      "Status": "Completed"
+    },
+    {
+      "Reference": "GEN-791",
+      "Description": "Stationery Reorder Pack",
+      "Origin": "Facility Oasis",
+      "Destination": "Facility Blue Port",
+      "Status": "Completed"
+    },
+    {
+      "Reference": "GEN-877",
+      "Description": "Library Book Cartons",
+      "Origin": "Facility Desert Star",
+      "Destination": "Facility Desert Star",
+      "Status": "Completed"
+    }
+  ]
+}

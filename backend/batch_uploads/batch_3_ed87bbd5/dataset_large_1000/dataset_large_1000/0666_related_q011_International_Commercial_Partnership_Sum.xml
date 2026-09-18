@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fictionalReport relatedToSDAIAQuebook="true">
+  <meta>
+    <title>International Commercial Partnership Summary</title>
+    <documentNumber>FCT-2026-F86B4F</documentNumber>
+    <classification>Secret</classification>
+    <preparedBy>Security Operations Department</preparedBy>
+  </meta>
+  <disclaimer>FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.</disclaimer>
+  <summary>This report summarizes simulated activity related to strategic commercial agreements across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: strategic supplier, investment agreement, foreign investment, commercial agreement, sovereign investment.</summary>
+  <overview>During the period between 12 July 2026 and 19 July 2026, the fictional coordination office recorded controlled entries associated with strategic commercial agreements. References such as 'strategic supplier', 'investment agreement', and 'foreign investment' are embedded for AI sensitivity scoring.</overview>
+  <keywords><keyword>strategic supplier</keyword><keyword>investment agreement</keyword><keyword>foreign investment</keyword><keyword>commercial agreement</keyword><keyword>sovereign investment</keyword><keyword>joint venture</keyword><keyword>strategic partnership</keyword><keyword>technology transfer</keyword></keywords>
+  <register><entry ref='RSA-146' description='Restricted Training Equipment' origin='Facility Desert Star' destination='Facility Oasis' status='In Transit'/><entry ref='RSA-713' description='Simulated Weapons Training Kits' origin='Facility Desert Star' destination='Facility Blue Port' status='Completed'/><entry ref='RSA-178' description='Authorized Logistics Packages' origin='Facility Blue Port' destination='Facility Desert Star' status='Completed'/><entry ref='RSA-903' description='Authorized Logistics Packages' origin='Facility Oasis' destination='Facility Oasis' status='Pending'/></register>
+</fictionalReport>

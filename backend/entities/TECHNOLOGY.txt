@@ -1,0 +1,10 @@
+Azure Active Directory
+Kubernetes
+Apache Kafka
+PostgreSQL
+PyTorch
+GLiNER
+Terraform
+Docker
+Redis
+Elasticsearch

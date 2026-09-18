@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fictionalReport relatedToSDAIAQuebook="true">
+  <meta>
+    <title>National Reputation Risk Watchlist</title>
+    <documentNumber>FCT-2026-244018</documentNumber>
+    <classification>Top Secret</classification>
+    <preparedBy>Continuity Planning Desk</preparedBy>
+  </meta>
+  <disclaimer>FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.</disclaimer>
+  <summary>This report summarizes simulated activity related to national reputation risk across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: diplomatic crisis, money laundering, media exposure, corruption, human rights violation.</summary>
+  <overview>During the period between 02 June 2026 and 16 June 2026, the fictional coordination office recorded controlled entries associated with national reputation risk. References such as 'diplomatic crisis', 'money laundering', and 'media exposure' are embedded for AI sensitivity scoring.</overview>
+  <keywords><keyword>diplomatic crisis</keyword><keyword>money laundering</keyword><keyword>media exposure</keyword><keyword>corruption</keyword><keyword>human rights violation</keyword><keyword>censorship</keyword><keyword>international criticism</keyword><keyword>sanctions</keyword></keywords>
+  <register><entry ref='RSA-955' description='Controlled Inventory Containers' origin='Facility Horizon' destination='Facility Red Dune' status='Scheduled'/><entry ref='RSA-869' description='Restricted Training Equipment' origin='Facility Horizon' destination='Facility Blue Port' status='Completed'/><entry ref='RSA-562' description='Encrypted Transport Cases' origin='Facility Desert Star' destination='Facility Horizon' status='Pending'/><entry ref='RSA-889' description='Controlled Inventory Containers' origin='Facility Oasis' destination='Facility Oasis' status='In Transit'/></register>
+</fictionalReport>

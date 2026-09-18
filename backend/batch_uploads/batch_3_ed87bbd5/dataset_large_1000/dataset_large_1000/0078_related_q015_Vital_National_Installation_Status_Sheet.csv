@@ -1,0 +1,13 @@
+Field,Value
+Title,Vital National Installation Status Sheet
+DocumentNumber,FCT-2026-25D336
+Classification,Secret
+RelatedToSDAIAQuebook,True
+Keywords,airport; command center; seaport; substation; power station; desalination plant; oil refinery; military base
+Summary,"This report summarizes simulated activity related to vital national installations across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: airport, command center, seaport, substation, power station."
+
+Reference,Description,Origin,Destination,Status
+RSA-974,Encrypted Transport Cases,Facility Desert Star,Facility Desert Star,Pending
+RSA-381,Security Training Materials,Facility Oasis,Facility Falcon,In Transit
+RSA-521,Restricted Training Equipment,Facility Blue Port,Facility Falcon,Completed
+RSA-550,Authorized Logistics Packages,Facility Blue Port,Facility Desert Star,Scheduled

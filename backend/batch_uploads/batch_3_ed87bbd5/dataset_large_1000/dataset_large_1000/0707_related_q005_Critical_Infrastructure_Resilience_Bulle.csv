@@ -1,0 +1,13 @@
+Field,Value
+Title,Critical Infrastructure Resilience Bulletin
+DocumentNumber,FCT-2026-239708
+Classification,Top Secret
+RelatedToSDAIAQuebook,True
+Keywords,critical infrastructure; refinery; telecommunications outage; power grid; water treatment; seaport; gas plant; oil production
+Summary,"This report summarizes simulated activity related to critical infrastructure disruption across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: critical infrastructure, refinery, telecommunications outage, power grid, water treatment."
+
+Reference,Description,Origin,Destination,Status
+RSA-951,Encrypted Transport Cases,Facility Red Dune,Facility Horizon,Pending
+RSA-691,Restricted Training Equipment,Facility Desert Star,Facility Desert Star,Pending
+RSA-588,Restricted Training Equipment,Facility Red Dune,Facility Falcon,In Transit
+RSA-964,Restricted Training Equipment,Facility Horizon,Facility Red Dune,In Transit

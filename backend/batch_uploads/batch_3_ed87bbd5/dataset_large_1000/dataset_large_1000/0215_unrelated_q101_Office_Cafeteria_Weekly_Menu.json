@@ -1,0 +1,56 @@
+{
+  "disclaimer": "FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.",
+  "title": "Office Cafeteria Weekly Menu",
+  "documentNumber": "FCT-2026-BD53A0",
+  "classification": "Public",
+  "relatedToSDAIAQuebook": false,
+  "preparedBy": "Logistics Coordination Office",
+  "date": "2026-06-14T00:00:00",
+  "summary": "This memo covers routine administrative activity for cafeteria and catering. It contains no defense, security, or national sensitivity indicators.",
+  "overview": "Between 14 June 2026 and 22 June 2026, staff completed ordinary tasks related to cafeteria and catering. Mentions include 'vegetarian option' and 'lunch special' for operational clarity only.",
+  "keywords": [
+    "vegetarian option",
+    "lunch special",
+    "coffee station",
+    "dessert bar"
+  ],
+  "indicators": [
+    "vegetarian option",
+    "lunch special",
+    "coffee station",
+    "dessert bar",
+    "Internal Use",
+    "Routine Operations",
+    "Public Notice"
+  ],
+  "register": [
+    {
+      "Reference": "GEN-272",
+      "Description": "Stationery Reorder Pack",
+      "Origin": "Facility Oasis",
+      "Destination": "Facility Oasis",
+      "Status": "Scheduled"
+    },
+    {
+      "Reference": "GEN-588",
+      "Description": "Garden Tools Set",
+      "Origin": "Facility Red Dune",
+      "Destination": "Facility Horizon",
+      "Status": "Scheduled"
+    },
+    {
+      "Reference": "GEN-708",
+      "Description": "Sports Equipment Bundle",
+      "Origin": "Facility Red Dune",
+      "Destination": "Facility Oasis",
+      "Status": "In Transit"
+    },
+    {
+      "Reference": "GEN-180",
+      "Description": "Sports Equipment Bundle",
+      "Origin": "Facility Blue Port",
+      "Destination": "Facility Falcon",
+      "Status": "In Transit"
+    }
+  ]
+}

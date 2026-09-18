@@ -1,0 +1,56 @@
+{
+  "disclaimer": "FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.",
+  "title": "Weather Outlook for Field Picnic",
+  "documentNumber": "FCT-2026-51FBF5",
+  "classification": "Public",
+  "relatedToSDAIAQuebook": false,
+  "preparedBy": "Records Management Division",
+  "date": "2026-07-05T00:00:00",
+  "summary": "This memo covers routine administrative activity for outdoor picnic weather. It contains no defense, security, or national sensitivity indicators.",
+  "overview": "Between 05 July 2026 and 20 July 2026, staff completed ordinary tasks related to outdoor picnic weather. Mentions include 'sunny intervals' and 'light breeze' for operational clarity only.",
+  "keywords": [
+    "sunny intervals",
+    "light breeze",
+    "UV index",
+    "picnic blankets"
+  ],
+  "indicators": [
+    "sunny intervals",
+    "light breeze",
+    "UV index",
+    "picnic blankets",
+    "Internal Use",
+    "Routine Operations",
+    "Public Notice"
+  ],
+  "register": [
+    {
+      "Reference": "GEN-229",
+      "Description": "Catering Supplies",
+      "Origin": "Facility Falcon",
+      "Destination": "Facility Horizon",
+      "Status": "Scheduled"
+    },
+    {
+      "Reference": "GEN-698",
+      "Description": "Garden Tools Set",
+      "Origin": "Facility Falcon",
+      "Destination": "Facility Desert Star",
+      "Status": "Pending"
+    },
+    {
+      "Reference": "GEN-458",
+      "Description": "Office Furniture Transfer",
+      "Origin": "Facility Blue Port",
+      "Destination": "Facility Blue Port",
+      "Status": "Pending"
+    },
+    {
+      "Reference": "GEN-876",
+      "Description": "Sports Equipment Bundle",
+      "Origin": "Facility Horizon",
+      "Destination": "Facility Horizon",
+      "Status": "Completed"
+    }
+  ]
+}

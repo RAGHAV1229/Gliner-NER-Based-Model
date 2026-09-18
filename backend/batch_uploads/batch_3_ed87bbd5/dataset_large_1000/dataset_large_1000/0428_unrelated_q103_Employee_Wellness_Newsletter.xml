@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fictionalReport relatedToSDAIAQuebook="false">
+  <meta>
+    <title>Employee Wellness Newsletter</title>
+    <documentNumber>FCT-2026-B5B56C</documentNumber>
+    <classification>Public</classification>
+    <preparedBy>Logistics Coordination Office</preparedBy>
+  </meta>
+  <disclaimer>FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.</disclaimer>
+  <summary>This memo covers routine administrative activity for employee wellness. It contains no defense, security, or national sensitivity indicators.</summary>
+  <overview>Between 26 June 2026 and 07 July 2026, staff completed ordinary tasks related to employee wellness. Mentions include 'step challenge' and 'hydration tips' for operational clarity only.</overview>
+  <keywords><keyword>step challenge</keyword><keyword>hydration tips</keyword><keyword>yoga session</keyword><keyword>ergonomic chair</keyword></keywords>
+  <register><entry ref='GEN-853' description='Library Book Cartons' origin='Facility Horizon' destination='Facility Desert Star' status='In Transit'/><entry ref='GEN-570' description='Stationery Reorder Pack' origin='Facility Blue Port' destination='Facility Red Dune' status='In Transit'/><entry ref='GEN-294' description='Office Furniture Transfer' origin='Facility Falcon' destination='Facility Desert Star' status='Scheduled'/><entry ref='GEN-960' description='Sports Equipment Bundle' origin='Facility Red Dune' destination='Facility Red Dune' status='Pending'/></register>
+</fictionalReport>

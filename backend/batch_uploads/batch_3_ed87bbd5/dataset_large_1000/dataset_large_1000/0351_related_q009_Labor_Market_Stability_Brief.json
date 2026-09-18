@@ -1,0 +1,66 @@
+{
+  "disclaimer": "FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.",
+  "title": "Labor Market Stability Brief",
+  "documentNumber": "FCT-2026-6277F9",
+  "classification": "Secret",
+  "relatedToSDAIAQuebook": true,
+  "preparedBy": "Security Operations Department",
+  "date": "2026-06-21T00:00:00",
+  "summary": "This report summarizes simulated activity related to labor market impacts across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: Saudization, workforce reduction, unemployment, employment crisis, wage reduction.",
+  "overview": "During the period between 21 June 2026 and 05 July 2026, the fictional coordination office recorded controlled entries associated with labor market impacts. References such as 'Saudization', 'workforce reduction', and 'unemployment' are embedded for AI sensitivity scoring.",
+  "keywords": [
+    "Saudization",
+    "workforce reduction",
+    "unemployment",
+    "employment crisis",
+    "wage reduction",
+    "Nitaqat",
+    "recruitment freeze",
+    "mass layoff"
+  ],
+  "indicators": [
+    "Saudization",
+    "workforce reduction",
+    "unemployment",
+    "employment crisis",
+    "wage reduction",
+    "Nitaqat",
+    "recruitment freeze",
+    "mass layoff",
+    "Restricted Asset",
+    "Confidential",
+    "Authorized Personnel",
+    "Chain of Custody",
+    "Sensitive Information"
+  ],
+  "register": [
+    {
+      "Reference": "RSA-303",
+      "Description": "Simulated Weapons Training Kits",
+      "Origin": "Facility Oasis",
+      "Destination": "Facility Falcon",
+      "Status": "Pending"
+    },
+    {
+      "Reference": "RSA-760",
+      "Description": "Simulated Weapons Training Kits",
+      "Origin": "Facility Falcon",
+      "Destination": "Facility Blue Port",
+      "Status": "Completed"
+    },
+    {
+      "Reference": "RSA-496",
+      "Description": "Security Training Materials",
+      "Origin": "Facility Falcon",
+      "Destination": "Facility Oasis",
+      "Status": "Completed"
+    },
+    {
+      "Reference": "RSA-390",
+      "Description": "Restricted Training Equipment",
+      "Origin": "Facility Red Dune",
+      "Destination": "Facility Horizon",
+      "Status": "In Transit"
+    }
+  ]
+}

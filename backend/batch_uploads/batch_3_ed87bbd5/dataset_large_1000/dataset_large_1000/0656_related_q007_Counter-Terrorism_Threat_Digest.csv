@@ -1,0 +1,13 @@
+Field,Value
+Title,Counter-Terrorism Threat Digest
+DocumentNumber,FCT-2026-052C9A
+Classification,Top Secret
+RelatedToSDAIAQuebook,True
+Keywords,attack plan; IED; terrorism; Daesh; extremist; Al-Qaeda; radicalization; VBIED
+Summary,"This report summarizes simulated activity related to terrorism and national security threats across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: attack plan, IED, terrorism, Daesh, extremist."
+
+Reference,Description,Origin,Destination,Status
+RSA-978,Authorized Logistics Packages,Facility Oasis,Facility Falcon,In Transit
+RSA-508,Controlled Inventory Containers,Facility Desert Star,Facility Red Dune,In Transit
+RSA-463,Restricted Training Equipment,Facility Falcon,Facility Red Dune,Completed
+RSA-572,Simulated Weapons Training Kits,Facility Blue Port,Facility Blue Port,Pending

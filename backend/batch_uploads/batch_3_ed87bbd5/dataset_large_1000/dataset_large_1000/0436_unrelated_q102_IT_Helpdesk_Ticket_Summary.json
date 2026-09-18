@@ -1,0 +1,56 @@
+{
+  "disclaimer": "FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.",
+  "title": "IT Helpdesk Ticket Summary",
+  "documentNumber": "FCT-2026-6509BB",
+  "classification": "Internal",
+  "relatedToSDAIAQuebook": false,
+  "preparedBy": "Compliance & Governance Unit",
+  "date": "2026-06-20T00:00:00",
+  "summary": "This memo covers routine administrative activity for IT support tickets. It contains no defense, security, or national sensitivity indicators.",
+  "overview": "Between 20 June 2026 and 29 June 2026, staff completed ordinary tasks related to IT support tickets. Mentions include 'VPN latency' and 'password reset' for operational clarity only.",
+  "keywords": [
+    "VPN latency",
+    "password reset",
+    "laptop docking",
+    "printer jam"
+  ],
+  "indicators": [
+    "VPN latency",
+    "password reset",
+    "laptop docking",
+    "printer jam",
+    "Internal Use",
+    "Routine Operations",
+    "Public Notice"
+  ],
+  "register": [
+    {
+      "Reference": "GEN-721",
+      "Description": "Office Furniture Transfer",
+      "Origin": "Facility Horizon",
+      "Destination": "Facility Falcon",
+      "Status": "Scheduled"
+    },
+    {
+      "Reference": "GEN-269",
+      "Description": "Sports Equipment Bundle",
+      "Origin": "Facility Horizon",
+      "Destination": "Facility Falcon",
+      "Status": "Pending"
+    },
+    {
+      "Reference": "GEN-939",
+      "Description": "Catering Supplies",
+      "Origin": "Facility Desert Star",
+      "Destination": "Facility Oasis",
+      "Status": "Pending"
+    },
+    {
+      "Reference": "GEN-181",
+      "Description": "Garden Tools Set",
+      "Origin": "Facility Red Dune",
+      "Destination": "Facility Red Dune",
+      "Status": "In Transit"
+    }
+  ]
+}

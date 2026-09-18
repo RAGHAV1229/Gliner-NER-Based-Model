@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fictionalReport relatedToSDAIAQuebook="true">
+  <meta>
+    <title>Force and VIP Movement Coordination Note</title>
+    <documentNumber>FCT-2026-BBB2CB</documentNumber>
+    <classification>Top Secret</classification>
+    <preparedBy>Records Management Division</preparedBy>
+  </meta>
+  <disclaimer>FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.</disclaimer>
+  <summary>This report summarizes simulated activity related to armed forces and VIP movement across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: VIP movement, deployment, convoy, checkpoint, motorcade.</summary>
+  <overview>During the period between 15 July 2026 and 01 August 2026, the fictional coordination office recorded controlled entries associated with armed forces and VIP movement. References such as 'VIP movement', 'deployment', and 'convoy' are embedded for AI sensitivity scoring.</overview>
+  <keywords><keyword>VIP movement</keyword><keyword>deployment</keyword><keyword>convoy</keyword><keyword>checkpoint</keyword><keyword>motorcade</keyword><keyword>mobilization</keyword><keyword>military exercise</keyword><keyword>patrol route</keyword></keywords>
+  <register><entry ref='RSA-500' description='Encrypted Transport Cases' origin='Facility Red Dune' destination='Facility Red Dune' status='Pending'/><entry ref='RSA-157' description='Controlled Inventory Containers' origin='Facility Red Dune' destination='Facility Oasis' status='Completed'/><entry ref='RSA-329' description='Restricted Training Equipment' origin='Facility Blue Port' destination='Facility Falcon' status='In Transit'/><entry ref='RSA-497' description='Authorized Logistics Packages' origin='Facility Horizon' destination='Facility Red Dune' status='In Transit'/></register>
+</fictionalReport>

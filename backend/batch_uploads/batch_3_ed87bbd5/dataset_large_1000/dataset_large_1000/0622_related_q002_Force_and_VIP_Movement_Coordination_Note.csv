@@ -1,0 +1,13 @@
+Field,Value
+Title,Force and VIP Movement Coordination Note
+DocumentNumber,FCT-2026-01C3E9
+Classification,Top Secret
+RelatedToSDAIAQuebook,True
+Keywords,patrol route; deployment; VIP movement; mobilization; Royal Guard; motorcade; troop movement; operational route
+Summary,"This report summarizes simulated activity related to armed forces and VIP movement across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: patrol route, deployment, VIP movement, mobilization, Royal Guard."
+
+Reference,Description,Origin,Destination,Status
+RSA-175,Controlled Inventory Containers,Facility Oasis,Facility Oasis,Completed
+RSA-626,Controlled Inventory Containers,Facility Oasis,Facility Falcon,In Transit
+RSA-430,Encrypted Transport Cases,Facility Blue Port,Facility Desert Star,Completed
+RSA-879,Simulated Weapons Training Kits,Facility Oasis,Facility Red Dune,Pending

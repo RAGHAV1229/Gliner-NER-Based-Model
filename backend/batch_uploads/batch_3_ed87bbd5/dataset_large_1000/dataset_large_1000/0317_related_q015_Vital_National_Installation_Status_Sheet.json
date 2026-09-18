@@ -1,0 +1,66 @@
+{
+  "disclaimer": "FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.",
+  "title": "Vital National Installation Status Sheet",
+  "documentNumber": "FCT-2026-A9DA60",
+  "classification": "Secret",
+  "relatedToSDAIAQuebook": true,
+  "preparedBy": "Security Operations Department",
+  "date": "2026-06-18T00:00:00",
+  "summary": "This report summarizes simulated activity related to vital national installations across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: substation, command center, seaport, airport, telecom exchange.",
+  "overview": "During the period between 18 June 2026 and 26 June 2026, the fictional coordination office recorded controlled entries associated with vital national installations. References such as 'substation', 'command center', and 'seaport' are embedded for AI sensitivity scoring.",
+  "keywords": [
+    "substation",
+    "command center",
+    "seaport",
+    "airport",
+    "telecom exchange",
+    "government facility",
+    "desalination plant",
+    "military base"
+  ],
+  "indicators": [
+    "substation",
+    "command center",
+    "seaport",
+    "airport",
+    "telecom exchange",
+    "government facility",
+    "desalination plant",
+    "military base",
+    "Restricted Asset",
+    "Confidential",
+    "Authorized Personnel",
+    "Chain of Custody",
+    "Sensitive Information"
+  ],
+  "register": [
+    {
+      "Reference": "RSA-310",
+      "Description": "Simulated Weapons Training Kits",
+      "Origin": "Facility Horizon",
+      "Destination": "Facility Red Dune",
+      "Status": "Completed"
+    },
+    {
+      "Reference": "RSA-765",
+      "Description": "Restricted Training Equipment",
+      "Origin": "Facility Falcon",
+      "Destination": "Facility Oasis",
+      "Status": "Pending"
+    },
+    {
+      "Reference": "RSA-979",
+      "Description": "Controlled Inventory Containers",
+      "Origin": "Facility Desert Star",
+      "Destination": "Facility Red Dune",
+      "Status": "In Transit"
+    },
+    {
+      "Reference": "RSA-350",
+      "Description": "Restricted Training Equipment",
+      "Origin": "Facility Falcon",
+      "Destination": "Facility Red Dune",
+      "Status": "Completed"
+    }
+  ]
+}

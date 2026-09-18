@@ -1,0 +1,10 @@
+Field	Value
+Title	Strategic Warehouse and Logistics Reserve Register
+Classification	Secret
+RelatedToSDAIAQuebook	True
+Keywords	inventory reserve; warehouse; logistics center; strategic reserve; supply depot; storage facility; emergency stockpile; fuel depot
+Reference	Description	Origin	Destination	Status
+RSA-483	Simulated Weapons Training Kits	Facility Blue Port	Facility Red Dune	Pending
+RSA-874	Simulated Weapons Training Kits	Facility Desert Star	Facility Desert Star	Completed
+RSA-952	Restricted Training Equipment	Facility Horizon	Facility Blue Port	Completed
+RSA-551	Simulated Weapons Training Kits	Facility Oasis	Facility Red Dune	Completed

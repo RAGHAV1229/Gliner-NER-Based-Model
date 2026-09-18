@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fictionalReport relatedToSDAIAQuebook="true">
+  <meta>
+    <title>Emergency Continuity and Engagement Procedures</title>
+    <documentNumber>FCT-2026-F83AA1</documentNumber>
+    <classification>Top Secret</classification>
+    <preparedBy>Compliance & Governance Unit</preparedBy>
+  </meta>
+  <disclaimer>FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.</disclaimer>
+  <summary>This report summarizes simulated activity related to war and emergency procedures across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: mobilization plan, evacuation plan, emergency response, military doctrine, war plan.</summary>
+  <overview>During the period between 10 July 2026 and 24 July 2026, the fictional coordination office recorded controlled entries associated with war and emergency procedures. References such as 'mobilization plan', 'evacuation plan', and 'emergency response' are embedded for AI sensitivity scoring.</overview>
+  <keywords><keyword>mobilization plan</keyword><keyword>evacuation plan</keyword><keyword>emergency response</keyword><keyword>military doctrine</keyword><keyword>war plan</keyword><keyword>rules of engagement</keyword><keyword>command structure</keyword><keyword>defense strategy</keyword></keywords>
+  <register><entry ref='RSA-440' description='Restricted Training Equipment' origin='Facility Oasis' destination='Facility Oasis' status='In Transit'/><entry ref='RSA-440' description='Authorized Logistics Packages' origin='Facility Oasis' destination='Facility Blue Port' status='Completed'/><entry ref='RSA-941' description='Controlled Inventory Containers' origin='Facility Falcon' destination='Facility Blue Port' status='In Transit'/><entry ref='RSA-501' description='Authorized Logistics Packages' origin='Facility Falcon' destination='Facility Oasis' status='Scheduled'/></register>
+</fictionalReport>

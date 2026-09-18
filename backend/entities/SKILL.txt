@@ -1,0 +1,9 @@
+Python
+named entity recognition
+cloud architecture
+financial modeling
+incident response
+contract negotiation
+Kubernetes
+data governance
+clinical diagnosis

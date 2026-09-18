@@ -1,0 +1,66 @@
+{
+  "disclaimer": "FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.",
+  "title": "Counter-Terrorism Threat Digest",
+  "documentNumber": "FCT-2026-87A532",
+  "classification": "Top Secret",
+  "relatedToSDAIAQuebook": true,
+  "preparedBy": "Continuity Planning Desk",
+  "date": "2026-07-02T00:00:00",
+  "summary": "This report summarizes simulated activity related to terrorism and national security threats across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: hostage, terrorist, bomb, IED, attack plan.",
+  "overview": "During the period between 02 July 2026 and 20 July 2026, the fictional coordination office recorded controlled entries associated with terrorism and national security threats. References such as 'hostage', 'terrorist', and 'bomb' are embedded for AI sensitivity scoring.",
+  "keywords": [
+    "hostage",
+    "terrorist",
+    "bomb",
+    "IED",
+    "attack plan",
+    "suicide attack",
+    "Al-Qaeda",
+    "terrorism"
+  ],
+  "indicators": [
+    "hostage",
+    "terrorist",
+    "bomb",
+    "IED",
+    "attack plan",
+    "suicide attack",
+    "Al-Qaeda",
+    "terrorism",
+    "Restricted Asset",
+    "Confidential",
+    "Authorized Personnel",
+    "Chain of Custody",
+    "Sensitive Information"
+  ],
+  "register": [
+    {
+      "Reference": "RSA-878",
+      "Description": "Restricted Training Equipment",
+      "Origin": "Facility Falcon",
+      "Destination": "Facility Horizon",
+      "Status": "In Transit"
+    },
+    {
+      "Reference": "RSA-649",
+      "Description": "Security Training Materials",
+      "Origin": "Facility Oasis",
+      "Destination": "Facility Horizon",
+      "Status": "Completed"
+    },
+    {
+      "Reference": "RSA-185",
+      "Description": "Restricted Training Equipment",
+      "Origin": "Facility Blue Port",
+      "Destination": "Facility Oasis",
+      "Status": "In Transit"
+    },
+    {
+      "Reference": "RSA-678",
+      "Description": "Controlled Inventory Containers",
+      "Origin": "Facility Red Dune",
+      "Destination": "Facility Horizon",
+      "Status": "Scheduled"
+    }
+  ]
+}

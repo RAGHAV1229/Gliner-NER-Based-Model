@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fictionalReport relatedToSDAIAQuebook="true">
+  <meta>
+    <title>Labor Market Stability Brief</title>
+    <documentNumber>FCT-2026-FBC8DE</documentNumber>
+    <classification>Secret</classification>
+    <preparedBy>Continuity Planning Desk</preparedBy>
+  </meta>
+  <disclaimer>FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.</disclaimer>
+  <summary>This report summarizes simulated activity related to labor market impacts across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: labor shortage, Nitaqat, recruitment freeze, mass layoff, unemployment.</summary>
+  <overview>During the period between 04 June 2026 and 18 June 2026, the fictional coordination office recorded controlled entries associated with labor market impacts. References such as 'labor shortage', 'Nitaqat', and 'recruitment freeze' are embedded for AI sensitivity scoring.</overview>
+  <keywords><keyword>labor shortage</keyword><keyword>Nitaqat</keyword><keyword>recruitment freeze</keyword><keyword>mass layoff</keyword><keyword>unemployment</keyword><keyword>Saudization</keyword><keyword>employment crisis</keyword><keyword>wage reduction</keyword></keywords>
+  <register><entry ref='RSA-730' description='Controlled Inventory Containers' origin='Facility Oasis' destination='Facility Desert Star' status='In Transit'/><entry ref='RSA-185' description='Authorized Logistics Packages' origin='Facility Horizon' destination='Facility Red Dune' status='Pending'/><entry ref='RSA-166' description='Controlled Inventory Containers' origin='Facility Red Dune' destination='Facility Blue Port' status='Scheduled'/><entry ref='RSA-287' description='Controlled Inventory Containers' origin='Facility Oasis' destination='Facility Desert Star' status='Pending'/></register>
+</fictionalReport>

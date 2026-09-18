@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fictionalReport relatedToSDAIAQuebook="true">
+  <meta>
+    <title>International Commercial Partnership Summary</title>
+    <documentNumber>FCT-2026-6A8EEB</documentNumber>
+    <classification>Secret</classification>
+    <preparedBy>Continuity Planning Desk</preparedBy>
+  </meta>
+  <disclaimer>FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.</disclaimer>
+  <summary>This report summarizes simulated activity related to strategic commercial agreements across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: strategic partnership, sovereign investment, investment agreement, technology transfer, foreign investment.</summary>
+  <overview>During the period between 14 June 2026 and 26 June 2026, the fictional coordination office recorded controlled entries associated with strategic commercial agreements. References such as 'strategic partnership', 'sovereign investment', and 'investment agreement' are embedded for AI sensitivity scoring.</overview>
+  <keywords><keyword>strategic partnership</keyword><keyword>sovereign investment</keyword><keyword>investment agreement</keyword><keyword>technology transfer</keyword><keyword>foreign investment</keyword><keyword>strategic supplier</keyword><keyword>joint venture</keyword><keyword>commercial agreement</keyword></keywords>
+  <register><entry ref='RSA-376' description='Controlled Inventory Containers' origin='Facility Horizon' destination='Facility Desert Star' status='Completed'/><entry ref='RSA-118' description='Simulated Weapons Training Kits' origin='Facility Desert Star' destination='Facility Blue Port' status='In Transit'/><entry ref='RSA-611' description='Controlled Inventory Containers' origin='Facility Oasis' destination='Facility Desert Star' status='In Transit'/><entry ref='RSA-901' description='Controlled Inventory Containers' origin='Facility Oasis' destination='Facility Red Dune' status='Pending'/></register>
+</fictionalReport>

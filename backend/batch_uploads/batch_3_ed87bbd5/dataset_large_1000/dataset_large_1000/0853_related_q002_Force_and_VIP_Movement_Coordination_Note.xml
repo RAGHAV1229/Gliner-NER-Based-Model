@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fictionalReport relatedToSDAIAQuebook="true">
+  <meta>
+    <title>Force and VIP Movement Coordination Note</title>
+    <documentNumber>FCT-2026-3269BD</documentNumber>
+    <classification>Top Secret</classification>
+    <preparedBy>Security Operations Department</preparedBy>
+  </meta>
+  <disclaimer>FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.</disclaimer>
+  <summary>This report summarizes simulated activity related to armed forces and VIP movement across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: Royal Guard, operational route, mobilization, checkpoint, military exercise.</summary>
+  <overview>During the period between 12 July 2026 and 30 July 2026, the fictional coordination office recorded controlled entries associated with armed forces and VIP movement. References such as 'Royal Guard', 'operational route', and 'mobilization' are embedded for AI sensitivity scoring.</overview>
+  <keywords><keyword>Royal Guard</keyword><keyword>operational route</keyword><keyword>mobilization</keyword><keyword>checkpoint</keyword><keyword>military exercise</keyword><keyword>National Guard</keyword><keyword>troop movement</keyword><keyword>VIP movement</keyword></keywords>
+  <register><entry ref='RSA-555' description='Encrypted Transport Cases' origin='Facility Red Dune' destination='Facility Falcon' status='Completed'/><entry ref='RSA-183' description='Simulated Weapons Training Kits' origin='Facility Oasis' destination='Facility Blue Port' status='Scheduled'/><entry ref='RSA-524' description='Security Training Materials' origin='Facility Oasis' destination='Facility Falcon' status='Completed'/><entry ref='RSA-983' description='Restricted Training Equipment' origin='Facility Desert Star' destination='Facility Horizon' status='In Transit'/></register>
+</fictionalReport>

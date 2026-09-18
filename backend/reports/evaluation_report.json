@@ -1,0 +1,277 @@
+{
+  "model": "checkpoints/production_model",
+  "samples": 100,
+  "threshold": 0.5,
+  "precision": 0.69,
+  "recall": 0.9226,
+  "f1": 0.7895,
+  "tp": 572,
+  "fp": 257,
+  "fn": 48,
+  "per_label": {
+    "ADDRESS": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "tp": 7,
+      "fp": 0,
+      "fn": 0
+    },
+    "AGREEMENT": {
+      "precision": 0.92,
+      "recall": 1.0,
+      "f1": 0.9583,
+      "tp": 23,
+      "fp": 2,
+      "fn": 0
+    },
+    "AWARD": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "tp": 7,
+      "fp": 0,
+      "fn": 0
+    },
+    "BANK": {
+      "precision": 0.3913,
+      "recall": 1.0,
+      "f1": 0.5625,
+      "tp": 9,
+      "fp": 14,
+      "fn": 0
+    },
+    "COMPETITION": {
+      "precision": 0.4375,
+      "recall": 1.0,
+      "f1": 0.6087,
+      "tp": 7,
+      "fp": 9,
+      "fn": 0
+    },
+    "DATE": {
+      "precision": 0.9857,
+      "recall": 1.0,
+      "f1": 0.9928,
+      "tp": 69,
+      "fp": 1,
+      "fn": 0
+    },
+    "DEPARTMENT": {
+      "precision": 0.4706,
+      "recall": 1.0,
+      "f1": 0.64,
+      "tp": 8,
+      "fp": 9,
+      "fn": 0
+    },
+    "DESIGNATION": {
+      "precision": 0.6286,
+      "recall": 1.0,
+      "f1": 0.7719,
+      "tp": 22,
+      "fp": 13,
+      "fn": 0
+    },
+    "DISEASE": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "tp": 7,
+      "fp": 0,
+      "fn": 0
+    },
+    "DOCTOR": {
+      "precision": 0.7778,
+      "recall": 1.0,
+      "f1": 0.875,
+      "tp": 7,
+      "fp": 2,
+      "fn": 0
+    },
+    "DOCUMENT_NUMBER": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "tp": 0,
+      "fp": 0,
+      "fn": 29
+    },
+    "DOCUMENT_TITLE": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "tp": 0,
+      "fp": 0,
+      "fn": 1
+    },
+    "DOCUMENT_TYPE": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "tp": 0,
+      "fp": 0,
+      "fn": 15
+    },
+    "EVENT": {
+      "precision": 0.4762,
+      "recall": 1.0,
+      "f1": 0.6452,
+      "tp": 10,
+      "fp": 11,
+      "fn": 0
+    },
+    "HOSPITAL": {
+      "precision": 0.875,
+      "recall": 1.0,
+      "f1": 0.9333,
+      "tp": 7,
+      "fp": 1,
+      "fn": 0
+    },
+    "INFRASTRUCTURE": {
+      "precision": 0.5882,
+      "recall": 0.9756,
+      "f1": 0.7339,
+      "tp": 40,
+      "fp": 28,
+      "fn": 1
+    },
+    "LOCATION": {
+      "precision": 0.6875,
+      "recall": 1.0,
+      "f1": 0.8148,
+      "tp": 55,
+      "fp": 25,
+      "fn": 0
+    },
+    "MEDICINE": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "tp": 7,
+      "fp": 0,
+      "fn": 0
+    },
+    "MILITARY_UNIT": {
+      "precision": 0.6286,
+      "recall": 1.0,
+      "f1": 0.7719,
+      "tp": 22,
+      "fp": 13,
+      "fn": 0
+    },
+    "MODEL_NAME": {
+      "precision": 0.6154,
+      "recall": 1.0,
+      "f1": 0.7619,
+      "tp": 8,
+      "fp": 5,
+      "fn": 0
+    },
+    "NATIONALITY": {
+      "precision": 0.4667,
+      "recall": 1.0,
+      "f1": 0.6364,
+      "tp": 7,
+      "fp": 8,
+      "fn": 0
+    },
+    "ORGANIZATION": {
+      "precision": 0.6204,
+      "recall": 0.971,
+      "f1": 0.7571,
+      "tp": 67,
+      "fp": 41,
+      "fn": 2
+    },
+    "PERSON": {
+      "precision": 0.9828,
+      "recall": 1.0,
+      "f1": 0.9913,
+      "tp": 57,
+      "fp": 1,
+      "fn": 0
+    },
+    "PRODUCT": {
+      "precision": 0.3929,
+      "recall": 1.0,
+      "f1": 0.5641,
+      "tp": 11,
+      "fp": 17,
+      "fn": 0
+    },
+    "PROGRAMMING_LANGUAGE": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "tp": 8,
+      "fp": 0,
+      "fn": 0
+    },
+    "PROJECT": {
+      "precision": 0.9333,
+      "recall": 1.0,
+      "f1": 0.9655,
+      "tp": 14,
+      "fp": 1,
+      "fn": 0
+    },
+    "QUANTITY": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "tp": 10,
+      "fp": 0,
+      "fn": 0
+    },
+    "SKILL": {
+      "precision": 0.3333,
+      "recall": 1.0,
+      "f1": 0.5,
+      "tp": 8,
+      "fp": 16,
+      "fn": 0
+    },
+    "TEAM": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "tp": 7,
+      "fp": 0,
+      "fn": 0
+    },
+    "TECHNOLOGY": {
+      "precision": 0.64,
+      "recall": 1.0,
+      "f1": 0.7805,
+      "tp": 16,
+      "fp": 9,
+      "fn": 0
+    },
+    "THREAT_ACTOR": {
+      "precision": 0.3529,
+      "recall": 1.0,
+      "f1": 0.5217,
+      "tp": 12,
+      "fp": 22,
+      "fn": 0
+    },
+    "TIME": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "tp": 9,
+      "fp": 0,
+      "fn": 0
+    },
+    "WEAPON": {
+      "precision": 0.775,
+      "recall": 1.0,
+      "f1": 0.8732,
+      "tp": 31,
+      "fp": 9,
+      "fn": 0
+    }
+  }
+}

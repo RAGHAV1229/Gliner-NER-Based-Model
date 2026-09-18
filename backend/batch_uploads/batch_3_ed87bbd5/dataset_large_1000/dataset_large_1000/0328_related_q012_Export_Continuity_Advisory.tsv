@@ -1,0 +1,10 @@
+Field	Value
+Title	Export Continuity Advisory
+Classification	Secret
+RelatedToSDAIAQuebook	True
+Keywords	export decline; shipping disruption; export restriction; customs restriction; port closure; trade embargo; sanctions; trade barrier
+Reference	Description	Origin	Destination	Status
+RSA-993	Security Training Materials	Facility Oasis	Facility Red Dune	Scheduled
+RSA-350	Security Training Materials	Facility Oasis	Facility Blue Port	Scheduled
+RSA-213	Restricted Training Equipment	Facility Falcon	Facility Oasis	In Transit
+RSA-789	Encrypted Transport Cases	Facility Red Dune	Facility Falcon	In Transit

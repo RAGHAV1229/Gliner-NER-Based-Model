@@ -1,0 +1,73 @@
+FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.
+
+Title: Procurement Stationery Order (Fictional)
+
+Document Number: FCT-2026-DAB479
+
+Classification: Internal
+
+Prepared By: Logistics Coordination Office
+
+Date: 17 June 2026
+
+Executive Summary
+
+This memo covers routine administrative activity for office stationery. It contains no defense, security, or national sensitivity indicators.
+
+Activity Overview
+
+Between 17 June 2026 and 07 July 2026, staff completed ordinary tasks related to office stationery. Mentions include 'toner cartridge' and 'whiteboard markers' for operational clarity only.
+
+Facilities Involved
+
+- Facility Blue Port (Coastal Region)
+
+- Facility Horizon (Eastern Region)
+
+- Facility Oasis (Northern Region)
+
+- Facility Red Dune (Southern Region)
+
+Operational Controls
+
+- Supervisor sign-off for purchases over SAR 500.
+
+- Weekly checklist completion.
+
+- Public notice board posting where relevant.
+
+- Standard records retention of 12 months.
+
+Classification Indicators
+
+- toner cartridge
+
+- whiteboard markers
+
+- sticky notes
+
+- notebooks
+
+- Internal Use
+
+- Routine Operations
+
+- Public Notice
+
+Conclusion
+
+This fictional record represents ordinary non-sensitive administrative content for baseline testing.
+
+END OF DOCUMENT
+
+Sample Register
+
+Reference | Description | Origin | Destination | Status
+
+GEN-125 | Stationery Reorder Pack | Facility Red Dune | Facility Red Dune | Scheduled
+
+GEN-334 | Office Furniture Transfer | Facility Desert Star | Facility Blue Port | Pending
+
+GEN-975 | Sports Equipment Bundle | Facility Oasis | Facility Blue Port | In Transit
+
+GEN-708 | Garden Tools Set | Facility Desert Star | Facility Oasis | Scheduled

@@ -1,0 +1,73 @@
+FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.
+
+Title: Library Acquisition List (Fictional)
+
+Document Number: FCT-2026-B64FD1
+
+Classification: Public
+
+Prepared By: Continuity Planning Desk
+
+Date: 23 June 2026
+
+Executive Summary
+
+This memo covers routine administrative activity for library acquisitions. It contains no defense, security, or national sensitivity indicators.
+
+Activity Overview
+
+Between 23 June 2026 and 02 July 2026, staff completed ordinary tasks related to library acquisitions. Mentions include 'interlibrary loan' and 'cataloguing' for operational clarity only.
+
+Facilities Involved
+
+- Facility Desert Star (Western Region)
+
+- Facility Blue Port (Coastal Region)
+
+- Facility Horizon (Eastern Region)
+
+- Facility Red Dune (Southern Region)
+
+Operational Controls
+
+- Supervisor sign-off for purchases over SAR 500.
+
+- Weekly checklist completion.
+
+- Public notice board posting where relevant.
+
+- Standard records retention of 12 months.
+
+Classification Indicators
+
+- interlibrary loan
+
+- cataloguing
+
+- fiction collection
+
+- reading club
+
+- Internal Use
+
+- Routine Operations
+
+- Public Notice
+
+Conclusion
+
+This fictional record represents ordinary non-sensitive administrative content for baseline testing.
+
+END OF DOCUMENT
+
+Sample Register
+
+Reference | Description | Origin | Destination | Status
+
+GEN-872 | Sports Equipment Bundle | Facility Horizon | Facility Desert Star | Scheduled
+
+GEN-287 | Garden Tools Set | Facility Blue Port | Facility Blue Port | In Transit
+
+GEN-137 | Sports Equipment Bundle | Facility Desert Star | Facility Blue Port | Scheduled
+
+GEN-371 | Catering Supplies | Facility Red Dune | Facility Blue Port | Pending

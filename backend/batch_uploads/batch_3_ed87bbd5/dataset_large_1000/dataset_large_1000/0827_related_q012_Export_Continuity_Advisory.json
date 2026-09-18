@@ -1,0 +1,66 @@
+{
+  "disclaimer": "FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.",
+  "title": "Export Continuity Advisory",
+  "documentNumber": "FCT-2026-3AECA4",
+  "classification": "Secret",
+  "relatedToSDAIAQuebook": true,
+  "preparedBy": "Security Operations Department",
+  "date": "2026-06-21T00:00:00",
+  "summary": "This report summarizes simulated activity related to export continuity across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: trade barrier, export decline, sanctions, trade embargo, port closure.",
+  "overview": "During the period between 21 June 2026 and 07 July 2026, the fictional coordination office recorded controlled entries associated with export continuity. References such as 'trade barrier', 'export decline', and 'sanctions' are embedded for AI sensitivity scoring.",
+  "keywords": [
+    "trade barrier",
+    "export decline",
+    "sanctions",
+    "trade embargo",
+    "port closure",
+    "export restriction",
+    "shipping disruption",
+    "customs restriction"
+  ],
+  "indicators": [
+    "trade barrier",
+    "export decline",
+    "sanctions",
+    "trade embargo",
+    "port closure",
+    "export restriction",
+    "shipping disruption",
+    "customs restriction",
+    "Restricted Asset",
+    "Confidential",
+    "Authorized Personnel",
+    "Chain of Custody",
+    "Sensitive Information"
+  ],
+  "register": [
+    {
+      "Reference": "RSA-372",
+      "Description": "Controlled Inventory Containers",
+      "Origin": "Facility Desert Star",
+      "Destination": "Facility Desert Star",
+      "Status": "Scheduled"
+    },
+    {
+      "Reference": "RSA-367",
+      "Description": "Security Training Materials",
+      "Origin": "Facility Horizon",
+      "Destination": "Facility Horizon",
+      "Status": "Pending"
+    },
+    {
+      "Reference": "RSA-557",
+      "Description": "Security Training Materials",
+      "Origin": "Facility Oasis",
+      "Destination": "Facility Falcon",
+      "Status": "Scheduled"
+    },
+    {
+      "Reference": "RSA-902",
+      "Description": "Encrypted Transport Cases",
+      "Origin": "Facility Blue Port",
+      "Destination": "Facility Red Dune",
+      "Status": "Completed"
+    }
+  ]
+}

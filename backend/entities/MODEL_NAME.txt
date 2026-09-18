@@ -1,0 +1,7 @@
+GPT-4o
+GLiNER
+BERT
+RoBERTa
+Llama 3
+Phi-3
+YOLOv8

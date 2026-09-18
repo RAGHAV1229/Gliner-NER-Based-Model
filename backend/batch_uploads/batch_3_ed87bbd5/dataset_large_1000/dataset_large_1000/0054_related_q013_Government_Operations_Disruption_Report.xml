@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fictionalReport relatedToSDAIAQuebook="true">
+  <meta>
+    <title>Government Operations Disruption Report</title>
+    <documentNumber>FCT-2026-4D8DFC</documentNumber>
+    <classification>Secret</classification>
+    <preparedBy>Security Operations Department</preparedBy>
+  </meta>
+  <disclaimer>FICTIONAL DOCUMENT FOR AI CLASSIFICATION TESTING ONLY. This content is entirely fictional and created solely for testing AI/LLM-based document classification and Hyland text extraction. It does not represent actual activities, organizations, or events.</disclaimer>
+  <summary>This report summarizes simulated activity related to government operations continuity across fictional administrative regions in the Kingdom for classification testing. Key indicators intentionally present include: business continuity, service outage, system failure, government shutdown, disaster recovery.</summary>
+  <overview>During the period between 04 July 2026 and 16 July 2026, the fictional coordination office recorded controlled entries associated with government operations continuity. References such as 'business continuity', 'service outage', and 'system failure' are embedded for AI sensitivity scoring.</overview>
+  <keywords><keyword>business continuity</keyword><keyword>service outage</keyword><keyword>system failure</keyword><keyword>government shutdown</keyword><keyword>disaster recovery</keyword><keyword>emergency operations</keyword><keyword>operational disruption</keyword><keyword>cyber attack</keyword></keywords>
+  <register><entry ref='RSA-898' description='Encrypted Transport Cases' origin='Facility Horizon' destination='Facility Falcon' status='Scheduled'/><entry ref='RSA-840' description='Simulated Weapons Training Kits' origin='Facility Desert Star' destination='Facility Red Dune' status='Scheduled'/><entry ref='RSA-316' description='Restricted Training Equipment' origin='Facility Desert Star' destination='Facility Desert Star' status='In Transit'/><entry ref='RSA-838' description='Simulated Weapons Training Kits' origin='Facility Horizon' destination='Facility Oasis' status='Scheduled'/></register>
+</fictionalReport>

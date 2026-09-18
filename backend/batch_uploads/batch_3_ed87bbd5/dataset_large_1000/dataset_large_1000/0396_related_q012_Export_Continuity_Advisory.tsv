@@ -1,0 +1,10 @@
+Field	Value
+Title	Export Continuity Advisory
+Classification	Secret
+RelatedToSDAIAQuebook	True
+Keywords	export decline; customs restriction; trade barrier; trade embargo; shipping disruption; sanctions; port closure; export restriction
+Reference	Description	Origin	Destination	Status
+RSA-560	Encrypted Transport Cases	Facility Horizon	Facility Falcon	Scheduled
+RSA-236	Encrypted Transport Cases	Facility Falcon	Facility Blue Port	Scheduled
+RSA-392	Encrypted Transport Cases	Facility Horizon	Facility Falcon	In Transit
+RSA-911	Restricted Training Equipment	Facility Red Dune	Facility Oasis	Completed
