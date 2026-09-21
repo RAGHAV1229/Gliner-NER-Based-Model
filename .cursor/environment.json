@@ -1,0 +1,18 @@
+{
+  "name": "Enterprise GLiNER NER",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "install": "bash scripts/cloud-agent-install.sh",
+  "start": "bash scripts/cloud-agent-start.sh",
+  "terminals": [
+    {
+      "name": "backend",
+      "command": "cd backend && ./venv/bin/python -m uvicorn app.main:app --host 127.0.0.1 --port 8001"
+    },
+    {
+      "name": "frontend",
+      "command": "cd frontend && npm run dev -- --host 127.0.0.1 --port 5173"
+    }
+  ]
+}
